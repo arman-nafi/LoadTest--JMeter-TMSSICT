@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1685788740189,8726,SMS-SERVICES,200,OK,TMSSICT 1-6,text,true,,69693,253,93,93,https://tmss-ict.com/sms-services/,7841,0,961
+1685788740189,7846,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-6,text,true,,689,126,93,93,https://tmss-ict.com/sms-services,7841,0,961
+1685788748038,877,SMS-SERVICES-1,200,OK,TMSSICT 1-6,text,true,,69004,127,93,93,https://tmss-ict.com/sms-services/,582,0,0
+1685788747192,1752,SMS-SERVICES,200,OK,TMSSICT 1-76,text,true,,69620,253,92,92,https://tmss-ict.com/sms-services/,880,0,594
+1685788747192,880,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-76,text,true,,616,126,92,92,https://tmss-ict.com/sms-services,880,0,594
+1685788748072,872,SMS-SERVICES-1,200,OK,TMSSICT 1-76,text,true,,69004,127,92,92,https://tmss-ict.com/sms-services/,576,0,0
+1685788747291,1761,SMS-SERVICES,200,OK,TMSSICT 1-77,text,true,,69620,253,92,92,https://tmss-ict.com/sms-services/,888,0,598
+1685788747291,888,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-77,text,true,,616,126,92,92,https://tmss-ict.com/sms-services,888,0,598
+1685788748179,873,SMS-SERVICES-1,200,OK,TMSSICT 1-77,text,true,,69004,127,92,92,https://tmss-ict.com/sms-services/,584,0,0
+1685788747391,1732,SMS-SERVICES,200,OK,TMSSICT 1-78,text,true,,69620,253,92,92,https://tmss-ict.com/sms-services/,877,0,592
+1685788747391,877,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-78,text,true,,616,126,92,92,https://tmss-ict.com/sms-services,877,0,592
+1685788748268,855,SMS-SERVICES-1,200,OK,TMSSICT 1-78,text,true,,69004,127,92,92,https://tmss-ict.com/sms-services/,571,0,0
+1685788747492,1740,SMS-SERVICES,200,OK,TMSSICT 1-79,text,true,,69620,253,92,92,https://tmss-ict.com/sms-services/,880,0,593
+1685788747492,880,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-79,text,true,,616,126,92,92,https://tmss-ict.com/sms-services,880,0,593
+1685788748372,860,SMS-SERVICES-1,200,OK,TMSSICT 1-79,text,true,,69004,127,92,92,https://tmss-ict.com/sms-services/,575,0,0
+1685788739895,9366,SMS-SERVICES,200,OK,TMSSICT 1-3,text,true,,69693,253,91,91,https://tmss-ict.com/sms-services/,8514,0,1282
+1685788739895,8514,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-3,text,true,,689,126,91,91,https://tmss-ict.com/sms-services,8514,0,1282
+1685788748409,852,SMS-SERVICES-1,200,OK,TMSSICT 1-3,text,true,,69004,127,91,91,https://tmss-ict.com/sms-services/,568,0,0
+1685788747590,1729,SMS-SERVICES,200,OK,TMSSICT 1-80,text,true,,69620,253,91,91,https://tmss-ict.com/sms-services/,867,0,582
+1685788747590,867,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-80,text,true,,616,126,91,91,https://tmss-ict.com/sms-services,867,0,582
+1685788748458,861,SMS-SERVICES-1,200,OK,TMSSICT 1-80,text,true,,69004,127,91,91,https://tmss-ict.com/sms-services/,572,0,0
+1685788747691,1774,SMS-SERVICES,200,OK,TMSSICT 1-81,text,true,,69620,253,91,91,https://tmss-ict.com/sms-services/,898,0,601
+1685788747691,898,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-81,text,true,,616,126,91,91,https://tmss-ict.com/sms-services,898,0,601
+1685788748589,876,SMS-SERVICES-1,200,OK,TMSSICT 1-81,text,true,,69004,127,91,91,https://tmss-ict.com/sms-services/,589,0,0
+1685788739990,9498,SMS-SERVICES,200,OK,TMSSICT 1-4,text,true,,69693,253,90,90,https://tmss-ict.com/sms-services/,8625,0,1132
+1685788739990,8625,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-4,text,true,,689,126,90,90,https://tmss-ict.com/sms-services,8625,0,1132
+1685788748616,872,SMS-SERVICES-1,200,OK,TMSSICT 1-4,text,true,,69004,127,90,90,https://tmss-ict.com/sms-services/,571,0,0
+1685788747791,1719,SMS-SERVICES,200,OK,TMSSICT 1-82,text,true,,69620,253,90,90,https://tmss-ict.com/sms-services/,864,0,580
+1685788747791,864,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-82,text,true,,616,126,90,90,https://tmss-ict.com/sms-services,864,0,580
+1685788748655,855,SMS-SERVICES-1,200,OK,TMSSICT 1-82,text,true,,69004,127,90,90,https://tmss-ict.com/sms-services/,571,0,0
+1685788747891,1732,SMS-SERVICES,200,OK,TMSSICT 1-83,text,true,,69620,253,90,90,https://tmss-ict.com/sms-services/,878,0,593
+1685788747891,878,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-83,text,true,,616,126,90,90,https://tmss-ict.com/sms-services,878,0,593
+1685788748769,854,SMS-SERVICES-1,200,OK,TMSSICT 1-83,text,true,,69004,127,90,90,https://tmss-ict.com/sms-services/,569,0,0
+1685788740487,9170,SMS-SERVICES,200,OK,TMSSICT 1-9,text,true,,69693,253,89,89,https://tmss-ict.com/sms-services/,8322,0,640
+1685788740487,8322,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-9,text,true,,689,126,89,89,https://tmss-ict.com/sms-services,8322,0,640
+1685788748809,848,SMS-SERVICES-1,200,OK,TMSSICT 1-9,text,true,,69004,127,89,89,https://tmss-ict.com/sms-services/,292,0,0
+1685788740788,8891,SMS-SERVICES,200,OK,TMSSICT 1-12,text,true,,69693,253,88,88,https://tmss-ict.com/sms-services/,8026,0,658
+1685788740788,8026,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-12,text,true,,689,126,88,88,https://tmss-ict.com/sms-services,8026,0,658
+1685788748814,865,SMS-SERVICES-1,200,OK,TMSSICT 1-12,text,true,,69004,127,88,88,https://tmss-ict.com/sms-services/,579,0,0
+1685788739892,9793,SMS-SERVICES,200,OK,TMSSICT 1-2,text,true,,69693,253,87,87,https://tmss-ict.com/sms-services/,8921,0,1214
+1685788739892,8921,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-2,text,true,,689,126,87,87,https://tmss-ict.com/sms-services,8921,0,1214
+1685788748814,871,SMS-SERVICES-1,200,OK,TMSSICT 1-2,text,true,,69004,127,87,87,https://tmss-ict.com/sms-services/,292,0,0
+1685788747989,1727,SMS-SERVICES,200,OK,TMSSICT 1-84,text,true,,69620,253,86,86,https://tmss-ict.com/sms-services/,873,0,590
+1685788747989,873,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-84,text,true,,616,126,86,86,https://tmss-ict.com/sms-services,873,0,590
+1685788748863,853,SMS-SERVICES-1,200,OK,TMSSICT 1-84,text,true,,69004,127,86,86,https://tmss-ict.com/sms-services/,567,0,0
+1685788748090,1723,SMS-SERVICES,200,OK,TMSSICT 1-85,text,true,,69620,253,85,85,https://tmss-ict.com/sms-services/,865,0,581
+1685788748090,865,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-85,text,true,,616,126,85,85,https://tmss-ict.com/sms-services,865,0,581
+1685788748955,858,SMS-SERVICES-1,200,OK,TMSSICT 1-85,text,true,,69004,127,85,85,https://tmss-ict.com/sms-services/,567,0,0
+1685788740290,9604,SMS-SERVICES,200,OK,TMSSICT 1-7,text,true,,69693,253,84,84,https://tmss-ict.com/sms-services/,8727,0,832
+1685788740290,8727,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-7,text,true,,689,126,84,84,https://tmss-ict.com/sms-services,8727,0,832
+1685788749017,877,SMS-SERVICES-1,200,OK,TMSSICT 1-7,text,true,,69004,127,84,84,https://tmss-ict.com/sms-services/,586,0,0
+1685788748191,1723,SMS-SERVICES,200,OK,TMSSICT 1-86,text,true,,69620,253,83,83,https://tmss-ict.com/sms-services/,873,0,591
+1685788748191,873,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-86,text,true,,616,126,83,83,https://tmss-ict.com/sms-services,873,0,591
+1685788749064,850,SMS-SERVICES-1,200,OK,TMSSICT 1-86,text,true,,69004,127,83,83,https://tmss-ict.com/sms-services/,563,0,0
+1685788748291,1761,SMS-SERVICES,200,OK,TMSSICT 1-87,text,true,,69620,253,82,82,https://tmss-ict.com/sms-services/,888,0,599
+1685788748291,888,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-87,text,true,,616,126,82,82,https://tmss-ict.com/sms-services,888,0,599
+1685788749180,872,SMS-SERVICES-1,200,OK,TMSSICT 1-87,text,true,,69004,127,82,82,https://tmss-ict.com/sms-services/,584,0,0
+1685788740389,9716,SMS-SERVICES,200,OK,TMSSICT 1-8,text,true,,69693,253,81,81,https://tmss-ict.com/sms-services/,8832,0,786
+1685788740389,8832,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-8,text,true,,689,126,81,81,https://tmss-ict.com/sms-services,8832,0,786
+1685788749221,884,SMS-SERVICES-1,200,OK,TMSSICT 1-8,text,true,,69004,127,81,81,https://tmss-ict.com/sms-services/,590,0,0
+1685788748390,1768,SMS-SERVICES,200,OK,TMSSICT 1-88,text,true,,69620,253,80,80,https://tmss-ict.com/sms-services/,882,0,592
+1685788748390,882,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-88,text,true,,616,126,80,80,https://tmss-ict.com/sms-services,882,0,592
+1685788749272,886,SMS-SERVICES-1,200,OK,TMSSICT 1-88,text,true,,69004,127,80,80,https://tmss-ict.com/sms-services/,594,0,0
+1685788748497,1797,SMS-SERVICES,200,OK,TMSSICT 1-89,text,true,,69620,253,79,79,https://tmss-ict.com/sms-services/,916,0,607
+1685788748497,916,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-89,text,true,,616,126,79,79,https://tmss-ict.com/sms-services,916,0,607
+1685788749414,880,SMS-SERVICES-1,200,OK,TMSSICT 1-89,text,true,,69004,127,79,79,https://tmss-ict.com/sms-services/,587,0,0
+1685788748590,1706,SMS-SERVICES,200,OK,TMSSICT 1-90,text,true,,69620,253,78,78,https://tmss-ict.com/sms-services/,861,0,580
+1685788748590,861,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-90,text,true,,616,126,78,78,https://tmss-ict.com/sms-services,861,0,580
+1685788749451,845,SMS-SERVICES-1,200,OK,TMSSICT 1-90,text,true,,69004,127,78,78,https://tmss-ict.com/sms-services/,563,0,0
+1685788739892,10496,SMS-SERVICES,200,OK,TMSSICT 1-1,text,true,,69693,253,77,77,https://tmss-ict.com/sms-services/,9625,0,1256
+1685788739892,9625,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-1,text,true,,689,126,77,77,https://tmss-ict.com/sms-services,9625,0,1256
+1685788749519,869,SMS-SERVICES-1,200,OK,TMSSICT 1-1,text,true,,69004,127,77,77,https://tmss-ict.com/sms-services/,580,0,0
+1685788748689,1748,SMS-SERVICES,200,OK,TMSSICT 1-91,text,true,,69620,253,76,76,https://tmss-ict.com/sms-services/,869,0,586
+1685788748689,869,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-91,text,true,,616,126,76,76,https://tmss-ict.com/sms-services,869,0,586
+1685788749558,879,SMS-SERVICES-1,200,OK,TMSSICT 1-91,text,true,,69004,127,76,76,https://tmss-ict.com/sms-services/,575,0,0
+1685788748789,1767,SMS-SERVICES,200,OK,TMSSICT 1-92,text,true,,69620,253,75,75,https://tmss-ict.com/sms-services/,901,0,611
+1685788748789,901,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-92,text,true,,616,126,75,75,https://tmss-ict.com/sms-services,901,0,611
+1685788749690,866,SMS-SERVICES-1,200,OK,TMSSICT 1-92,text,true,,69004,127,75,75,https://tmss-ict.com/sms-services/,579,0,0
+1685788748890,1766,SMS-SERVICES,200,OK,TMSSICT 1-93,text,true,,69620,253,74,74,https://tmss-ict.com/sms-services/,905,0,609
+1685788748890,905,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-93,text,true,,616,126,74,74,https://tmss-ict.com/sms-services,905,0,609
+1685788749795,861,SMS-SERVICES-1,200,OK,TMSSICT 1-93,text,true,,69004,127,74,74,https://tmss-ict.com/sms-services/,574,0,0
+1685788740088,10581,SMS-SERVICES,200,OK,TMSSICT 1-5,text,true,,69693,253,73,73,https://tmss-ict.com/sms-services/,9720,0,1045
+1685788740088,9720,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-5,text,true,,689,126,73,73,https://tmss-ict.com/sms-services,9720,0,1045
+1685788749807,862,SMS-SERVICES-1,200,OK,TMSSICT 1-5,text,true,,69004,127,73,73,https://tmss-ict.com/sms-services/,287,0,0
+1685788740719,9954,SMS-SERVICES,200,OK,TMSSICT 1-10,text,true,,69693,253,72,72,https://tmss-ict.com/sms-services/,9093,0,609
+1685788740719,9093,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-10,text,true,,689,126,72,72,https://tmss-ict.com/sms-services,9093,0,609
+1685788749811,862,SMS-SERVICES-1,200,OK,TMSSICT 1-10,text,true,,69004,127,72,72,https://tmss-ict.com/sms-services/,573,0,0
+1685788748989,1757,SMS-SERVICES,200,OK,TMSSICT 1-94,text,true,,69620,253,71,71,https://tmss-ict.com/sms-services/,887,0,598
+1685788748989,887,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-94,text,true,,616,126,71,71,https://tmss-ict.com/sms-services,887,0,598
+1685788749875,871,SMS-SERVICES-1,200,OK,TMSSICT 1-94,text,true,,69004,127,71,71,https://tmss-ict.com/sms-services/,582,0,0
+1685788749102,1728,SMS-SERVICES,200,OK,TMSSICT 1-95,text,true,,69620,253,70,70,https://tmss-ict.com/sms-services/,871,0,588
+1685788749102,871,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-95,text,true,,616,126,70,70,https://tmss-ict.com/sms-services,871,0,588
+1685788749973,857,SMS-SERVICES-1,200,OK,TMSSICT 1-95,text,true,,69004,127,70,70,https://tmss-ict.com/sms-services/,567,0,0
+1685788740723,10155,SMS-SERVICES,200,OK,TMSSICT 1-11,text,true,,69693,253,69,69,https://tmss-ict.com/sms-services/,9295,0,632
+1685788740723,9295,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-11,text,true,,689,126,69,69,https://tmss-ict.com/sms-services,9295,0,632
+1685788750017,861,SMS-SERVICES-1,200,OK,TMSSICT 1-11,text,true,,69004,127,69,69,https://tmss-ict.com/sms-services/,573,0,0
+1685788749188,1743,SMS-SERVICES,200,OK,TMSSICT 1-96,text,true,,69620,253,68,68,https://tmss-ict.com/sms-services/,885,0,600
+1685788749188,885,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-96,text,true,,616,126,68,68,https://tmss-ict.com/sms-services,885,0,600
+1685788750072,859,SMS-SERVICES-1,200,OK,TMSSICT 1-96,text,true,,69004,127,68,68,https://tmss-ict.com/sms-services/,569,0,0
+1685788740885,10078,SMS-SERVICES,200,OK,TMSSICT 1-13,text,true,,69693,253,67,67,https://tmss-ict.com/sms-services/,9225,0,608
+1685788740885,9225,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-13,text,true,,689,126,67,67,https://tmss-ict.com/sms-services,9225,0,608
+1685788750110,853,SMS-SERVICES-1,200,OK,TMSSICT 1-13,text,true,,69004,127,67,67,https://tmss-ict.com/sms-services/,570,0,0
+1685788740992,9990,SMS-SERVICES,200,OK,TMSSICT 1-14,text,true,,69693,253,66,66,https://tmss-ict.com/sms-services/,9125,0,606
+1685788740992,9125,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-14,text,true,,689,126,66,66,https://tmss-ict.com/sms-services,9125,0,606
+1685788750117,865,SMS-SERVICES-1,200,OK,TMSSICT 1-14,text,true,,69004,127,66,66,https://tmss-ict.com/sms-services/,577,0,0
+1685788749288,1742,SMS-SERVICES,200,OK,TMSSICT 1-97,text,true,,69620,253,65,65,https://tmss-ict.com/sms-services/,877,0,588
+1685788749288,877,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-97,text,true,,616,126,65,65,https://tmss-ict.com/sms-services,877,0,588
+1685788750164,866,SMS-SERVICES-1,200,OK,TMSSICT 1-97,text,true,,69004,127,65,65,https://tmss-ict.com/sms-services/,576,0,0
+1685788741186,9886,SMS-SERVICES,200,OK,TMSSICT 1-15,text,true,,69693,253,64,64,https://tmss-ict.com/sms-services/,9030,0,609
+1685788741186,9030,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-15,text,true,,689,126,64,64,https://tmss-ict.com/sms-services,9030,0,609
+1685788750215,857,SMS-SERVICES-1,200,OK,TMSSICT 1-15,text,true,,69004,127,64,64,https://tmss-ict.com/sms-services/,571,0,0
+1685788749390,1755,SMS-SERVICES,200,OK,TMSSICT 1-98,text,true,,69620,253,63,63,https://tmss-ict.com/sms-services/,897,0,605
+1685788749390,897,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-98,text,true,,616,126,63,63,https://tmss-ict.com/sms-services,897,0,605
+1685788750286,859,SMS-SERVICES-1,200,OK,TMSSICT 1-98,text,true,,69004,127,63,63,https://tmss-ict.com/sms-services/,572,0,0
+1685788749492,1744,SMS-SERVICES,200,OK,TMSSICT 1-99,text,true,,69620,253,62,62,https://tmss-ict.com/sms-services/,877,0,588
+1685788749492,877,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-99,text,true,,616,126,62,62,https://tmss-ict.com/sms-services,877,0,588
+1685788750369,867,SMS-SERVICES-1,200,OK,TMSSICT 1-99,text,true,,69004,127,62,62,https://tmss-ict.com/sms-services/,578,0,0
+1685788749591,1696,SMS-SERVICES,200,OK,TMSSICT 1-100,text,true,,69620,253,61,61,https://tmss-ict.com/sms-services/,853,0,573
+1685788749591,853,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-100,text,true,,616,126,61,61,https://tmss-ict.com/sms-services,853,0,573
+1685788750444,843,SMS-SERVICES-1,200,OK,TMSSICT 1-100,text,true,,69004,127,61,61,https://tmss-ict.com/sms-services/,558,0,0
+1685788741687,14598,SMS-SERVICES,200,OK,TMSSICT 1-21,text,true,,69693,253,60,60,https://tmss-ict.com/sms-services/,13728,0,608
+1685788741687,13728,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-21,text,true,,689,126,60,60,https://tmss-ict.com/sms-services,13728,0,608
+1685788755416,869,SMS-SERVICES-1,200,OK,TMSSICT 1-21,text,true,,69004,127,60,60,https://tmss-ict.com/sms-services/,578,0,0
+1685788741293,15176,SMS-SERVICES,200,OK,TMSSICT 1-17,text,true,,69693,253,59,59,https://tmss-ict.com/sms-services/,14321,0,600
+1685788741293,14321,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-17,text,true,,689,126,59,59,https://tmss-ict.com/sms-services,14321,0,600
+1685788755614,855,SMS-SERVICES-1,200,OK,TMSSICT 1-17,text,true,,69004,127,59,59,https://tmss-ict.com/sms-services/,286,0,0
+1685788741499,15001,SMS-SERVICES,200,OK,TMSSICT 1-19,text,true,,69693,253,58,58,https://tmss-ict.com/sms-services/,14114,0,605
+1685788741499,14114,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-19,text,true,,689,126,58,58,https://tmss-ict.com/sms-services,14114,0,605
+1685788755613,887,SMS-SERVICES-1,200,OK,TMSSICT 1-19,text,true,,69004,127,58,58,https://tmss-ict.com/sms-services/,599,0,0
+1685788741194,15393,SMS-SERVICES,200,OK,TMSSICT 1-16,text,true,,69693,253,57,57,https://tmss-ict.com/sms-services/,14527,0,617
+1685788741194,14527,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-16,text,true,,689,126,57,57,https://tmss-ict.com/sms-services,14527,0,617
+1685788755721,866,SMS-SERVICES-1,200,OK,TMSSICT 1-16,text,true,,69004,127,57,57,https://tmss-ict.com/sms-services/,578,0,0
+1685788741393,15284,SMS-SERVICES,200,OK,TMSSICT 1-18,text,true,,69693,253,56,56,https://tmss-ict.com/sms-services/,14430,0,603
+1685788741393,14430,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-18,text,true,,689,126,56,56,https://tmss-ict.com/sms-services,14430,0,603
+1685788755823,854,SMS-SERVICES-1,200,OK,TMSSICT 1-18,text,true,,69004,127,56,56,https://tmss-ict.com/sms-services/,288,0,0
+1685788742190,15111,SMS-SERVICES,200,OK,TMSSICT 1-26,text,true,,69693,253,55,55,https://tmss-ict.com/sms-services/,14226,0,619
+1685788742190,14226,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-26,text,true,,689,126,55,55,https://tmss-ict.com/sms-services,14226,0,619
+1685788756416,885,SMS-SERVICES-1,200,OK,TMSSICT 1-26,text,true,,69004,127,55,55,https://tmss-ict.com/sms-services/,591,0,0
+1685788741600,15771,SMS-SERVICES,200,OK,TMSSICT 1-20,text,true,,69693,253,54,54,https://tmss-ict.com/sms-services/,14914,0,601
+1685788741600,14914,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-20,text,true,,689,126,54,54,https://tmss-ict.com/sms-services,14914,0,601
+1685788756514,857,SMS-SERVICES-1,200,OK,TMSSICT 1-20,text,true,,69004,127,54,54,https://tmss-ict.com/sms-services/,566,0,0
+1685788741997,15474,SMS-SERVICES,200,OK,TMSSICT 1-24,text,true,,69693,253,53,53,https://tmss-ict.com/sms-services/,14619,0,596
+1685788741997,14619,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-24,text,true,,689,126,53,53,https://tmss-ict.com/sms-services,14619,0,596
+1685788756616,855,SMS-SERVICES-1,200,OK,TMSSICT 1-24,text,true,,69004,127,53,53,https://tmss-ict.com/sms-services/,571,0,0
+1685788741797,15772,SMS-SERVICES,200,OK,TMSSICT 1-22,text,true,,69693,253,52,52,https://tmss-ict.com/sms-services/,14920,0,592
+1685788741797,14920,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-22,text,true,,689,126,52,52,https://tmss-ict.com/sms-services,14920,0,592
+1685788756717,852,SMS-SERVICES-1,200,OK,TMSSICT 1-22,text,true,,69004,127,52,52,https://tmss-ict.com/sms-services/,561,0,0
+1685788742592,15190,SMS-SERVICES,200,OK,TMSSICT 1-30,text,true,,69693,253,51,51,https://tmss-ict.com/sms-services/,14327,0,607
+1685788742592,14327,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-30,text,true,,689,126,51,51,https://tmss-ict.com/sms-services,14327,0,607
+1685788756919,863,SMS-SERVICES-1,200,OK,TMSSICT 1-30,text,true,,69004,127,51,51,https://tmss-ict.com/sms-services/,288,0,0
+1685788741904,15973,SMS-SERVICES,200,OK,TMSSICT 1-23,text,true,,69693,253,50,50,https://tmss-ict.com/sms-services/,15109,0,613
+1685788741904,15109,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-23,text,true,,689,126,50,50,https://tmss-ict.com/sms-services,15109,0,613
+1685788757014,863,SMS-SERVICES-1,200,OK,TMSSICT 1-23,text,true,,69004,127,50,50,https://tmss-ict.com/sms-services/,575,0,0
+1685788742298,15699,SMS-SERVICES,200,OK,TMSSICT 1-27,text,true,,69693,253,49,49,https://tmss-ict.com/sms-services/,14824,0,605
+1685788742298,14824,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-27,text,true,,689,126,49,49,https://tmss-ict.com/sms-services,14824,0,605
+1685788757122,875,SMS-SERVICES-1,200,OK,TMSSICT 1-27,text,true,,69004,127,49,49,https://tmss-ict.com/sms-services/,580,0,0
+1685788742493,15588,SMS-SERVICES,200,OK,TMSSICT 1-29,text,true,,69693,253,48,48,https://tmss-ict.com/sms-services/,14719,0,600
+1685788742493,14719,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-29,text,true,,689,126,48,48,https://tmss-ict.com/sms-services,14719,0,600
+1685788757213,868,SMS-SERVICES-1,200,OK,TMSSICT 1-29,text,true,,69004,127,48,48,https://tmss-ict.com/sms-services/,579,0,0
+1685788742395,15795,SMS-SERVICES,200,OK,TMSSICT 1-28,text,true,,69693,253,47,47,https://tmss-ict.com/sms-services/,14925,0,609
+1685788742395,14925,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-28,text,true,,689,126,47,47,https://tmss-ict.com/sms-services,14925,0,609
+1685788757321,869,SMS-SERVICES-1,200,OK,TMSSICT 1-28,text,true,,69004,127,47,47,https://tmss-ict.com/sms-services/,579,0,0
+1685788742106,16539,SMS-SERVICES,200,OK,TMSSICT 1-25,text,true,,69693,253,46,46,https://tmss-ict.com/sms-services/,15520,0,599
+1685788742106,15520,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-25,text,true,,689,126,46,46,https://tmss-ict.com/sms-services,15520,0,599
+1685788757626,1019,SMS-SERVICES-1,200,OK,TMSSICT 1-25,text,true,,69004,127,46,46,https://tmss-ict.com/sms-services/,580,0,0
+1685788742695,19512,SMS-SERVICES,200,OK,TMSSICT 1-31,text,true,,69693,253,45,45,https://tmss-ict.com/sms-services/,18623,0,595
+1685788742695,18623,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-31,text,true,,689,126,45,45,https://tmss-ict.com/sms-services,18623,0,595
+1685788761318,889,SMS-SERVICES-1,200,OK,TMSSICT 1-31,text,true,,69004,127,45,45,https://tmss-ict.com/sms-services/,588,0,0
+1685788743200,20494,SMS-SERVICES,200,OK,TMSSICT 1-36,text,true,,69693,253,44,44,https://tmss-ict.com/sms-services/,19620,0,608
+1685788743200,19620,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-36,text,true,,689,126,44,44,https://tmss-ict.com/sms-services,19620,0,608
+1685788762821,873,SMS-SERVICES-1,200,OK,TMSSICT 1-36,text,true,,69004,127,44,44,https://tmss-ict.com/sms-services/,582,0,0
+1685788742996,21094,SMS-SERVICES,200,OK,TMSSICT 1-34,text,true,,69693,253,43,43,https://tmss-ict.com/sms-services/,20223,0,605
+1685788742996,20223,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-34,text,true,,689,126,43,43,https://tmss-ict.com/sms-services,20223,0,605
+1685788763219,871,SMS-SERVICES-1,200,OK,TMSSICT 1-34,text,true,,69004,127,43,43,https://tmss-ict.com/sms-services/,581,0,0
+1685788743292,20876,SMS-SERVICES,200,OK,TMSSICT 1-37,text,true,,69693,253,42,42,https://tmss-ict.com/sms-services/,20020,0,595
+1685788743292,20020,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-37,text,true,,689,126,42,42,https://tmss-ict.com/sms-services,20020,0,595
+1685788763313,855,SMS-SERVICES-1,200,OK,TMSSICT 1-37,text,true,,69004,127,42,42,https://tmss-ict.com/sms-services/,568,0,0
+1685788743392,20989,SMS-SERVICES,200,OK,TMSSICT 1-38,text,true,,69693,253,41,41,https://tmss-ict.com/sms-services/,20122,0,609
+1685788743392,20122,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-38,text,true,,689,126,41,41,https://tmss-ict.com/sms-services,20122,0,609
+1685788763514,867,SMS-SERVICES-1,200,OK,TMSSICT 1-38,text,true,,69004,127,41,41,https://tmss-ict.com/sms-services/,580,0,0
+1685788743096,21369,SMS-SERVICES,200,OK,TMSSICT 1-35,text,true,,69693,253,40,40,https://tmss-ict.com/sms-services/,20513,0,597
+1685788743096,20513,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-35,text,true,,689,126,40,40,https://tmss-ict.com/sms-services,20513,0,597
+1685788763609,856,SMS-SERVICES-1,200,OK,TMSSICT 1-35,text,true,,69004,127,40,40,https://tmss-ict.com/sms-services/,286,0,0
+1685788742900,21584,SMS-SERVICES,200,OK,TMSSICT 1-33,text,true,,69693,253,39,39,https://tmss-ict.com/sms-services/,20714,0,610
+1685788742900,20714,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-33,text,true,,689,126,39,39,https://tmss-ict.com/sms-services,20714,0,610
+1685788763614,870,SMS-SERVICES-1,200,OK,TMSSICT 1-33,text,true,,69004,127,39,39,https://tmss-ict.com/sms-services/,580,0,0
+1685788742795,21964,SMS-SERVICES,200,OK,TMSSICT 1-32,text,true,,69693,253,38,38,https://tmss-ict.com/sms-services/,21117,0,580
+1685788742795,21117,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-32,text,true,,689,126,38,38,https://tmss-ict.com/sms-services,21117,0,580
+1685788763913,846,SMS-SERVICES-1,200,OK,TMSSICT 1-32,text,true,,69004,127,38,38,https://tmss-ict.com/sms-services/,564,0,0
+1685788743591,21271,SMS-SERVICES,200,OK,TMSSICT 1-40,text,true,,69693,253,37,37,https://tmss-ict.com/sms-services/,20419,0,600
+1685788743591,20419,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-40,text,true,,689,126,37,37,https://tmss-ict.com/sms-services,20419,0,600
+1685788764010,852,SMS-SERVICES-1,200,OK,TMSSICT 1-40,text,true,,69004,127,37,37,https://tmss-ict.com/sms-services/,285,0,0
+1685788743489,21391,SMS-SERVICES,200,OK,TMSSICT 1-39,text,true,,69693,253,36,36,https://tmss-ict.com/sms-services/,20523,0,606
+1685788743489,20523,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-39,text,true,,689,126,36,36,https://tmss-ict.com/sms-services,20523,0,606
+1685788764013,867,SMS-SERVICES-1,200,OK,TMSSICT 1-39,text,true,,69004,127,36,36,https://tmss-ict.com/sms-services/,291,0,0
+1685788743788,21693,SMS-SERVICES,200,OK,TMSSICT 1-42,text,true,,69693,253,35,35,https://tmss-ict.com/sms-services/,20828,0,610
+1685788743788,20828,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-42,text,true,,689,126,35,35,https://tmss-ict.com/sms-services,20828,0,610
+1685788764616,865,SMS-SERVICES-1,200,OK,TMSSICT 1-42,text,true,,69004,127,35,35,https://tmss-ict.com/sms-services/,577,0,0
+1685788743889,21673,SMS-SERVICES,200,OK,TMSSICT 1-43,text,true,,69693,253,34,34,https://tmss-ict.com/sms-services/,20819,0,594
+1685788743889,20819,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-43,text,true,,689,126,34,34,https://tmss-ict.com/sms-services,20819,0,594
+1685788764708,854,SMS-SERVICES-1,200,OK,TMSSICT 1-43,text,true,,69004,127,34,34,https://tmss-ict.com/sms-services/,566,0,0
+1685788743989,21781,SMS-SERVICES,200,OK,TMSSICT 1-44,text,true,,69693,253,33,33,https://tmss-ict.com/sms-services/,20923,0,601
+1685788743989,20923,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-44,text,true,,689,126,33,33,https://tmss-ict.com/sms-services,20923,0,601
+1685788764912,858,SMS-SERVICES-1,200,OK,TMSSICT 1-44,text,true,,69004,127,33,33,https://tmss-ict.com/sms-services/,573,0,0
+1685788743692,22266,SMS-SERVICES,200,OK,TMSSICT 1-41,text,true,,69693,253,32,32,https://tmss-ict.com/sms-services/,21414,0,597
+1685788743692,21414,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-41,text,true,,689,126,32,32,https://tmss-ict.com/sms-services,21414,0,597
+1685788765106,852,SMS-SERVICES-1,200,OK,TMSSICT 1-41,text,true,,69004,127,32,32,https://tmss-ict.com/sms-services/,285,0,0
+1685788744097,22387,SMS-SERVICES,200,OK,TMSSICT 1-45,text,true,,69693,253,31,31,https://tmss-ict.com/sms-services/,21517,0,611
+1685788744097,21517,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-45,text,true,,689,126,31,31,https://tmss-ict.com/sms-services,21517,0,611
+1685788765614,870,SMS-SERVICES-1,200,OK,TMSSICT 1-45,text,true,,69004,127,31,31,https://tmss-ict.com/sms-services/,290,0,0
+1685788744188,25983,SMS-SERVICES,200,OK,TMSSICT 1-46,text,true,,69693,253,30,30,https://tmss-ict.com/sms-services/,25123,0,601
+1685788744188,25123,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-46,text,true,,689,126,30,30,https://tmss-ict.com/sms-services,25123,0,601
+1685788769312,859,SMS-SERVICES-1,200,OK,TMSSICT 1-46,text,true,,69004,127,30,30,https://tmss-ict.com/sms-services/,571,0,0
+1685788744288,26377,SMS-SERVICES,200,OK,TMSSICT 1-47,text,true,,69693,253,29,29,https://tmss-ict.com/sms-services/,25528,0,596
+1685788744288,25528,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-47,text,true,,689,126,29,29,https://tmss-ict.com/sms-services,25528,0,596
+1685788769816,849,SMS-SERVICES-1,200,OK,TMSSICT 1-47,text,true,,69004,127,29,29,https://tmss-ict.com/sms-services/,566,0,0
+1685788744886,25991,SMS-SERVICES,200,OK,TMSSICT 1-53,text,true,,69693,253,28,28,https://tmss-ict.com/sms-services/,25128,0,605
+1685788744886,25128,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-53,text,true,,689,126,28,28,https://tmss-ict.com/sms-services,25128,0,605
+1685788770015,862,SMS-SERVICES-1,200,OK,TMSSICT 1-53,text,true,,69004,127,28,28,https://tmss-ict.com/sms-services/,574,0,0
+1685788744784,26095,SMS-SERVICES,200,OK,TMSSICT 1-52,text,true,,69693,253,27,27,https://tmss-ict.com/sms-services/,25233,0,598
+1685788744784,25233,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-52,text,true,,689,126,27,27,https://tmss-ict.com/sms-services,25233,0,598
+1685788770018,861,SMS-SERVICES-1,200,OK,TMSSICT 1-52,text,true,,69004,127,27,27,https://tmss-ict.com/sms-services/,573,0,0
+1685788744387,26588,SMS-SERVICES,200,OK,TMSSICT 1-48,text,true,,69693,253,26,26,https://tmss-ict.com/sms-services/,25726,0,602
+1685788744387,25726,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-48,text,true,,689,126,26,26,https://tmss-ict.com/sms-services,25726,0,602
+1685788770113,862,SMS-SERVICES-1,200,OK,TMSSICT 1-48,text,true,,69004,127,26,26,https://tmss-ict.com/sms-services/,574,0,0
+1685788744487,26773,SMS-SERVICES,200,OK,TMSSICT 1-49,text,true,,69693,253,25,25,https://tmss-ict.com/sms-services/,25918,0,601
+1685788744487,25918,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-49,text,true,,689,126,25,25,https://tmss-ict.com/sms-services,25918,0,601
+1685788770406,854,SMS-SERVICES-1,200,OK,TMSSICT 1-49,text,true,,69004,127,25,25,https://tmss-ict.com/sms-services/,569,0,0
+1685788744984,26479,SMS-SERVICES,200,OK,TMSSICT 1-54,text,true,,69693,253,24,24,https://tmss-ict.com/sms-services/,25632,0,582
+1685788744984,25632,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-54,text,true,,689,126,24,24,https://tmss-ict.com/sms-services,25632,0,582
+1685788770616,847,SMS-SERVICES-1,200,OK,TMSSICT 1-54,text,true,,69004,127,24,24,https://tmss-ict.com/sms-services/,563,0,0
+1685788744585,26996,SMS-SERVICES,200,OK,TMSSICT 1-50,text,true,,69693,253,23,23,https://tmss-ict.com/sms-services/,26132,0,607
+1685788744585,26132,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-50,text,true,,689,126,23,23,https://tmss-ict.com/sms-services,26132,0,607
+1685788770717,864,SMS-SERVICES-1,200,OK,TMSSICT 1-50,text,true,,69004,127,23,23,https://tmss-ict.com/sms-services/,574,0,0
+1685788744684,27476,SMS-SERVICES,200,OK,TMSSICT 1-51,text,true,,69693,253,22,22,https://tmss-ict.com/sms-services/,26627,0,593
+1685788744684,26627,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-51,text,true,,689,126,22,22,https://tmss-ict.com/sms-services,26627,0,593
+1685788771311,849,SMS-SERVICES-1,200,OK,TMSSICT 1-51,text,true,,69004,127,22,22,https://tmss-ict.com/sms-services/,565,0,0
+1685788745583,26897,SMS-SERVICES,200,OK,TMSSICT 1-60,text,true,,69693,253,21,21,https://tmss-ict.com/sms-services/,26036,0,594
+1685788745583,26036,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-60,text,true,,689,126,21,21,https://tmss-ict.com/sms-services,26036,0,594
+1685788771619,861,SMS-SERVICES-1,200,OK,TMSSICT 1-60,text,true,,69004,127,21,21,https://tmss-ict.com/sms-services/,574,0,0
+1685788745484,27333,SMS-SERVICES,200,OK,TMSSICT 1-59,text,true,,69693,253,20,20,https://tmss-ict.com/sms-services/,26467,0,597
+1685788745484,26467,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-59,text,true,,689,126,20,20,https://tmss-ict.com/sms-services,26467,0,597
+1685788771951,866,SMS-SERVICES-1,200,OK,TMSSICT 1-59,text,true,,69004,127,20,20,https://tmss-ict.com/sms-services/,289,0,0
+1685788745084,27990,SMS-SERVICES,200,OK,TMSSICT 1-55,text,true,,69693,253,19,19,https://tmss-ict.com/sms-services/,27131,0,590
+1685788745084,27131,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-55,text,true,,689,126,19,19,https://tmss-ict.com/sms-services,27131,0,590
+1685788772215,859,SMS-SERVICES-1,200,OK,TMSSICT 1-55,text,true,,69004,127,19,19,https://tmss-ict.com/sms-services/,570,0,0
+1685788745281,28191,SMS-SERVICES,200,OK,TMSSICT 1-57,text,true,,69693,253,18,18,https://tmss-ict.com/sms-services/,27333,0,589
+1685788745281,27333,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-57,text,true,,689,126,18,18,https://tmss-ict.com/sms-services,27333,0,589
+1685788772615,857,SMS-SERVICES-1,200,OK,TMSSICT 1-57,text,true,,69004,127,18,18,https://tmss-ict.com/sms-services/,286,0,0
+1685788745383,28397,SMS-SERVICES,200,OK,TMSSICT 1-58,text,true,,69693,253,17,17,https://tmss-ict.com/sms-services/,27528,0,600
+1685788745383,27528,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-58,text,true,,689,126,17,17,https://tmss-ict.com/sms-services,27528,0,600
+1685788772911,869,SMS-SERVICES-1,200,OK,TMSSICT 1-58,text,true,,69004,127,17,17,https://tmss-ict.com/sms-services/,285,0,0
+1685788745187,28710,SMS-SERVICES,200,OK,TMSSICT 1-56,text,true,,69693,253,16,16,https://tmss-ict.com/sms-services/,27831,0,619
+1685788745187,27831,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-56,text,true,,689,126,16,16,https://tmss-ict.com/sms-services,27831,0,619
+1685788773019,878,SMS-SERVICES-1,200,OK,TMSSICT 1-56,text,true,,69004,127,16,16,https://tmss-ict.com/sms-services/,585,0,0
+1685788746092,31491,SMS-SERVICES,200,OK,TMSSICT 1-65,text,true,,69693,253,15,15,https://tmss-ict.com/sms-services/,30617,0,596
+1685788746092,30617,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-65,text,true,,689,126,15,15,https://tmss-ict.com/sms-services,30617,0,596
+1685788776709,874,SMS-SERVICES-1,200,OK,TMSSICT 1-65,text,true,,69004,127,15,15,https://tmss-ict.com/sms-services/,586,0,0
+1685788745791,32373,SMS-SERVICES,200,OK,TMSSICT 1-62,text,true,,69693,253,14,14,https://tmss-ict.com/sms-services/,31519,0,587
+1685788745791,31519,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-62,text,true,,689,126,14,14,https://tmss-ict.com/sms-services,31519,0,587
+1685788777310,854,SMS-SERVICES-1,200,OK,TMSSICT 1-62,text,true,,69004,127,14,14,https://tmss-ict.com/sms-services/,569,0,0
+1685788745994,32171,SMS-SERVICES,200,OK,TMSSICT 1-64,text,true,,69693,253,14,14,https://tmss-ict.com/sms-services/,31313,0,599
+1685788745994,31313,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-64,text,true,,689,126,14,14,https://tmss-ict.com/sms-services,31313,0,599
+1685788777308,857,SMS-SERVICES-1,200,OK,TMSSICT 1-64,text,true,,69004,127,14,14,https://tmss-ict.com/sms-services/,286,0,0
+1685788745686,32669,SMS-SERVICES,200,OK,TMSSICT 1-61,text,true,,69693,253,12,12,https://tmss-ict.com/sms-services/,31822,0,586
+1685788745686,31822,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-61,text,true,,689,126,12,12,https://tmss-ict.com/sms-services,31822,0,586
+1685788777509,846,SMS-SERVICES-1,200,OK,TMSSICT 1-61,text,true,,69004,127,12,12,https://tmss-ict.com/sms-services/,563,0,0
+1685788746193,32167,SMS-SERVICES,200,OK,TMSSICT 1-66,text,true,,69693,253,11,11,https://tmss-ict.com/sms-services/,31316,0,589
+1685788746193,31316,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-66,text,true,,689,126,11,11,https://tmss-ict.com/sms-services,31316,0,589
+1685788777509,851,SMS-SERVICES-1,200,OK,TMSSICT 1-66,text,true,,69004,127,11,11,https://tmss-ict.com/sms-services/,287,0,0
+1685788746293,32272,SMS-SERVICES,200,OK,TMSSICT 1-67,text,true,,69693,253,10,10,https://tmss-ict.com/sms-services/,31420,0,610
+1685788746293,31420,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-67,text,true,,689,126,10,10,https://tmss-ict.com/sms-services,31420,0,610
+1685788777713,852,SMS-SERVICES-1,200,OK,TMSSICT 1-67,text,true,,69004,127,10,10,https://tmss-ict.com/sms-services/,284,0,0
+1685788745891,32866,SMS-SERVICES,200,OK,TMSSICT 1-63,text,true,,69693,253,9,9,https://tmss-ict.com/sms-services/,32013,0,595
+1685788745891,32013,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-63,text,true,,689,126,9,9,https://tmss-ict.com/sms-services,32013,0,595
+1685788777904,853,SMS-SERVICES-1,200,OK,TMSSICT 1-63,text,true,,69004,127,9,9,https://tmss-ict.com/sms-services/,569,0,0
+1685788746597,32470,SMS-SERVICES,200,OK,TMSSICT 1-70,text,true,,69693,253,8,8,https://tmss-ict.com/sms-services/,31615,0,592
+1685788746597,31615,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-70,text,true,,689,126,8,8,https://tmss-ict.com/sms-services,31615,0,592
+1685788778212,855,SMS-SERVICES-1,200,OK,TMSSICT 1-70,text,true,,69004,127,8,8,https://tmss-ict.com/sms-services/,570,0,0
+1685788746707,32479,SMS-SERVICES,200,OK,TMSSICT 1-71,text,true,,69693,253,7,7,https://tmss-ict.com/sms-services/,31613,0,608
+1685788746707,31613,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-71,text,true,,689,126,7,7,https://tmss-ict.com/sms-services,31613,0,608
+1685788778321,865,SMS-SERVICES-1,200,OK,TMSSICT 1-71,text,true,,69004,127,7,7,https://tmss-ict.com/sms-services/,574,0,0
+1685788746394,32886,SMS-SERVICES,200,OK,TMSSICT 1-68,text,true,,69693,253,6,6,https://tmss-ict.com/sms-services/,32018,0,602
+1685788746394,32018,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-68,text,true,,689,126,6,6,https://tmss-ict.com/sms-services,32018,0,602
+1685788778412,868,SMS-SERVICES-1,200,OK,TMSSICT 1-68,text,true,,69004,127,6,6,https://tmss-ict.com/sms-services/,578,0,0
+1685788746992,32571,SMS-SERVICES,200,OK,TMSSICT 1-74,text,true,,69693,253,5,5,https://tmss-ict.com/sms-services/,31729,0,581
+1685788746992,31729,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-74,text,true,,689,126,5,5,https://tmss-ict.com/sms-services,31729,0,581
+1685788778722,841,SMS-SERVICES-1,200,OK,TMSSICT 1-74,text,true,,69004,127,5,5,https://tmss-ict.com/sms-services/,561,0,0
+1685788746495,33074,SMS-SERVICES,200,OK,TMSSICT 1-69,text,true,,69693,253,4,4,https://tmss-ict.com/sms-services/,32223,0,585
+1685788746495,32223,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-69,text,true,,689,126,4,4,https://tmss-ict.com/sms-services,32223,0,585
+1685788778718,851,SMS-SERVICES-1,200,OK,TMSSICT 1-69,text,true,,69004,127,4,4,https://tmss-ict.com/sms-services/,567,0,0
+1685788746793,32780,SMS-SERVICES,200,OK,TMSSICT 1-72,text,true,,69693,253,3,3,https://tmss-ict.com/sms-services/,31925,0,585
+1685788746793,31925,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-72,text,true,,689,126,3,3,https://tmss-ict.com/sms-services,31925,0,585
+1685788778718,855,SMS-SERVICES-1,200,OK,TMSSICT 1-72,text,true,,69004,127,3,3,https://tmss-ict.com/sms-services/,571,0,0
+1685788747091,32674,SMS-SERVICES,200,OK,TMSSICT 1-75,text,true,,69693,253,2,2,https://tmss-ict.com/sms-services/,31822,0,590
+1685788747091,31822,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-75,text,true,,689,126,2,2,https://tmss-ict.com/sms-services,31822,0,590
+1685788778914,851,SMS-SERVICES-1,200,OK,TMSSICT 1-75,text,true,,69004,127,2,2,https://tmss-ict.com/sms-services/,567,0,0
+1685788746892,32892,SMS-SERVICES,200,OK,TMSSICT 1-73,text,true,,69693,253,1,1,https://tmss-ict.com/sms-services/,32043,0,594
+1685788746892,32043,SMS-SERVICES-0,301,Moved Permanently,TMSSICT 1-73,text,true,,689,126,1,1,https://tmss-ict.com/sms-services,32043,0,594
+1685788778935,849,SMS-SERVICES-1,200,OK,TMSSICT 1-73,text,true,,69004,127,1,1,https://tmss-ict.com/sms-services/,566,0,0

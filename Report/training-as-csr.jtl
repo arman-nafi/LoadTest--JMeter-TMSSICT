@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1685789097937,8554,training-as-csr,200,OK,TMSSICT 1-15,text,true,,126772,259,100,100,https://tmss-ict.com/training-as-csr/,7403,0,597
+1685789097937,7413,training-as-csr-0,301,Moved Permanently,TMSSICT 1-15,text,true,,692,129,100,100,https://tmss-ict.com/training-as-csr,7403,0,597
+1685789105354,1137,training-as-csr-1,200,OK,TMSSICT 1-15,text,true,,126080,130,100,100,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789104495,2025,training-as-csr,200,OK,TMSSICT 1-81,text,true,,126699,259,99,99,https://tmss-ict.com/training-as-csr/,885,0,600
+1685789104495,885,training-as-csr-0,301,Moved Permanently,TMSSICT 1-81,text,true,,619,129,99,99,https://tmss-ict.com/training-as-csr,885,0,600
+1685789105380,1140,training-as-csr-1,200,OK,TMSSICT 1-81,text,true,,126080,130,99,99,https://tmss-ict.com/training-as-csr/,572,0,0
+1685789097185,9373,training-as-csr,200,OK,TMSSICT 1-8,text,true,,126772,259,98,98,https://tmss-ict.com/training-as-csr/,8228,0,748
+1685789097185,8228,training-as-csr-0,301,Moved Permanently,TMSSICT 1-8,text,true,,692,129,98,98,https://tmss-ict.com/training-as-csr,8228,0,748
+1685789105413,1145,training-as-csr-1,200,OK,TMSSICT 1-8,text,true,,126080,130,98,98,https://tmss-ict.com/training-as-csr/,571,0,0
+1685789096883,9704,training-as-csr,200,OK,TMSSICT 1-5,text,true,,126772,259,97,97,https://tmss-ict.com/training-as-csr/,8538,0,983
+1685789096883,8538,training-as-csr-0,301,Moved Permanently,TMSSICT 1-5,text,true,,692,129,97,97,https://tmss-ict.com/training-as-csr,8538,0,983
+1685789105421,1166,training-as-csr-1,200,OK,TMSSICT 1-5,text,true,,126080,130,97,97,https://tmss-ict.com/training-as-csr/,581,0,0
+1685789104592,2051,training-as-csr,200,OK,TMSSICT 1-82,text,true,,126699,259,96,96,https://tmss-ict.com/training-as-csr/,899,0,609
+1685789104592,899,training-as-csr-0,301,Moved Permanently,TMSSICT 1-82,text,true,,619,129,96,96,https://tmss-ict.com/training-as-csr,899,0,609
+1685789105491,1152,training-as-csr-1,200,OK,TMSSICT 1-82,text,true,,126080,130,96,96,https://tmss-ict.com/training-as-csr/,577,0,0
+1685789097465,9180,training-as-csr,200,OK,TMSSICT 1-10,text,true,,126772,259,95,95,https://tmss-ict.com/training-as-csr/,8048,0,594
+1685789097465,8048,training-as-csr-0,301,Moved Permanently,TMSSICT 1-10,text,true,,692,129,95,95,https://tmss-ict.com/training-as-csr,8048,0,594
+1685789105514,1131,training-as-csr-1,200,OK,TMSSICT 1-10,text,true,,126080,130,95,95,https://tmss-ict.com/training-as-csr/,569,0,0
+1685789104692,2001,training-as-csr,200,OK,TMSSICT 1-83,text,true,,126699,259,94,94,https://tmss-ict.com/training-as-csr/,877,0,595
+1685789104692,877,training-as-csr-0,301,Moved Permanently,TMSSICT 1-83,text,true,,619,129,94,94,https://tmss-ict.com/training-as-csr,877,0,595
+1685789105569,1124,training-as-csr-1,200,OK,TMSSICT 1-83,text,true,,126080,130,94,94,https://tmss-ict.com/training-as-csr/,562,0,0
+1685789096690,10063,training-as-csr,200,OK,TMSSICT 1-2,text,true,,126772,259,93,93,https://tmss-ict.com/training-as-csr/,8921,0,1196
+1685789096690,8921,training-as-csr-0,301,Moved Permanently,TMSSICT 1-2,text,true,,692,129,93,93,https://tmss-ict.com/training-as-csr,8921,0,1196
+1685789105611,1142,training-as-csr-1,200,OK,TMSSICT 1-2,text,true,,126080,130,93,93,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789104798,2051,training-as-csr,200,OK,TMSSICT 1-84,text,true,,126699,259,92,92,https://tmss-ict.com/training-as-csr/,881,0,593
+1685789104798,881,training-as-csr-0,301,Moved Permanently,TMSSICT 1-84,text,true,,619,129,92,92,https://tmss-ict.com/training-as-csr,881,0,593
+1685789105679,1170,training-as-csr-1,200,OK,TMSSICT 1-84,text,true,,126080,130,92,92,https://tmss-ict.com/training-as-csr/,568,0,0
+1685789096984,9884,training-as-csr,200,OK,TMSSICT 1-6,text,true,,126772,259,91,91,https://tmss-ict.com/training-as-csr/,8739,0,883
+1685789096984,8739,training-as-csr-0,301,Moved Permanently,TMSSICT 1-6,text,true,,692,129,91,91,https://tmss-ict.com/training-as-csr,8739,0,883
+1685789105723,1145,training-as-csr-1,200,OK,TMSSICT 1-6,text,true,,126080,130,91,91,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789104895,2059,training-as-csr,200,OK,TMSSICT 1-85,text,true,,126699,259,90,90,https://tmss-ict.com/training-as-csr/,904,0,606
+1685789104895,904,training-as-csr-0,301,Moved Permanently,TMSSICT 1-85,text,true,,619,129,90,90,https://tmss-ict.com/training-as-csr,904,0,606
+1685789105799,1155,training-as-csr-1,200,OK,TMSSICT 1-85,text,true,,126080,130,90,90,https://tmss-ict.com/training-as-csr/,578,0,0
+1685789104990,2024,training-as-csr,200,OK,TMSSICT 1-86,text,true,,126699,259,89,89,https://tmss-ict.com/training-as-csr/,886,0,602
+1685789104990,886,training-as-csr-0,301,Moved Permanently,TMSSICT 1-86,text,true,,619,129,89,89,https://tmss-ict.com/training-as-csr,886,0,602
+1685789105876,1138,training-as-csr-1,200,OK,TMSSICT 1-86,text,true,,126080,130,89,89,https://tmss-ict.com/training-as-csr/,569,0,0
+1685789105090,2065,training-as-csr,200,OK,TMSSICT 1-87,text,true,,126699,259,88,88,https://tmss-ict.com/training-as-csr/,907,0,609
+1685789105090,907,training-as-csr-0,301,Moved Permanently,TMSSICT 1-87,text,true,,619,129,88,88,https://tmss-ict.com/training-as-csr,907,0,609
+1685789105997,1158,training-as-csr-1,200,OK,TMSSICT 1-87,text,true,,126080,130,88,88,https://tmss-ict.com/training-as-csr/,578,0,0
+1685789097281,9888,training-as-csr,200,OK,TMSSICT 1-9,text,true,,126772,259,87,87,https://tmss-ict.com/training-as-csr/,8737,0,640
+1685789097281,8737,training-as-csr-0,301,Moved Permanently,TMSSICT 1-9,text,true,,692,129,87,87,https://tmss-ict.com/training-as-csr,8737,0,640
+1685789106018,1151,training-as-csr-1,200,OK,TMSSICT 1-9,text,true,,126080,130,87,87,https://tmss-ict.com/training-as-csr/,579,0,0
+1685789105189,2065,training-as-csr,200,OK,TMSSICT 1-88,text,true,,126699,259,86,86,https://tmss-ict.com/training-as-csr/,893,0,603
+1685789105189,893,training-as-csr-0,301,Moved Permanently,TMSSICT 1-88,text,true,,619,129,86,86,https://tmss-ict.com/training-as-csr,893,0,603
+1685789106082,1172,training-as-csr-1,200,OK,TMSSICT 1-88,text,true,,126080,130,86,86,https://tmss-ict.com/training-as-csr/,592,0,0
+1685789105290,2046,training-as-csr,200,OK,TMSSICT 1-89,text,true,,126699,259,85,85,https://tmss-ict.com/training-as-csr/,889,0,601
+1685789105290,889,training-as-csr-0,301,Moved Permanently,TMSSICT 1-89,text,true,,619,129,85,85,https://tmss-ict.com/training-as-csr,889,0,601
+1685789106180,1156,training-as-csr-1,200,OK,TMSSICT 1-89,text,true,,126080,130,85,85,https://tmss-ict.com/training-as-csr/,580,0,0
+1685789097679,9669,training-as-csr,200,OK,TMSSICT 1-13,text,true,,126772,259,84,84,https://tmss-ict.com/training-as-csr/,8534,0,603
+1685789097679,8534,training-as-csr-0,301,Moved Permanently,TMSSICT 1-13,text,true,,692,129,84,84,https://tmss-ict.com/training-as-csr,8534,0,603
+1685789106214,1134,training-as-csr-1,200,OK,TMSSICT 1-13,text,true,,126080,130,84,84,https://tmss-ict.com/training-as-csr/,566,0,0
+1685789105388,2031,training-as-csr,200,OK,TMSSICT 1-90,text,true,,126699,259,83,83,https://tmss-ict.com/training-as-csr/,878,0,593
+1685789105388,878,training-as-csr-0,301,Moved Permanently,TMSSICT 1-90,text,true,,619,129,83,83,https://tmss-ict.com/training-as-csr,878,0,593
+1685789106266,1153,training-as-csr-1,200,OK,TMSSICT 1-90,text,true,,126080,130,83,83,https://tmss-ict.com/training-as-csr/,584,0,0
+1685789097784,9681,training-as-csr,200,OK,TMSSICT 1-14,text,true,,126772,259,82,82,https://tmss-ict.com/training-as-csr/,8527,0,601
+1685789097784,8527,training-as-csr-0,301,Moved Permanently,TMSSICT 1-14,text,true,,692,129,82,82,https://tmss-ict.com/training-as-csr,8527,0,601
+1685789106312,1153,training-as-csr-1,200,OK,TMSSICT 1-14,text,true,,126080,130,82,82,https://tmss-ict.com/training-as-csr/,287,0,0
+1685789105487,2041,training-as-csr,200,OK,TMSSICT 1-91,text,true,,126699,259,81,81,https://tmss-ict.com/training-as-csr/,882,0,593
+1685789105487,882,training-as-csr-0,301,Moved Permanently,TMSSICT 1-91,text,true,,619,129,81,81,https://tmss-ict.com/training-as-csr,882,0,593
+1685789106370,1158,training-as-csr-1,200,OK,TMSSICT 1-91,text,true,,126080,130,81,81,https://tmss-ict.com/training-as-csr/,579,0,0
+1685789105589,2019,training-as-csr,200,OK,TMSSICT 1-92,text,true,,126699,259,80,80,https://tmss-ict.com/training-as-csr/,877,0,587
+1685789105589,877,training-as-csr-0,301,Moved Permanently,TMSSICT 1-92,text,true,,619,129,80,80,https://tmss-ict.com/training-as-csr,877,0,587
+1685789106466,1142,training-as-csr-1,200,OK,TMSSICT 1-92,text,true,,126080,130,80,80,https://tmss-ict.com/training-as-csr/,572,0,0
+1685789097583,10059,training-as-csr,200,OK,TMSSICT 1-12,text,true,,126772,259,79,79,https://tmss-ict.com/training-as-csr/,8934,0,622
+1685789097583,8934,training-as-csr-0,301,Moved Permanently,TMSSICT 1-12,text,true,,692,129,79,79,https://tmss-ict.com/training-as-csr,8934,0,622
+1685789106517,1125,training-as-csr-1,200,OK,TMSSICT 1-12,text,true,,126080,130,79,79,https://tmss-ict.com/training-as-csr/,563,0,0
+1685789096787,10864,training-as-csr,200,OK,TMSSICT 1-4,text,true,,126772,259,78,78,https://tmss-ict.com/training-as-csr/,9721,0,1089
+1685789096787,9721,training-as-csr-0,301,Moved Permanently,TMSSICT 1-4,text,true,,692,129,78,78,https://tmss-ict.com/training-as-csr,9721,0,1089
+1685789106508,1143,training-as-csr-1,200,OK,TMSSICT 1-4,text,true,,126080,130,78,78,https://tmss-ict.com/training-as-csr/,285,0,0
+1685789096690,10985,training-as-csr,200,OK,TMSSICT 1-1,text,true,,126772,259,77,77,https://tmss-ict.com/training-as-csr/,9827,0,1192
+1685789096690,9827,training-as-csr-0,301,Moved Permanently,TMSSICT 1-1,text,true,,692,129,77,77,https://tmss-ict.com/training-as-csr,9827,0,1192
+1685789106517,1158,training-as-csr-1,200,OK,TMSSICT 1-1,text,true,,126080,130,77,77,https://tmss-ict.com/training-as-csr/,291,0,0
+1685789105687,2056,training-as-csr,200,OK,TMSSICT 1-93,text,true,,126699,259,76,76,https://tmss-ict.com/training-as-csr/,892,0,603
+1685789105687,892,training-as-csr-0,301,Moved Permanently,TMSSICT 1-93,text,true,,619,129,76,76,https://tmss-ict.com/training-as-csr,892,0,603
+1685789106580,1163,training-as-csr-1,200,OK,TMSSICT 1-93,text,true,,126080,130,76,76,https://tmss-ict.com/training-as-csr/,582,0,0
+1685789097083,10668,training-as-csr,200,OK,TMSSICT 1-7,text,true,,126772,259,75,75,https://tmss-ict.com/training-as-csr/,9531,0,847
+1685789097083,9531,training-as-csr-0,301,Moved Permanently,TMSSICT 1-7,text,true,,692,129,75,75,https://tmss-ict.com/training-as-csr,9531,0,847
+1685789106615,1136,training-as-csr-1,200,OK,TMSSICT 1-7,text,true,,126080,130,75,75,https://tmss-ict.com/training-as-csr/,284,0,0
+1685789105787,1993,training-as-csr,200,OK,TMSSICT 1-94,text,true,,126699,259,74,74,https://tmss-ict.com/training-as-csr/,861,0,580
+1685789105787,861,training-as-csr-0,301,Moved Permanently,TMSSICT 1-94,text,true,,619,129,74,74,https://tmss-ict.com/training-as-csr,861,0,580
+1685789106648,1132,training-as-csr-1,200,OK,TMSSICT 1-94,text,true,,126080,130,74,74,https://tmss-ict.com/training-as-csr/,564,0,0
+1685789105888,1976,training-as-csr,200,OK,TMSSICT 1-95,text,true,,126699,259,73,73,https://tmss-ict.com/training-as-csr/,854,0,573
+1685789105888,854,training-as-csr-0,301,Moved Permanently,TMSSICT 1-95,text,true,,619,129,73,73,https://tmss-ict.com/training-as-csr,854,0,573
+1685789106742,1122,training-as-csr-1,200,OK,TMSSICT 1-95,text,true,,126080,130,73,73,https://tmss-ict.com/training-as-csr/,561,0,0
+1685789105991,1993,training-as-csr,200,OK,TMSSICT 1-96,text,true,,126699,259,72,72,https://tmss-ict.com/training-as-csr/,862,0,580
+1685789105991,862,training-as-csr-0,301,Moved Permanently,TMSSICT 1-96,text,true,,619,129,72,72,https://tmss-ict.com/training-as-csr,862,0,580
+1685789106853,1131,training-as-csr-1,200,OK,TMSSICT 1-96,text,true,,126080,130,72,72,https://tmss-ict.com/training-as-csr/,567,0,0
+1685789106085,2038,training-as-csr,200,OK,TMSSICT 1-97,text,true,,126699,259,71,71,https://tmss-ict.com/training-as-csr/,885,0,597
+1685789106085,885,training-as-csr-0,301,Moved Permanently,TMSSICT 1-97,text,true,,619,129,71,71,https://tmss-ict.com/training-as-csr,885,0,597
+1685789106970,1153,training-as-csr-1,200,OK,TMSSICT 1-97,text,true,,126080,130,71,71,https://tmss-ict.com/training-as-csr/,577,0,0
+1685789096690,11473,training-as-csr,200,OK,TMSSICT 1-3,text,true,,126772,259,70,70,https://tmss-ict.com/training-as-csr/,10324,0,1205
+1685789096690,10324,training-as-csr-0,301,Moved Permanently,TMSSICT 1-3,text,true,,692,129,70,70,https://tmss-ict.com/training-as-csr,10324,0,1205
+1685789107014,1149,training-as-csr-1,200,OK,TMSSICT 1-3,text,true,,126080,130,70,70,https://tmss-ict.com/training-as-csr/,574,0,0
+1685789106186,2022,training-as-csr,200,OK,TMSSICT 1-98,text,true,,126699,259,69,69,https://tmss-ict.com/training-as-csr/,883,0,594
+1685789106186,883,training-as-csr-0,301,Moved Permanently,TMSSICT 1-98,text,true,,619,129,69,69,https://tmss-ict.com/training-as-csr,883,0,594
+1685789107069,1139,training-as-csr-1,200,OK,TMSSICT 1-98,text,true,,126080,130,69,69,https://tmss-ict.com/training-as-csr/,569,0,0
+1685789106289,2015,training-as-csr,200,OK,TMSSICT 1-99,text,true,,126699,259,68,68,https://tmss-ict.com/training-as-csr/,871,0,586
+1685789106289,871,training-as-csr-0,301,Moved Permanently,TMSSICT 1-99,text,true,,619,129,68,68,https://tmss-ict.com/training-as-csr,871,0,586
+1685789107161,1143,training-as-csr-1,200,OK,TMSSICT 1-99,text,true,,126080,130,68,68,https://tmss-ict.com/training-as-csr/,575,0,0
+1685789106388,2031,training-as-csr,200,OK,TMSSICT 1-100,text,true,,126699,259,67,67,https://tmss-ict.com/training-as-csr/,885,0,589
+1685789106388,885,training-as-csr-0,301,Moved Permanently,TMSSICT 1-100,text,true,,619,129,67,67,https://tmss-ict.com/training-as-csr,885,0,589
+1685789107273,1146,training-as-csr-1,200,OK,TMSSICT 1-100,text,true,,126080,130,67,67,https://tmss-ict.com/training-as-csr/,574,0,0
+1685789097517,11089,training-as-csr,200,OK,TMSSICT 1-11,text,true,,126772,259,66,66,https://tmss-ict.com/training-as-csr/,9898,0,625
+1685789097517,9898,training-as-csr-0,301,Moved Permanently,TMSSICT 1-11,text,true,,692,129,66,66,https://tmss-ict.com/training-as-csr,9898,0,625
+1685789107415,1191,training-as-csr-1,200,OK,TMSSICT 1-11,text,true,,126080,130,66,66,https://tmss-ict.com/training-as-csr/,579,0,0
+1685789097998,15449,training-as-csr,200,OK,TMSSICT 1-16,text,true,,126772,259,65,65,https://tmss-ict.com/training-as-csr/,14310,0,621
+1685789097998,14310,training-as-csr-0,301,Moved Permanently,TMSSICT 1-16,text,true,,692,129,65,65,https://tmss-ict.com/training-as-csr,14310,0,621
+1685789112308,1139,training-as-csr-1,200,OK,TMSSICT 1-16,text,true,,126080,130,65,65,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789098175,15295,training-as-csr,200,OK,TMSSICT 1-18,text,true,,126772,259,64,64,https://tmss-ict.com/training-as-csr/,14141,0,596
+1685789098175,14141,training-as-csr-0,301,Moved Permanently,TMSSICT 1-18,text,true,,692,129,64,64,https://tmss-ict.com/training-as-csr,14141,0,596
+1685789112316,1154,training-as-csr-1,200,OK,TMSSICT 1-18,text,true,,126080,130,64,64,https://tmss-ict.com/training-as-csr/,577,0,0
+1685789098086,15571,training-as-csr,200,OK,TMSSICT 1-17,text,true,,126772,259,63,63,https://tmss-ict.com/training-as-csr/,14428,0,597
+1685789098086,14428,training-as-csr-0,301,Moved Permanently,TMSSICT 1-17,text,true,,692,129,63,63,https://tmss-ict.com/training-as-csr,14428,0,597
+1685789112515,1142,training-as-csr-1,200,OK,TMSSICT 1-17,text,true,,126080,130,63,63,https://tmss-ict.com/training-as-csr/,287,0,0
+1685789098621,15038,training-as-csr,200,OK,TMSSICT 1-22,text,true,,126772,259,62,62,https://tmss-ict.com/training-as-csr/,13899,0,593
+1685789098621,13899,training-as-csr-0,301,Moved Permanently,TMSSICT 1-22,text,true,,692,129,62,62,https://tmss-ict.com/training-as-csr,13899,0,593
+1685789112520,1139,training-as-csr-1,200,OK,TMSSICT 1-22,text,true,,126080,130,62,62,https://tmss-ict.com/training-as-csr/,572,0,0
+1685789098889,14958,training-as-csr,200,OK,TMSSICT 1-25,text,true,,126772,259,61,61,https://tmss-ict.com/training-as-csr/,13830,0,588
+1685789098889,13830,training-as-csr-0,301,Moved Permanently,TMSSICT 1-25,text,true,,692,129,61,61,https://tmss-ict.com/training-as-csr,13830,0,588
+1685789112719,1128,training-as-csr-1,200,OK,TMSSICT 1-25,text,true,,126080,130,61,61,https://tmss-ict.com/training-as-csr/,565,0,0
+1685789098488,15867,training-as-csr,200,OK,TMSSICT 1-21,text,true,,126772,259,60,60,https://tmss-ict.com/training-as-csr/,14724,0,592
+1685789098488,14724,training-as-csr-0,301,Moved Permanently,TMSSICT 1-21,text,true,,692,129,60,60,https://tmss-ict.com/training-as-csr,14724,0,592
+1685789113213,1142,training-as-csr-1,200,OK,TMSSICT 1-21,text,true,,126080,130,60,60,https://tmss-ict.com/training-as-csr/,572,0,0
+1685789098988,15484,training-as-csr,200,OK,TMSSICT 1-26,text,true,,126772,259,59,59,https://tmss-ict.com/training-as-csr/,14326,0,621
+1685789098988,14326,training-as-csr-0,301,Moved Permanently,TMSSICT 1-26,text,true,,692,129,59,59,https://tmss-ict.com/training-as-csr,14326,0,621
+1685789113315,1157,training-as-csr-1,200,OK,TMSSICT 1-26,text,true,,126080,130,59,59,https://tmss-ict.com/training-as-csr/,290,0,0
+1685789098292,16239,training-as-csr,200,OK,TMSSICT 1-19,text,true,,126772,259,58,58,https://tmss-ict.com/training-as-csr/,15117,0,598
+1685789098292,15117,training-as-csr-0,301,Moved Permanently,TMSSICT 1-19,text,true,,692,129,58,58,https://tmss-ict.com/training-as-csr,15117,0,598
+1685789113409,1122,training-as-csr-1,200,OK,TMSSICT 1-19,text,true,,126080,130,58,58,https://tmss-ict.com/training-as-csr/,562,0,0
+1685789098391,16565,training-as-csr,200,OK,TMSSICT 1-20,text,true,,126772,259,57,57,https://tmss-ict.com/training-as-csr/,15427,0,602
+1685789098391,15427,training-as-csr-0,301,Moved Permanently,TMSSICT 1-20,text,true,,692,129,57,57,https://tmss-ict.com/training-as-csr,15427,0,602
+1685789113819,1137,training-as-csr-1,200,OK,TMSSICT 1-20,text,true,,126080,130,57,57,https://tmss-ict.com/training-as-csr/,285,0,0
+1685789098688,16365,training-as-csr,200,OK,TMSSICT 1-23,text,true,,126772,259,56,56,https://tmss-ict.com/training-as-csr/,15227,0,588
+1685789098688,15227,training-as-csr-0,301,Moved Permanently,TMSSICT 1-23,text,true,,692,129,56,56,https://tmss-ict.com/training-as-csr,15227,0,588
+1685789113915,1138,training-as-csr-1,200,OK,TMSSICT 1-23,text,true,,126080,130,56,56,https://tmss-ict.com/training-as-csr/,570,0,0
+1685789099287,15954,training-as-csr,200,OK,TMSSICT 1-29,text,true,,126772,259,55,55,https://tmss-ict.com/training-as-csr/,14821,0,601
+1685789099287,14821,training-as-csr-0,301,Moved Permanently,TMSSICT 1-29,text,true,,692,129,55,55,https://tmss-ict.com/training-as-csr,14821,0,601
+1685789114109,1132,training-as-csr-1,200,OK,TMSSICT 1-29,text,true,,126080,130,55,55,https://tmss-ict.com/training-as-csr/,568,0,0
+1685789098788,16461,training-as-csr,200,OK,TMSSICT 1-24,text,true,,126772,259,54,54,https://tmss-ict.com/training-as-csr/,15325,0,592
+1685789098788,15325,training-as-csr-0,301,Moved Permanently,TMSSICT 1-24,text,true,,692,129,54,54,https://tmss-ict.com/training-as-csr,15325,0,592
+1685789114114,1135,training-as-csr-1,200,OK,TMSSICT 1-24,text,true,,126080,130,54,54,https://tmss-ict.com/training-as-csr/,284,0,0
+1685789099186,16255,training-as-csr,200,OK,TMSSICT 1-28,text,true,,126772,259,53,53,https://tmss-ict.com/training-as-csr/,15122,0,595
+1685789099186,15122,training-as-csr-0,301,Moved Permanently,TMSSICT 1-28,text,true,,692,129,53,53,https://tmss-ict.com/training-as-csr,15122,0,595
+1685789114309,1132,training-as-csr-1,200,OK,TMSSICT 1-28,text,true,,126080,130,53,53,https://tmss-ict.com/training-as-csr/,566,0,0
+1685789099088,16677,training-as-csr,200,OK,TMSSICT 1-27,text,true,,126772,259,52,52,https://tmss-ict.com/training-as-csr/,15525,0,582
+1685789099088,15525,training-as-csr-0,301,Moved Permanently,TMSSICT 1-27,text,true,,692,129,52,52,https://tmss-ict.com/training-as-csr,15525,0,582
+1685789114614,1151,training-as-csr-1,200,OK,TMSSICT 1-27,text,true,,126080,130,52,52,https://tmss-ict.com/training-as-csr/,284,0,0
+1685789099386,16665,training-as-csr,200,OK,TMSSICT 1-30,text,true,,126772,259,51,51,https://tmss-ict.com/training-as-csr/,15523,0,589
+1685789099386,15523,training-as-csr-0,301,Moved Permanently,TMSSICT 1-30,text,true,,692,129,51,51,https://tmss-ict.com/training-as-csr,15523,0,589
+1685789114909,1142,training-as-csr-1,200,OK,TMSSICT 1-30,text,true,,126080,130,51,51,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789099787,20446,training-as-csr,200,OK,TMSSICT 1-34,text,true,,126772,259,50,50,https://tmss-ict.com/training-as-csr/,19324,0,587
+1685789099787,19324,training-as-csr-0,301,Moved Permanently,TMSSICT 1-34,text,true,,692,129,50,50,https://tmss-ict.com/training-as-csr,19324,0,587
+1685789119111,1122,training-as-csr-1,200,OK,TMSSICT 1-34,text,true,,126080,130,50,50,https://tmss-ict.com/training-as-csr/,281,0,0
+1685789099889,20765,training-as-csr,200,OK,TMSSICT 1-35,text,true,,126772,259,49,49,https://tmss-ict.com/training-as-csr/,19624,0,600
+1685789099889,19624,training-as-csr-0,301,Moved Permanently,TMSSICT 1-35,text,true,,692,129,49,49,https://tmss-ict.com/training-as-csr,19624,0,600
+1685789119514,1140,training-as-csr-1,200,OK,TMSSICT 1-35,text,true,,126080,130,49,49,https://tmss-ict.com/training-as-csr/,571,0,0
+1685789099487,21173,training-as-csr,200,OK,TMSSICT 1-31,text,true,,126772,259,48,48,https://tmss-ict.com/training-as-csr/,20029,0,603
+1685789099487,20029,training-as-csr-0,301,Moved Permanently,TMSSICT 1-31,text,true,,692,129,48,48,https://tmss-ict.com/training-as-csr,20029,0,603
+1685789119517,1143,training-as-csr-1,200,OK,TMSSICT 1-31,text,true,,126080,130,48,48,https://tmss-ict.com/training-as-csr/,573,0,0
+1685789099684,21079,training-as-csr,200,OK,TMSSICT 1-33,text,true,,126772,259,47,47,https://tmss-ict.com/training-as-csr/,19934,0,613
+1685789099684,19934,training-as-csr-0,301,Moved Permanently,TMSSICT 1-33,text,true,,692,129,47,47,https://tmss-ict.com/training-as-csr,19934,0,613
+1685789119618,1145,training-as-csr-1,200,OK,TMSSICT 1-33,text,true,,126080,130,47,47,https://tmss-ict.com/training-as-csr/,575,0,0
+1685789100087,20969,training-as-csr,200,OK,TMSSICT 1-37,text,true,,126772,259,46,46,https://tmss-ict.com/training-as-csr/,19834,0,599
+1685789100087,19834,training-as-csr-0,301,Moved Permanently,TMSSICT 1-37,text,true,,692,129,46,46,https://tmss-ict.com/training-as-csr,19834,0,599
+1685789119921,1135,training-as-csr-1,200,OK,TMSSICT 1-37,text,true,,126080,130,46,46,https://tmss-ict.com/training-as-csr/,568,0,0
+1685789099589,21876,training-as-csr,200,OK,TMSSICT 1-32,text,true,,126772,259,45,45,https://tmss-ict.com/training-as-csr/,20734,0,613
+1685789099589,20734,training-as-csr-0,301,Moved Permanently,TMSSICT 1-32,text,true,,692,129,45,45,https://tmss-ict.com/training-as-csr,20734,0,613
+1685789120323,1142,training-as-csr-1,200,OK,TMSSICT 1-32,text,true,,126080,130,45,45,https://tmss-ict.com/training-as-csr/,572,0,0
+1685789100384,21089,training-as-csr,200,OK,TMSSICT 1-40,text,true,,126772,259,44,44,https://tmss-ict.com/training-as-csr/,19935,0,613
+1685789100384,19935,training-as-csr-0,301,Moved Permanently,TMSSICT 1-40,text,true,,692,129,44,44,https://tmss-ict.com/training-as-csr,19935,0,613
+1685789120319,1154,training-as-csr-1,200,OK,TMSSICT 1-40,text,true,,126080,130,44,44,https://tmss-ict.com/training-as-csr/,578,0,0
+1685789100184,21478,training-as-csr,200,OK,TMSSICT 1-38,text,true,,126772,259,43,43,https://tmss-ict.com/training-as-csr/,20335,0,603
+1685789100184,20335,training-as-csr-0,301,Moved Permanently,TMSSICT 1-38,text,true,,692,129,43,43,https://tmss-ict.com/training-as-csr,20335,0,603
+1685789120519,1143,training-as-csr-1,200,OK,TMSSICT 1-38,text,true,,126080,130,43,43,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789100283,21679,training-as-csr,200,OK,TMSSICT 1-39,text,true,,126772,259,42,42,https://tmss-ict.com/training-as-csr/,20552,0,586
+1685789100283,20552,training-as-csr-0,301,Moved Permanently,TMSSICT 1-39,text,true,,692,129,42,42,https://tmss-ict.com/training-as-csr,20552,0,586
+1685789120835,1127,training-as-csr-1,200,OK,TMSSICT 1-39,text,true,,126080,130,42,42,https://tmss-ict.com/training-as-csr/,565,0,0
+1685789100484,21683,training-as-csr,200,OK,TMSSICT 1-41,text,true,,126772,259,41,41,https://tmss-ict.com/training-as-csr/,20536,0,604
+1685789100484,20536,training-as-csr-0,301,Moved Permanently,TMSSICT 1-41,text,true,,692,129,41,41,https://tmss-ict.com/training-as-csr,20536,0,604
+1685789121020,1147,training-as-csr-1,200,OK,TMSSICT 1-41,text,true,,126080,130,41,41,https://tmss-ict.com/training-as-csr/,289,0,0
+1685789100581,21987,training-as-csr,200,OK,TMSSICT 1-42,text,true,,126772,259,40,40,https://tmss-ict.com/training-as-csr/,20831,0,613
+1685789100581,20831,training-as-csr-0,301,Moved Permanently,TMSSICT 1-42,text,true,,692,129,40,40,https://tmss-ict.com/training-as-csr,20831,0,613
+1685789121413,1155,training-as-csr-1,200,OK,TMSSICT 1-42,text,true,,126080,130,40,40,https://tmss-ict.com/training-as-csr/,577,0,0
+1685789100783,21790,training-as-csr,200,OK,TMSSICT 1-44,text,true,,126772,259,39,39,https://tmss-ict.com/training-as-csr/,20632,0,600
+1685789100783,20632,training-as-csr-0,301,Moved Permanently,TMSSICT 1-44,text,true,,692,129,39,39,https://tmss-ict.com/training-as-csr,20632,0,600
+1685789121415,1158,training-as-csr-1,200,OK,TMSSICT 1-44,text,true,,126080,130,39,39,https://tmss-ict.com/training-as-csr/,578,0,0
+1685789100689,21888,training-as-csr,200,OK,TMSSICT 1-43,text,true,,126772,259,38,38,https://tmss-ict.com/training-as-csr/,20728,0,614
+1685789100689,20728,training-as-csr-0,301,Moved Permanently,TMSSICT 1-43,text,true,,692,129,38,38,https://tmss-ict.com/training-as-csr,20728,0,614
+1685789121417,1160,training-as-csr-1,200,OK,TMSSICT 1-43,text,true,,126080,130,38,38,https://tmss-ict.com/training-as-csr/,579,0,0
+1685789099986,22670,training-as-csr,200,OK,TMSSICT 1-36,text,true,,126772,259,37,37,https://tmss-ict.com/training-as-csr/,21528,0,595
+1685789099986,21528,training-as-csr-0,301,Moved Permanently,TMSSICT 1-36,text,true,,692,129,37,37,https://tmss-ict.com/training-as-csr,21528,0,595
+1685789121514,1142,training-as-csr-1,200,OK,TMSSICT 1-36,text,true,,126080,130,37,37,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789100882,22388,training-as-csr,200,OK,TMSSICT 1-45,text,true,,126772,259,36,36,https://tmss-ict.com/training-as-csr/,21241,0,608
+1685789100882,21241,training-as-csr-0,301,Moved Permanently,TMSSICT 1-45,text,true,,692,129,36,36,https://tmss-ict.com/training-as-csr,21241,0,608
+1685789122122,1148,training-as-csr-1,200,OK,TMSSICT 1-45,text,true,,126080,130,36,36,https://tmss-ict.com/training-as-csr/,575,0,0
+1685789100984,26011,training-as-csr,200,OK,TMSSICT 1-46,text,true,,126772,259,35,35,https://tmss-ict.com/training-as-csr/,24842,0,609
+1685789100984,24842,training-as-csr-0,301,Moved Permanently,TMSSICT 1-46,text,true,,692,129,35,35,https://tmss-ict.com/training-as-csr,24842,0,609
+1685789125825,1170,training-as-csr-1,200,OK,TMSSICT 1-46,text,true,,126080,130,35,35,https://tmss-ict.com/training-as-csr/,585,0,0
+1685789101191,25941,training-as-csr,200,OK,TMSSICT 1-48,text,true,,126772,259,34,34,https://tmss-ict.com/training-as-csr/,24821,0,590
+1685789101191,24821,training-as-csr-0,301,Moved Permanently,TMSSICT 1-48,text,true,,692,129,34,34,https://tmss-ict.com/training-as-csr,24821,0,590
+1685789126012,1120,training-as-csr-1,200,OK,TMSSICT 1-48,text,true,,126080,130,34,34,https://tmss-ict.com/training-as-csr/,560,0,0
+1685789101080,26471,training-as-csr,200,OK,TMSSICT 1-47,text,true,,126772,259,33,33,https://tmss-ict.com/training-as-csr/,25333,0,602
+1685789101080,25333,training-as-csr-0,301,Moved Permanently,TMSSICT 1-47,text,true,,692,129,33,33,https://tmss-ict.com/training-as-csr,25333,0,602
+1685789126412,1139,training-as-csr-1,200,OK,TMSSICT 1-47,text,true,,126080,130,33,33,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789101385,26963,training-as-csr,200,OK,TMSSICT 1-50,text,true,,126772,259,32,32,https://tmss-ict.com/training-as-csr/,25826,0,599
+1685789101385,25826,training-as-csr-0,301,Moved Permanently,TMSSICT 1-50,text,true,,692,129,32,32,https://tmss-ict.com/training-as-csr,25826,0,599
+1685789127211,1137,training-as-csr-1,200,OK,TMSSICT 1-50,text,true,,126080,130,32,32,https://tmss-ict.com/training-as-csr/,568,0,0
+1685789101278,27487,training-as-csr,200,OK,TMSSICT 1-49,text,true,,126772,259,31,31,https://tmss-ict.com/training-as-csr/,26340,0,601
+1685789101278,26340,training-as-csr-0,301,Moved Permanently,TMSSICT 1-49,text,true,,692,129,31,31,https://tmss-ict.com/training-as-csr,26340,0,601
+1685789127618,1147,training-as-csr-1,200,OK,TMSSICT 1-49,text,true,,126080,130,31,31,https://tmss-ict.com/training-as-csr/,288,0,0
+1685789102202,26769,training-as-csr,200,OK,TMSSICT 1-58,text,true,,126772,259,30,30,https://tmss-ict.com/training-as-csr/,25612,0,607
+1685789102202,25612,training-as-csr-0,301,Moved Permanently,TMSSICT 1-58,text,true,,692,129,30,30,https://tmss-ict.com/training-as-csr,25612,0,607
+1685789127814,1157,training-as-csr-1,200,OK,TMSSICT 1-58,text,true,,126080,130,30,30,https://tmss-ict.com/training-as-csr/,579,0,0
+1685789101487,27580,training-as-csr,200,OK,TMSSICT 1-51,text,true,,126772,259,29,29,https://tmss-ict.com/training-as-csr/,26427,0,611
+1685789101487,26427,training-as-csr-0,301,Moved Permanently,TMSSICT 1-51,text,true,,692,129,29,29,https://tmss-ict.com/training-as-csr,26427,0,611
+1685789127914,1153,training-as-csr-1,200,OK,TMSSICT 1-51,text,true,,126080,130,29,29,https://tmss-ict.com/training-as-csr/,289,0,0
+1685789101585,27687,training-as-csr,200,OK,TMSSICT 1-52,text,true,,126772,259,28,28,https://tmss-ict.com/training-as-csr/,26531,0,614
+1685789101585,26531,training-as-csr-0,301,Moved Permanently,TMSSICT 1-52,text,true,,692,129,28,28,https://tmss-ict.com/training-as-csr,26531,0,614
+1685789128117,1155,training-as-csr-1,200,OK,TMSSICT 1-52,text,true,,126080,130,28,28,https://tmss-ict.com/training-as-csr/,290,0,0
+1685789101791,27573,training-as-csr,200,OK,TMSSICT 1-54,text,true,,126772,259,27,27,https://tmss-ict.com/training-as-csr/,26427,0,603
+1685789101791,26427,training-as-csr-0,301,Moved Permanently,TMSSICT 1-54,text,true,,692,129,27,27,https://tmss-ict.com/training-as-csr,26427,0,603
+1685789128219,1145,training-as-csr-1,200,OK,TMSSICT 1-54,text,true,,126080,130,27,27,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789101685,27757,training-as-csr,200,OK,TMSSICT 1-53,text,true,,126772,259,26,26,https://tmss-ict.com/training-as-csr/,26626,0,595
+1685789101685,26626,training-as-csr-0,301,Moved Permanently,TMSSICT 1-53,text,true,,692,129,26,26,https://tmss-ict.com/training-as-csr,26626,0,595
+1685789128311,1131,training-as-csr-1,200,OK,TMSSICT 1-53,text,true,,126080,130,26,26,https://tmss-ict.com/training-as-csr/,566,0,0
+1685789101991,27487,training-as-csr,200,OK,TMSSICT 1-56,text,true,,126772,259,25,25,https://tmss-ict.com/training-as-csr/,26329,0,617
+1685789101991,26329,training-as-csr-0,301,Moved Permanently,TMSSICT 1-56,text,true,,692,129,25,25,https://tmss-ict.com/training-as-csr,26329,0,617
+1685789128320,1158,training-as-csr-1,200,OK,TMSSICT 1-56,text,true,,126080,130,25,25,https://tmss-ict.com/training-as-csr/,290,0,0
+1685789102281,27607,training-as-csr,200,OK,TMSSICT 1-59,text,true,,126772,259,24,24,https://tmss-ict.com/training-as-csr/,26435,0,611
+1685789102281,26435,training-as-csr-0,301,Moved Permanently,TMSSICT 1-59,text,true,,692,129,24,24,https://tmss-ict.com/training-as-csr,26435,0,611
+1685789128716,1172,training-as-csr-1,200,OK,TMSSICT 1-59,text,true,,126080,130,24,24,https://tmss-ict.com/training-as-csr/,291,0,0
+1685789102102,28038,training-as-csr,200,OK,TMSSICT 1-57,text,true,,126772,259,23,23,https://tmss-ict.com/training-as-csr/,26910,0,593
+1685789102102,26910,training-as-csr-0,301,Moved Permanently,TMSSICT 1-57,text,true,,692,129,23,23,https://tmss-ict.com/training-as-csr,26910,0,593
+1685789129013,1127,training-as-csr-1,200,OK,TMSSICT 1-57,text,true,,126080,130,23,23,https://tmss-ict.com/training-as-csr/,563,0,0
+1685789102399,28055,training-as-csr,200,OK,TMSSICT 1-60,text,true,,126772,259,22,22,https://tmss-ict.com/training-as-csr/,26914,0,589
+1685789102399,26914,training-as-csr-0,301,Moved Permanently,TMSSICT 1-60,text,true,,692,129,22,22,https://tmss-ict.com/training-as-csr,26914,0,589
+1685789129314,1140,training-as-csr-1,200,OK,TMSSICT 1-60,text,true,,126080,130,22,22,https://tmss-ict.com/training-as-csr/,570,0,0
+1685789101886,28672,training-as-csr,200,OK,TMSSICT 1-55,text,true,,126772,259,21,21,https://tmss-ict.com/training-as-csr/,27528,0,605
+1685789101886,27528,training-as-csr-0,301,Moved Permanently,TMSSICT 1-55,text,true,,692,129,21,21,https://tmss-ict.com/training-as-csr,27528,0,605
+1685789129414,1144,training-as-csr-1,200,OK,TMSSICT 1-55,text,true,,126080,130,21,21,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789102498,31493,training-as-csr,200,OK,TMSSICT 1-61,text,true,,126772,259,20,20,https://tmss-ict.com/training-as-csr/,30319,0,613
+1685789102498,30319,training-as-csr-0,301,Moved Permanently,TMSSICT 1-61,text,true,,692,129,20,20,https://tmss-ict.com/training-as-csr,30319,0,613
+1685789132817,1174,training-as-csr-1,200,OK,TMSSICT 1-61,text,true,,126080,130,20,20,https://tmss-ict.com/training-as-csr/,300,0,0
+1685789102596,31471,training-as-csr,200,OK,TMSSICT 1-62,text,true,,126772,259,19,19,https://tmss-ict.com/training-as-csr/,30327,0,595
+1685789102596,30327,training-as-csr-0,301,Moved Permanently,TMSSICT 1-62,text,true,,692,129,19,19,https://tmss-ict.com/training-as-csr,30327,0,595
+1685789132923,1144,training-as-csr-1,200,OK,TMSSICT 1-62,text,true,,126080,130,19,19,https://tmss-ict.com/training-as-csr/,286,0,0
+1685789102685,32203,training-as-csr,200,OK,TMSSICT 1-63,text,true,,126772,259,18,18,https://tmss-ict.com/training-as-csr/,31027,0,606
+1685789102685,31027,training-as-csr-0,301,Moved Permanently,TMSSICT 1-63,text,true,,692,129,18,18,https://tmss-ict.com/training-as-csr,31027,0,606
+1685789133712,1176,training-as-csr-1,200,OK,TMSSICT 1-63,text,true,,126080,130,18,18,https://tmss-ict.com/training-as-csr/,582,0,0
+1685789102797,33077,training-as-csr,200,OK,TMSSICT 1-64,text,true,,126772,259,17,17,https://tmss-ict.com/training-as-csr/,31916,0,599
+1685789102797,31916,training-as-csr-0,301,Moved Permanently,TMSSICT 1-64,text,true,,692,129,17,17,https://tmss-ict.com/training-as-csr,31916,0,599
+1685789134714,1160,training-as-csr-1,200,OK,TMSSICT 1-64,text,true,,126080,130,17,17,https://tmss-ict.com/training-as-csr/,589,0,0
+1685789102996,33051,training-as-csr,200,OK,TMSSICT 1-66,text,true,,126772,259,16,16,https://tmss-ict.com/training-as-csr/,31917,0,589
+1685789102996,31917,training-as-csr-0,301,Moved Permanently,TMSSICT 1-66,text,true,,692,129,16,16,https://tmss-ict.com/training-as-csr,31917,0,589
+1685789134914,1133,training-as-csr-1,200,OK,TMSSICT 1-66,text,true,,126080,130,16,16,https://tmss-ict.com/training-as-csr/,564,0,0
+1685789102897,33370,training-as-csr,200,OK,TMSSICT 1-65,text,true,,126772,259,15,15,https://tmss-ict.com/training-as-csr/,32220,0,594
+1685789102897,32220,training-as-csr-0,301,Moved Permanently,TMSSICT 1-65,text,true,,692,129,15,15,https://tmss-ict.com/training-as-csr,32220,0,594
+1685789135118,1149,training-as-csr-1,200,OK,TMSSICT 1-65,text,true,,126080,130,15,15,https://tmss-ict.com/training-as-csr/,578,0,0
+1685789103296,32972,training-as-csr,200,OK,TMSSICT 1-69,text,true,,126772,259,15,15,https://tmss-ict.com/training-as-csr/,31821,0,595
+1685789103296,31821,training-as-csr-0,301,Moved Permanently,TMSSICT 1-69,text,true,,692,129,15,15,https://tmss-ict.com/training-as-csr,31821,0,595
+1685789135118,1150,training-as-csr-1,200,OK,TMSSICT 1-69,text,true,,126080,130,15,15,https://tmss-ict.com/training-as-csr/,578,0,0
+1685789103196,33360,training-as-csr,200,OK,TMSSICT 1-68,text,true,,126772,259,13,13,https://tmss-ict.com/training-as-csr/,32213,0,582
+1685789103196,32213,training-as-csr-0,301,Moved Permanently,TMSSICT 1-68,text,true,,692,129,13,13,https://tmss-ict.com/training-as-csr,32213,0,582
+1685789135409,1147,training-as-csr-1,200,OK,TMSSICT 1-68,text,true,,126080,130,13,13,https://tmss-ict.com/training-as-csr/,575,0,0
+1685789103096,33554,training-as-csr,200,OK,TMSSICT 1-67,text,true,,126772,259,12,12,https://tmss-ict.com/training-as-csr/,32414,0,592
+1685789103096,32414,training-as-csr-0,301,Moved Permanently,TMSSICT 1-67,text,true,,692,129,12,12,https://tmss-ict.com/training-as-csr,32414,0,592
+1685789135510,1140,training-as-csr-1,200,OK,TMSSICT 1-67,text,true,,126080,130,12,12,https://tmss-ict.com/training-as-csr/,287,0,0
+1685789103595,33537,training-as-csr,200,OK,TMSSICT 1-72,text,true,,126772,259,11,11,https://tmss-ict.com/training-as-csr/,32417,0,588
+1685789103595,32417,training-as-csr-0,301,Moved Permanently,TMSSICT 1-72,text,true,,692,129,11,11,https://tmss-ict.com/training-as-csr,32417,0,588
+1685789136013,1119,training-as-csr-1,200,OK,TMSSICT 1-72,text,true,,126080,130,11,11,https://tmss-ict.com/training-as-csr/,280,0,0
+1685789103496,33798,training-as-csr,200,OK,TMSSICT 1-71,text,true,,126772,259,10,10,https://tmss-ict.com/training-as-csr/,32624,0,608
+1685789103496,32624,training-as-csr-0,301,Moved Permanently,TMSSICT 1-71,text,true,,692,129,10,10,https://tmss-ict.com/training-as-csr,32624,0,608
+1685789136121,1173,training-as-csr-1,200,OK,TMSSICT 1-71,text,true,,126080,130,10,10,https://tmss-ict.com/training-as-csr/,583,0,0
+1685789103894,33478,training-as-csr,200,OK,TMSSICT 1-75,text,true,,126772,259,9,9,https://tmss-ict.com/training-as-csr/,32335,0,599
+1685789103894,32335,training-as-csr-0,301,Moved Permanently,TMSSICT 1-75,text,true,,692,129,9,9,https://tmss-ict.com/training-as-csr,32335,0,599
+1685789136229,1143,training-as-csr-1,200,OK,TMSSICT 1-75,text,true,,126080,130,9,9,https://tmss-ict.com/training-as-csr/,290,0,0
+1685789103696,33771,training-as-csr,200,OK,TMSSICT 1-73,text,true,,126772,259,8,8,https://tmss-ict.com/training-as-csr/,32621,0,604
+1685789103696,32621,training-as-csr-0,301,Moved Permanently,TMSSICT 1-73,text,true,,692,129,8,8,https://tmss-ict.com/training-as-csr,32621,0,604
+1685789136317,1150,training-as-csr-1,200,OK,TMSSICT 1-73,text,true,,126080,130,8,8,https://tmss-ict.com/training-as-csr/,577,0,0
+1685789103795,34141,training-as-csr,200,OK,TMSSICT 1-74,text,true,,126772,259,7,7,https://tmss-ict.com/training-as-csr/,33013,0,574
+1685789103795,33013,training-as-csr-0,301,Moved Permanently,TMSSICT 1-74,text,true,,692,129,7,7,https://tmss-ict.com/training-as-csr,33013,0,574
+1685789136808,1128,training-as-csr-1,200,OK,TMSSICT 1-74,text,true,,126080,130,7,7,https://tmss-ict.com/training-as-csr/,566,0,0
+1685789103397,34774,training-as-csr,200,OK,TMSSICT 1-70,text,true,,126772,259,6,6,https://tmss-ict.com/training-as-csr/,33626,0,592
+1685789103397,33626,training-as-csr-0,301,Moved Permanently,TMSSICT 1-70,text,true,,692,129,6,6,https://tmss-ict.com/training-as-csr,33626,0,592
+1685789137023,1148,training-as-csr-1,200,OK,TMSSICT 1-70,text,true,,126080,130,6,6,https://tmss-ict.com/training-as-csr/,580,0,0
+1685789103995,34766,training-as-csr,200,OK,TMSSICT 1-76,text,true,,126772,259,5,5,https://tmss-ict.com/training-as-csr/,33620,0,590
+1685789103995,33620,training-as-csr-0,301,Moved Permanently,TMSSICT 1-76,text,true,,692,129,5,5,https://tmss-ict.com/training-as-csr,33620,0,590
+1685789137615,1146,training-as-csr-1,200,OK,TMSSICT 1-76,text,true,,126080,130,5,5,https://tmss-ict.com/training-as-csr/,572,0,0
+1685789104093,34794,training-as-csr,200,OK,TMSSICT 1-77,text,true,,126772,259,4,4,https://tmss-ict.com/training-as-csr/,33631,0,609
+1685789104093,33631,training-as-csr-0,301,Moved Permanently,TMSSICT 1-77,text,true,,692,129,4,4,https://tmss-ict.com/training-as-csr,33631,0,609
+1685789137725,1162,training-as-csr-1,200,OK,TMSSICT 1-77,text,true,,126080,130,4,4,https://tmss-ict.com/training-as-csr/,584,0,0
+1685789104393,34871,training-as-csr,200,OK,TMSSICT 1-80,text,true,,126772,259,3,3,https://tmss-ict.com/training-as-csr/,33739,0,589
+1685789104393,33739,training-as-csr-0,301,Moved Permanently,TMSSICT 1-80,text,true,,692,129,3,3,https://tmss-ict.com/training-as-csr,33739,0,589
+1685789138132,1132,training-as-csr-1,200,OK,TMSSICT 1-80,text,true,,126080,130,3,3,https://tmss-ict.com/training-as-csr/,566,0,0
+1685789104193,35102,training-as-csr,200,OK,TMSSICT 1-78,text,true,,126772,259,2,2,https://tmss-ict.com/training-as-csr/,33947,0,601
+1685789104193,33947,training-as-csr-0,301,Moved Permanently,TMSSICT 1-78,text,true,,692,129,2,2,https://tmss-ict.com/training-as-csr,33947,0,601
+1685789138140,1155,training-as-csr-1,200,OK,TMSSICT 1-78,text,true,,126080,130,2,2,https://tmss-ict.com/training-as-csr/,577,0,0
+1685789104293,35102,training-as-csr,200,OK,TMSSICT 1-79,text,true,,126772,259,1,1,https://tmss-ict.com/training-as-csr/,33957,0,601
+1685789104293,33957,training-as-csr-0,301,Moved Permanently,TMSSICT 1-79,text,true,,692,129,1,1,https://tmss-ict.com/training-as-csr,33957,0,601
+1685789138250,1145,training-as-csr-1,200,OK,TMSSICT 1-79,text,true,,126080,130,1,1,https://tmss-ict.com/training-as-csr/,574,0,0
