@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1685851594259,9300,education,200,OK,TMSSICT 1-3,text,true,,117820,247,96,96,https://tmss-ict.com/education/,8167,0,1217
+1685851594259,8175,education-0,301,Moved Permanently,TMSSICT 1-3,text,true,,686,123,96,96,https://tmss-ict.com/education,8167,0,1217
+1685851602438,1121,education-1,200,OK,TMSSICT 1-3,text,true,,117134,124,96,96,https://tmss-ict.com/education/,560,0,0
+1685851601607,2044,education,200,OK,TMSSICT 1-77,text,true,,117747,247,96,96,https://tmss-ict.com/education/,886,0,597
+1685851601607,886,education-0,301,Moved Permanently,TMSSICT 1-77,text,true,,613,123,96,96,https://tmss-ict.com/education,886,0,597
+1685851602493,1158,education-1,200,OK,TMSSICT 1-77,text,true,,117134,124,96,96,https://tmss-ict.com/education/,582,0,0
+1685851601720,1985,education,200,OK,TMSSICT 1-78,text,true,,117747,247,95,95,https://tmss-ict.com/education/,860,0,580
+1685851601720,860,education-0,301,Moved Permanently,TMSSICT 1-78,text,true,,613,123,95,95,https://tmss-ict.com/education,860,0,580
+1685851602580,1125,education-1,200,OK,TMSSICT 1-78,text,true,,117134,124,95,95,https://tmss-ict.com/education/,568,0,0
+1685851601820,2026,education,200,OK,TMSSICT 1-79,text,true,,117747,247,96,96,https://tmss-ict.com/education/,883,0,597
+1685851601820,883,education-0,301,Moved Permanently,TMSSICT 1-79,text,true,,613,123,96,96,https://tmss-ict.com/education,883,0,597
+1685851602704,1142,education-1,200,OK,TMSSICT 1-79,text,true,,117134,124,96,96,https://tmss-ict.com/education/,573,0,0
+1685851601919,1995,education,200,OK,TMSSICT 1-80,text,true,,117747,247,95,95,https://tmss-ict.com/education/,859,0,577
+1685851601919,859,education-0,301,Moved Permanently,TMSSICT 1-80,text,true,,613,123,95,95,https://tmss-ict.com/education,859,0,577
+1685851602778,1136,education-1,200,OK,TMSSICT 1-80,text,true,,117134,124,95,95,https://tmss-ict.com/education/,564,0,0
+1685851602027,1981,education,200,OK,TMSSICT 1-81,text,true,,117747,247,95,95,https://tmss-ict.com/education/,862,0,583
+1685851602027,862,education-0,301,Moved Permanently,TMSSICT 1-81,text,true,,613,123,95,95,https://tmss-ict.com/education,862,0,583
+1685851602889,1119,education-1,200,OK,TMSSICT 1-81,text,true,,117134,124,95,95,https://tmss-ict.com/education/,558,0,0
+1685851602117,1978,education,200,OK,TMSSICT 1-82,text,true,,117747,247,94,94,https://tmss-ict.com/education/,860,0,580
+1685851602117,860,education-0,301,Moved Permanently,TMSSICT 1-82,text,true,,613,123,94,94,https://tmss-ict.com/education,860,0,580
+1685851602977,1118,education-1,200,OK,TMSSICT 1-82,text,true,,117134,124,94,94,https://tmss-ict.com/education/,559,0,0
+1685851594259,9874,education,200,OK,TMSSICT 1-2,text,true,,117820,247,93,93,https://tmss-ict.com/education/,8744,0,1149
+1685851594259,8744,education-0,301,Moved Permanently,TMSSICT 1-2,text,true,,686,123,93,93,https://tmss-ict.com/education,8744,0,1149
+1685851603004,1129,education-1,200,OK,TMSSICT 1-2,text,true,,117134,124,93,93,https://tmss-ict.com/education/,283,0,0
+1685851602216,2013,education,200,OK,TMSSICT 1-83,text,true,,117747,247,92,92,https://tmss-ict.com/education/,865,0,581
+1685851602216,865,education-0,301,Moved Permanently,TMSSICT 1-83,text,true,,613,123,92,92,https://tmss-ict.com/education,865,0,581
+1685851603082,1147,education-1,200,OK,TMSSICT 1-83,text,true,,117134,124,92,92,https://tmss-ict.com/education/,570,0,0
+1685851594990,9241,education,200,OK,TMSSICT 1-10,text,true,,117820,247,91,91,https://tmss-ict.com/education/,8111,0,600
+1685851594990,8111,education-0,301,Moved Permanently,TMSSICT 1-10,text,true,,686,123,91,91,https://tmss-ict.com/education,8111,0,600
+1685851603102,1129,education-1,200,OK,TMSSICT 1-10,text,true,,117134,124,91,91,https://tmss-ict.com/education/,566,0,0
+1685851594554,9703,education,200,OK,TMSSICT 1-6,text,true,,117820,247,90,90,https://tmss-ict.com/education/,8555,0,857
+1685851594554,8555,education-0,301,Moved Permanently,TMSSICT 1-6,text,true,,686,123,90,90,https://tmss-ict.com/education,8555,0,857
+1685851603110,1147,education-1,200,OK,TMSSICT 1-6,text,true,,117134,124,90,90,https://tmss-ict.com/education/,288,0,0
+1685851602316,1984,education,200,OK,TMSSICT 1-84,text,true,,117747,247,89,89,https://tmss-ict.com/education/,854,0,577
+1685851602316,854,education-0,301,Moved Permanently,TMSSICT 1-84,text,true,,613,123,89,89,https://tmss-ict.com/education,854,0,577
+1685851603170,1130,education-1,200,OK,TMSSICT 1-84,text,true,,117134,124,89,89,https://tmss-ict.com/education/,565,0,0
+1685851602420,2038,education,200,OK,TMSSICT 1-85,text,true,,117747,247,88,88,https://tmss-ict.com/education/,891,0,600
+1685851602420,891,education-0,301,Moved Permanently,TMSSICT 1-85,text,true,,613,123,88,88,https://tmss-ict.com/education,891,0,600
+1685851603311,1147,education-1,200,OK,TMSSICT 1-85,text,true,,117134,124,88,88,https://tmss-ict.com/education/,570,0,0
+1685851602517,2042,education,200,OK,TMSSICT 1-86,text,true,,117747,247,87,87,https://tmss-ict.com/education/,903,0,610
+1685851602517,903,education-0,301,Moved Permanently,TMSSICT 1-86,text,true,,613,123,87,87,https://tmss-ict.com/education,903,0,610
+1685851603421,1138,education-1,200,OK,TMSSICT 1-86,text,true,,117134,124,87,87,https://tmss-ict.com/education/,570,0,0
+1685851602621,1982,education,200,OK,TMSSICT 1-87,text,true,,117747,247,86,86,https://tmss-ict.com/education/,855,0,574
+1685851602621,855,education-0,301,Moved Permanently,TMSSICT 1-87,text,true,,613,123,86,86,https://tmss-ict.com/education,855,0,574
+1685851603476,1127,education-1,200,OK,TMSSICT 1-87,text,true,,117134,124,86,86,https://tmss-ict.com/education/,565,0,0
+1685851594356,10282,education,200,OK,TMSSICT 1-4,text,true,,117820,247,85,85,https://tmss-ict.com/education/,9147,0,1131
+1685851594356,9147,education-0,301,Moved Permanently,TMSSICT 1-4,text,true,,686,123,85,85,https://tmss-ict.com/education,9147,0,1131
+1685851603504,1134,education-1,200,OK,TMSSICT 1-4,text,true,,117134,124,85,85,https://tmss-ict.com/education/,571,0,0
+1685851602724,2018,education,200,OK,TMSSICT 1-88,text,true,,117747,247,84,84,https://tmss-ict.com/education/,875,0,591
+1685851602724,875,education-0,301,Moved Permanently,TMSSICT 1-88,text,true,,613,123,84,84,https://tmss-ict.com/education,875,0,591
+1685851603599,1143,education-1,200,OK,TMSSICT 1-88,text,true,,117134,124,84,84,https://tmss-ict.com/education/,570,0,0
+1685851602833,2023,education,200,OK,TMSSICT 1-89,text,true,,117747,247,83,83,https://tmss-ict.com/education/,879,0,592
+1685851602833,879,education-0,301,Moved Permanently,TMSSICT 1-89,text,true,,613,123,83,83,https://tmss-ict.com/education,879,0,592
+1685851603712,1144,education-1,200,OK,TMSSICT 1-89,text,true,,117134,124,83,83,https://tmss-ict.com/education/,574,0,0
+1685851602923,1988,education,200,OK,TMSSICT 1-90,text,true,,117747,247,82,82,https://tmss-ict.com/education/,860,0,573
+1685851602923,860,education-0,301,Moved Permanently,TMSSICT 1-90,text,true,,613,123,82,82,https://tmss-ict.com/education,860,0,573
+1685851603783,1128,education-1,200,OK,TMSSICT 1-90,text,true,,117134,124,82,82,https://tmss-ict.com/education/,565,0,0
+1685851603021,2010,education,200,OK,TMSSICT 1-91,text,true,,117747,247,81,81,https://tmss-ict.com/education/,880,0,593
+1685851603021,880,education-0,301,Moved Permanently,TMSSICT 1-91,text,true,,613,123,81,81,https://tmss-ict.com/education,880,0,593
+1685851603901,1130,education-1,200,OK,TMSSICT 1-91,text,true,,117134,124,81,81,https://tmss-ict.com/education/,566,0,0
+1685851594862,10217,education,200,OK,TMSSICT 1-9,text,true,,117820,247,80,80,https://tmss-ict.com/education/,9050,0,629
+1685851594862,9050,education-0,301,Moved Permanently,TMSSICT 1-9,text,true,,686,123,80,80,https://tmss-ict.com/education,9050,0,629
+1685851603914,1165,education-1,200,OK,TMSSICT 1-9,text,true,,117134,124,80,80,https://tmss-ict.com/education/,585,0,0
+1685851603130,1983,education,200,OK,TMSSICT 1-92,text,true,,117747,247,79,79,https://tmss-ict.com/education/,866,0,587
+1685851603130,866,education-0,301,Moved Permanently,TMSSICT 1-92,text,true,,613,123,79,79,https://tmss-ict.com/education,866,0,587
+1685851603996,1117,education-1,200,OK,TMSSICT 1-92,text,true,,117134,124,79,79,https://tmss-ict.com/education/,560,0,0
+1685851595079,10147,education,200,OK,TMSSICT 1-11,text,true,,117820,247,78,78,https://tmss-ict.com/education/,9028,0,674
+1685851595079,9028,education-0,301,Moved Permanently,TMSSICT 1-11,text,true,,686,123,78,78,https://tmss-ict.com/education,9028,0,674
+1685851604108,1118,education-1,200,OK,TMSSICT 1-11,text,true,,117134,124,78,78,https://tmss-ict.com/education/,560,0,0
+1685851603226,2047,education,200,OK,TMSSICT 1-93,text,true,,117747,247,77,77,https://tmss-ict.com/education/,885,0,594
+1685851603226,885,education-0,301,Moved Permanently,TMSSICT 1-93,text,true,,613,123,77,77,https://tmss-ict.com/education,885,0,594
+1685851604111,1162,education-1,200,OK,TMSSICT 1-93,text,true,,117134,124,77,77,https://tmss-ict.com/education/,581,0,0
+1685851594752,10565,education,200,OK,TMSSICT 1-8,text,true,,117820,247,76,76,https://tmss-ict.com/education/,9449,0,704
+1685851594752,9449,education-0,301,Moved Permanently,TMSSICT 1-8,text,true,,686,123,76,76,https://tmss-ict.com/education,9449,0,704
+1685851604202,1115,education-1,200,OK,TMSSICT 1-8,text,true,,117134,124,76,76,https://tmss-ict.com/education/,280,0,0
+1685851603326,2024,education,200,OK,TMSSICT 1-94,text,true,,117747,247,75,75,https://tmss-ict.com/education/,884,0,598
+1685851603326,884,education-0,301,Moved Permanently,TMSSICT 1-94,text,true,,613,123,75,75,https://tmss-ict.com/education,884,0,598
+1685851604210,1140,education-1,200,OK,TMSSICT 1-94,text,true,,117134,124,75,75,https://tmss-ict.com/education/,572,0,0
+1685851595517,9837,education,200,OK,TMSSICT 1-15,text,true,,117820,247,74,74,https://tmss-ict.com/education/,8692,0,598
+1685851595517,8692,education-0,301,Moved Permanently,TMSSICT 1-15,text,true,,686,123,74,74,https://tmss-ict.com/education,8692,0,598
+1685851604210,1144,education-1,200,OK,TMSSICT 1-15,text,true,,117134,124,74,74,https://tmss-ict.com/education/,573,0,0
+1685851594455,10982,education,200,OK,TMSSICT 1-5,text,true,,117820,247,73,73,https://tmss-ict.com/education/,9847,0,988
+1685851594455,9847,education-0,301,Moved Permanently,TMSSICT 1-5,text,true,,686,123,73,73,https://tmss-ict.com/education,9847,0,988
+1685851604303,1134,education-1,200,OK,TMSSICT 1-5,text,true,,117134,124,73,73,https://tmss-ict.com/education/,567,0,0
+1685851594653,10799,education,200,OK,TMSSICT 1-7,text,true,,117820,247,72,72,https://tmss-ict.com/education/,9659,0,775
+1685851594653,9659,education-0,301,Moved Permanently,TMSSICT 1-7,text,true,,686,123,72,72,https://tmss-ict.com/education,9659,0,775
+1685851604313,1139,education-1,200,OK,TMSSICT 1-7,text,true,,117134,124,72,72,https://tmss-ict.com/education/,569,0,0
+1685851603428,2040,education,200,OK,TMSSICT 1-95,text,true,,117747,247,71,71,https://tmss-ict.com/education/,890,0,603
+1685851603428,890,education-0,301,Moved Permanently,TMSSICT 1-95,text,true,,613,123,71,71,https://tmss-ict.com/education,890,0,603
+1685851604318,1150,education-1,200,OK,TMSSICT 1-95,text,true,,117134,124,71,71,https://tmss-ict.com/education/,580,0,0
+1685851603526,1957,education,200,OK,TMSSICT 1-96,text,true,,117747,247,70,70,https://tmss-ict.com/education/,846,0,569
+1685851603526,846,education-0,301,Moved Permanently,TMSSICT 1-96,text,true,,613,123,70,70,https://tmss-ict.com/education,846,0,569
+1685851604372,1111,education-1,200,OK,TMSSICT 1-96,text,true,,117134,124,70,70,https://tmss-ict.com/education/,556,0,0
+1685851594259,11284,education,200,OK,TMSSICT 1-1,text,true,,117820,247,69,69,https://tmss-ict.com/education/,10150,0,1170
+1685851594259,10150,education-0,301,Moved Permanently,TMSSICT 1-1,text,true,,686,123,69,69,https://tmss-ict.com/education,10150,0,1170
+1685851604410,1133,education-1,200,OK,TMSSICT 1-1,text,true,,117134,124,69,69,https://tmss-ict.com/education/,567,0,0
+1685851603633,2020,education,200,OK,TMSSICT 1-97,text,true,,117747,247,68,68,https://tmss-ict.com/education/,876,0,587
+1685851603633,876,education-0,301,Moved Permanently,TMSSICT 1-97,text,true,,613,123,68,68,https://tmss-ict.com/education,876,0,587
+1685851604509,1144,education-1,200,OK,TMSSICT 1-97,text,true,,117134,124,68,68,https://tmss-ict.com/education/,574,0,0
+1685851603727,1984,education,200,OK,TMSSICT 1-98,text,true,,117747,247,67,67,https://tmss-ict.com/education/,867,0,582
+1685851603727,867,education-0,301,Moved Permanently,TMSSICT 1-98,text,true,,613,123,67,67,https://tmss-ict.com/education,867,0,582
+1685851604594,1117,education-1,200,OK,TMSSICT 1-98,text,true,,117134,124,67,67,https://tmss-ict.com/education/,559,0,0
+1685851603830,2023,education,200,OK,TMSSICT 1-99,text,true,,117747,247,66,66,https://tmss-ict.com/education/,877,0,589
+1685851603830,877,education-0,301,Moved Permanently,TMSSICT 1-99,text,true,,613,123,66,66,https://tmss-ict.com/education,877,0,589
+1685851604707,1146,education-1,200,OK,TMSSICT 1-99,text,true,,117134,124,66,66,https://tmss-ict.com/education/,574,0,0
+1685851603931,1992,education,200,OK,TMSSICT 1-100,text,true,,117747,247,65,65,https://tmss-ict.com/education/,868,0,585
+1685851603931,868,education-0,301,Moved Permanently,TMSSICT 1-100,text,true,,613,123,65,65,https://tmss-ict.com/education,868,0,585
+1685851604799,1124,education-1,200,OK,TMSSICT 1-100,text,true,,117134,124,65,65,https://tmss-ict.com/education/,563,0,0
+1685851595255,10699,education,200,OK,TMSSICT 1-13,text,true,,117820,247,64,64,https://tmss-ict.com/education/,9557,0,607
+1685851595255,9557,education-0,301,Moved Permanently,TMSSICT 1-13,text,true,,686,123,64,64,https://tmss-ict.com/education,9557,0,607
+1685851604814,1140,education-1,200,OK,TMSSICT 1-13,text,true,,117134,124,64,64,https://tmss-ict.com/education/,570,0,0
+1685851595149,10975,education,200,OK,TMSSICT 1-12,text,true,,117820,247,63,63,https://tmss-ict.com/education/,9869,0,617
+1685851595149,9869,education-0,301,Moved Permanently,TMSSICT 1-12,text,true,,686,123,63,63,https://tmss-ict.com/education,9869,0,617
+1685851605020,1104,education-1,200,OK,TMSSICT 1-12,text,true,,117134,124,63,63,https://tmss-ict.com/education/,553,0,0
+1685851595349,11210,education,200,OK,TMSSICT 1-14,text,true,,117820,247,62,62,https://tmss-ict.com/education/,10062,0,616
+1685851595349,10062,education-0,301,Moved Permanently,TMSSICT 1-14,text,true,,686,123,62,62,https://tmss-ict.com/education,10062,0,616
+1685851605412,1147,education-1,200,OK,TMSSICT 1-14,text,true,,117134,124,62,62,https://tmss-ict.com/education/,574,0,0
+1685851595843,15289,education,200,OK,TMSSICT 1-19,text,true,,117820,247,61,61,https://tmss-ict.com/education/,14158,0,608
+1685851595843,14158,education-0,301,Moved Permanently,TMSSICT 1-19,text,true,,686,123,61,61,https://tmss-ict.com/education,14158,0,608
+1685851610002,1130,education-1,200,OK,TMSSICT 1-19,text,true,,117134,124,61,61,https://tmss-ict.com/education/,566,0,0
+1685851595646,15506,education,200,OK,TMSSICT 1-17,text,true,,117820,247,60,60,https://tmss-ict.com/education/,14365,0,602
+1685851595646,14365,education-0,301,Moved Permanently,TMSSICT 1-17,text,true,,686,123,60,60,https://tmss-ict.com/education,14365,0,602
+1685851610012,1140,education-1,200,OK,TMSSICT 1-17,text,true,,117134,124,60,60,https://tmss-ict.com/education/,286,0,0
+1685851595557,15601,education,200,OK,TMSSICT 1-16,text,true,,117820,247,59,59,https://tmss-ict.com/education/,14454,0,600
+1685851595557,14454,education-0,301,Moved Permanently,TMSSICT 1-16,text,true,,686,123,59,59,https://tmss-ict.com/education,14454,0,600
+1685851610012,1146,education-1,200,OK,TMSSICT 1-16,text,true,,117134,124,59,59,https://tmss-ict.com/education/,287,0,0
+1685851595753,15585,education,200,OK,TMSSICT 1-18,text,true,,117820,247,58,58,https://tmss-ict.com/education/,14453,0,600
+1685851595753,14453,education-0,301,Moved Permanently,TMSSICT 1-18,text,true,,686,123,58,58,https://tmss-ict.com/education,14453,0,600
+1685851610208,1130,education-1,200,OK,TMSSICT 1-18,text,true,,117134,124,58,58,https://tmss-ict.com/education/,283,0,0
+1685851595945,15873,education,200,OK,TMSSICT 1-20,text,true,,117820,247,57,57,https://tmss-ict.com/education/,14754,0,575
+1685851595945,14754,education-0,301,Moved Permanently,TMSSICT 1-20,text,true,,686,123,57,57,https://tmss-ict.com/education,14754,0,575
+1685851610700,1118,education-1,200,OK,TMSSICT 1-20,text,true,,117134,124,57,57,https://tmss-ict.com/education/,560,0,0
+1685851596042,15887,education,200,OK,TMSSICT 1-21,text,true,,117820,247,56,56,https://tmss-ict.com/education/,14760,0,593
+1685851596042,14760,education-0,301,Moved Permanently,TMSSICT 1-21,text,true,,686,123,56,56,https://tmss-ict.com/education,14760,0,593
+1685851610803,1126,education-1,200,OK,TMSSICT 1-21,text,true,,117134,124,56,56,https://tmss-ict.com/education/,564,0,0
+1685851596341,15597,education,200,OK,TMSSICT 1-24,text,true,,117820,247,55,55,https://tmss-ict.com/education/,14466,0,596
+1685851596341,14466,education-0,301,Moved Permanently,TMSSICT 1-24,text,true,,686,123,55,55,https://tmss-ict.com/education,14466,0,596
+1685851610808,1130,education-1,200,OK,TMSSICT 1-24,text,true,,117134,124,55,55,https://tmss-ict.com/education/,284,0,0
+1685851596463,15961,education,200,OK,TMSSICT 1-25,text,true,,117820,247,54,54,https://tmss-ict.com/education/,14836,0,588
+1685851596463,14836,education-0,301,Moved Permanently,TMSSICT 1-25,text,true,,686,123,54,54,https://tmss-ict.com/education,14836,0,588
+1685851611300,1124,education-1,200,OK,TMSSICT 1-25,text,true,,117134,124,54,54,https://tmss-ict.com/education/,562,0,0
+1685851596142,16510,education,200,OK,TMSSICT 1-22,text,true,,117820,247,53,53,https://tmss-ict.com/education/,15361,0,619
+1685851596142,15361,education-0,301,Moved Permanently,TMSSICT 1-22,text,true,,686,123,53,53,https://tmss-ict.com/education,15361,0,619
+1685851611505,1147,education-1,200,OK,TMSSICT 1-22,text,true,,117134,124,53,53,https://tmss-ict.com/education/,287,0,0
+1685851596241,16732,education,200,OK,TMSSICT 1-23,text,true,,117820,247,52,52,https://tmss-ict.com/education/,15578,0,610
+1685851596241,15578,education-0,301,Moved Permanently,TMSSICT 1-23,text,true,,686,123,52,52,https://tmss-ict.com/education,15578,0,610
+1685851611820,1153,education-1,200,OK,TMSSICT 1-23,text,true,,117134,124,52,52,https://tmss-ict.com/education/,581,0,0
+1685851596539,16598,education,200,OK,TMSSICT 1-26,text,true,,117820,247,51,51,https://tmss-ict.com/education/,15467,0,596
+1685851596539,15467,education-0,301,Moved Permanently,TMSSICT 1-26,text,true,,686,123,51,51,https://tmss-ict.com/education,15467,0,596
+1685851612007,1130,education-1,200,OK,TMSSICT 1-26,text,true,,117134,124,51,51,https://tmss-ict.com/education/,283,0,0
+1685851596641,16602,education,200,OK,TMSSICT 1-27,text,true,,117820,247,50,50,https://tmss-ict.com/education/,15466,0,609
+1685851596641,15466,education-0,301,Moved Permanently,TMSSICT 1-27,text,true,,686,123,50,50,https://tmss-ict.com/education,15466,0,609
+1685851612109,1134,education-1,200,OK,TMSSICT 1-27,text,true,,117134,124,50,50,https://tmss-ict.com/education/,285,0,0
+1685851596738,16510,education,200,OK,TMSSICT 1-28,text,true,,117820,247,49,49,https://tmss-ict.com/education/,15365,0,593
+1685851596738,15365,education-0,301,Moved Permanently,TMSSICT 1-28,text,true,,686,123,49,49,https://tmss-ict.com/education,15365,0,593
+1685851612104,1144,education-1,200,OK,TMSSICT 1-28,text,true,,117134,124,49,49,https://tmss-ict.com/education/,286,0,0
+1685851596838,16902,education,200,OK,TMSSICT 1-29,text,true,,117820,247,48,48,https://tmss-ict.com/education/,15762,0,602
+1685851596838,15762,education-0,301,Moved Permanently,TMSSICT 1-29,text,true,,686,123,48,48,https://tmss-ict.com/education,15762,0,602
+1685851612601,1139,education-1,200,OK,TMSSICT 1-29,text,true,,117134,124,48,48,https://tmss-ict.com/education/,566,0,0
+1685851596947,16918,education,200,OK,TMSSICT 1-30,text,true,,117820,247,47,47,https://tmss-ict.com/education/,15760,0,605
+1685851596947,15760,education-0,301,Moved Permanently,TMSSICT 1-30,text,true,,686,123,47,47,https://tmss-ict.com/education,15760,0,605
+1685851612709,1156,education-1,200,OK,TMSSICT 1-30,text,true,,117134,124,47,47,https://tmss-ict.com/education/,577,0,0
+1685851597039,20576,education,200,OK,TMSSICT 1-31,text,true,,117820,247,46,46,https://tmss-ict.com/education/,19458,0,581
+1685851597039,19458,education-0,301,Moved Permanently,TMSSICT 1-31,text,true,,686,123,46,46,https://tmss-ict.com/education,19458,0,581
+1685851616499,1116,education-1,200,OK,TMSSICT 1-31,text,true,,117134,124,46,46,https://tmss-ict.com/education/,280,0,0
+1685851597140,20899,education,200,OK,TMSSICT 1-32,text,true,,117820,247,45,45,https://tmss-ict.com/education/,19764,0,600
+1685851597140,19764,education-0,301,Moved Permanently,TMSSICT 1-32,text,true,,686,123,45,45,https://tmss-ict.com/education,19764,0,600
+1685851616906,1133,education-1,200,OK,TMSSICT 1-32,text,true,,117134,124,45,45,https://tmss-ict.com/education/,569,0,0
+1685851597634,21002,education,200,OK,TMSSICT 1-37,text,true,,117820,247,44,44,https://tmss-ict.com/education/,19870,0,599
+1685851597634,19870,education-0,301,Moved Permanently,TMSSICT 1-37,text,true,,686,123,44,44,https://tmss-ict.com/education,19870,0,599
+1685851617505,1131,education-1,200,OK,TMSSICT 1-37,text,true,,117134,124,44,44,https://tmss-ict.com/education/,566,0,0
+1685851597336,21394,education,200,OK,TMSSICT 1-34,text,true,,117820,247,43,43,https://tmss-ict.com/education/,20265,0,594
+1685851597336,20265,education-0,301,Moved Permanently,TMSSICT 1-34,text,true,,686,123,43,43,https://tmss-ict.com/education,20265,0,594
+1685851617603,1127,education-1,200,OK,TMSSICT 1-34,text,true,,117134,124,43,43,https://tmss-ict.com/education/,283,0,0
+1685851597537,21203,education,200,OK,TMSSICT 1-36,text,true,,117820,247,42,42,https://tmss-ict.com/education/,20069,0,614
+1685851597537,20069,education-0,301,Moved Permanently,TMSSICT 1-36,text,true,,686,123,42,42,https://tmss-ict.com/education,20069,0,614
+1685851617607,1133,education-1,200,OK,TMSSICT 1-36,text,true,,117134,124,42,42,https://tmss-ict.com/education/,568,0,0
+1685851597438,21681,education,200,OK,TMSSICT 1-35,text,true,,117820,247,41,41,https://tmss-ict.com/education/,20565,0,593
+1685851597438,20565,education-0,301,Moved Permanently,TMSSICT 1-35,text,true,,686,123,41,41,https://tmss-ict.com/education,20565,0,593
+1685851618004,1115,education-1,200,OK,TMSSICT 1-35,text,true,,117134,124,41,41,https://tmss-ict.com/education/,558,0,0
+1685851597240,21915,education,200,OK,TMSSICT 1-33,text,true,,117820,247,40,40,https://tmss-ict.com/education/,20768,0,617
+1685851597240,20768,education-0,301,Moved Permanently,TMSSICT 1-33,text,true,,686,123,40,40,https://tmss-ict.com/education,20768,0,617
+1685851618010,1145,education-1,200,OK,TMSSICT 1-33,text,true,,117134,124,40,40,https://tmss-ict.com/education/,572,0,0
+1685851597836,21676,education,200,OK,TMSSICT 1-39,text,true,,117820,247,39,39,https://tmss-ict.com/education/,20562,0,588
+1685851597836,20562,education-0,301,Moved Permanently,TMSSICT 1-39,text,true,,686,123,39,39,https://tmss-ict.com/education,20562,0,588
+1685851618400,1112,education-1,200,OK,TMSSICT 1-39,text,true,,117134,124,39,39,https://tmss-ict.com/education/,556,0,0
+1685851598045,21474,education,200,OK,TMSSICT 1-41,text,true,,117820,247,38,38,https://tmss-ict.com/education/,20355,0,583
+1685851598045,20355,education-0,301,Moved Permanently,TMSSICT 1-41,text,true,,686,123,38,38,https://tmss-ict.com/education,20355,0,583
+1685851618401,1118,education-1,200,OK,TMSSICT 1-41,text,true,,117134,124,38,38,https://tmss-ict.com/education/,280,0,0
+1685851597737,22529,education,200,OK,TMSSICT 1-38,text,true,,117820,247,37,37,https://tmss-ict.com/education/,21371,0,599
+1685851597737,21371,education-0,301,Moved Permanently,TMSSICT 1-38,text,true,,686,123,37,37,https://tmss-ict.com/education,21371,0,599
+1685851619110,1156,education-1,200,OK,TMSSICT 1-38,text,true,,117134,124,37,37,https://tmss-ict.com/education/,286,0,0
+1685851597935,22390,education,200,OK,TMSSICT 1-40,text,true,,117820,247,36,36,https://tmss-ict.com/education/,21270,0,596
+1685851597935,21270,education-0,301,Moved Permanently,TMSSICT 1-40,text,true,,686,123,36,36,https://tmss-ict.com/education,21270,0,596
+1685851619206,1119,education-1,200,OK,TMSSICT 1-40,text,true,,117134,124,36,36,https://tmss-ict.com/education/,282,0,0
+1685851598237,22282,education,200,OK,TMSSICT 1-43,text,true,,117820,247,35,35,https://tmss-ict.com/education/,21161,0,592
+1685851598237,21161,education-0,301,Moved Permanently,TMSSICT 1-43,text,true,,686,123,35,35,https://tmss-ict.com/education,21161,0,592
+1685851619399,1120,education-1,200,OK,TMSSICT 1-43,text,true,,117134,124,35,35,https://tmss-ict.com/education/,561,0,0
+1685851598433,22127,education,200,OK,TMSSICT 1-45,text,true,,117820,247,34,34,https://tmss-ict.com/education/,20971,0,588
+1685851598433,20971,education-0,301,Moved Permanently,TMSSICT 1-45,text,true,,686,123,34,34,https://tmss-ict.com/education,20971,0,588
+1685851619406,1154,education-1,200,OK,TMSSICT 1-45,text,true,,117134,124,34,34,https://tmss-ict.com/education/,561,0,0
+1685851598336,22503,education,200,OK,TMSSICT 1-44,text,true,,117820,247,33,33,https://tmss-ict.com/education/,21364,0,589
+1685851598336,21364,education-0,301,Moved Permanently,TMSSICT 1-44,text,true,,686,123,33,33,https://tmss-ict.com/education,21364,0,589
+1685851619702,1137,education-1,200,OK,TMSSICT 1-44,text,true,,117134,124,33,33,https://tmss-ict.com/education/,279,0,0
+1685851598134,22918,education,200,OK,TMSSICT 1-42,text,true,,117820,247,32,32,https://tmss-ict.com/education/,21770,0,598
+1685851598134,21770,education-0,301,Moved Permanently,TMSSICT 1-42,text,true,,686,123,32,32,https://tmss-ict.com/education,21770,0,598
+1685851619905,1147,education-1,200,OK,TMSSICT 1-42,text,true,,117134,124,32,32,https://tmss-ict.com/education/,569,0,0
+1685851598528,25719,education,200,OK,TMSSICT 1-46,text,true,,117820,247,31,31,https://tmss-ict.com/education/,24582,0,604
+1685851598528,24582,education-0,301,Moved Permanently,TMSSICT 1-46,text,true,,686,123,31,31,https://tmss-ict.com/education,24582,0,604
+1685851623111,1136,education-1,200,OK,TMSSICT 1-46,text,true,,117134,124,31,31,https://tmss-ict.com/education/,569,0,0
+1685851598632,26428,education,200,OK,TMSSICT 1-47,text,true,,117820,247,30,30,https://tmss-ict.com/education/,25282,0,606
+1685851598632,25282,education-0,301,Moved Permanently,TMSSICT 1-47,text,true,,686,123,30,30,https://tmss-ict.com/education,25282,0,606
+1685851623915,1145,education-1,200,OK,TMSSICT 1-47,text,true,,117134,124,30,30,https://tmss-ict.com/education/,287,0,0
+1685851599029,26208,education,200,OK,TMSSICT 1-51,text,true,,117820,247,29,29,https://tmss-ict.com/education/,25072,0,583
+1685851599029,25072,education-0,301,Moved Permanently,TMSSICT 1-51,text,true,,686,123,29,29,https://tmss-ict.com/education,25072,0,583
+1685851624102,1135,education-1,200,OK,TMSSICT 1-51,text,true,,117134,124,29,29,https://tmss-ict.com/education/,575,0,0
+1685851599129,26207,education,200,OK,TMSSICT 1-52,text,true,,117820,247,28,28,https://tmss-ict.com/education/,25081,0,592
+1685851599129,25081,education-0,301,Moved Permanently,TMSSICT 1-52,text,true,,686,123,28,28,https://tmss-ict.com/education,25081,0,592
+1685851624211,1125,education-1,200,OK,TMSSICT 1-52,text,true,,117134,124,28,28,https://tmss-ict.com/education/,564,0,0
+1685851598929,26446,education,200,OK,TMSSICT 1-50,text,true,,117820,247,27,27,https://tmss-ict.com/education/,25312,0,602
+1685851598929,25312,education-0,301,Moved Permanently,TMSSICT 1-50,text,true,,686,123,27,27,https://tmss-ict.com/education,25312,0,602
+1685851624242,1133,education-1,200,OK,TMSSICT 1-50,text,true,,117134,124,27,27,https://tmss-ict.com/education/,284,0,0
+1685851598829,27389,education,200,OK,TMSSICT 1-49,text,true,,117820,247,26,26,https://tmss-ict.com/education/,26275,0,582
+1685851598829,26275,education-0,301,Moved Permanently,TMSSICT 1-49,text,true,,686,123,26,26,https://tmss-ict.com/education,26275,0,582
+1685851625105,1113,education-1,200,OK,TMSSICT 1-49,text,true,,117134,124,26,26,https://tmss-ict.com/education/,557,0,0
+1685851598732,27596,education,200,OK,TMSSICT 1-48,text,true,,117820,247,25,25,https://tmss-ict.com/education/,26475,0,587
+1685851598732,26475,education-0,301,Moved Permanently,TMSSICT 1-48,text,true,,686,123,25,25,https://tmss-ict.com/education,26475,0,587
+1685851625208,1120,education-1,200,OK,TMSSICT 1-48,text,true,,117134,124,25,25,https://tmss-ict.com/education/,281,0,0
+1685851599530,27495,education,200,OK,TMSSICT 1-56,text,true,,117820,247,24,24,https://tmss-ict.com/education/,26377,0,591
+1685851599530,26377,education-0,301,Moved Permanently,TMSSICT 1-56,text,true,,686,123,24,24,https://tmss-ict.com/education,26377,0,591
+1685851625907,1118,education-1,200,OK,TMSSICT 1-56,text,true,,117134,124,24,24,https://tmss-ict.com/education/,281,0,0
+1685851599624,27425,education,200,OK,TMSSICT 1-57,text,true,,117820,247,23,23,https://tmss-ict.com/education/,26289,0,591
+1685851599624,26289,education-0,301,Moved Permanently,TMSSICT 1-57,text,true,,686,123,23,23,https://tmss-ict.com/education,26289,0,591
+1685851625913,1136,education-1,200,OK,TMSSICT 1-57,text,true,,117134,124,23,23,https://tmss-ict.com/education/,285,0,0
+1685851599424,27711,education,200,OK,TMSSICT 1-55,text,true,,117820,247,22,22,https://tmss-ict.com/education/,26583,0,595
+1685851599424,26583,education-0,301,Moved Permanently,TMSSICT 1-55,text,true,,686,123,22,22,https://tmss-ict.com/education,26583,0,595
+1685851626007,1128,education-1,200,OK,TMSSICT 1-55,text,true,,117134,124,22,22,https://tmss-ict.com/education/,564,0,0
+1685851599338,27988,education,200,OK,TMSSICT 1-54,text,true,,117820,247,21,21,https://tmss-ict.com/education/,26866,0,593
+1685851599338,26866,education-0,301,Moved Permanently,TMSSICT 1-54,text,true,,686,123,21,21,https://tmss-ict.com/education,26866,0,593
+1685851626204,1122,education-1,200,OK,TMSSICT 1-54,text,true,,117134,124,21,21,https://tmss-ict.com/education/,563,0,0
+1685851599229,28207,education,200,OK,TMSSICT 1-53,text,true,,117820,247,20,20,https://tmss-ict.com/education/,27077,0,592
+1685851599229,27077,education-0,301,Moved Permanently,TMSSICT 1-53,text,true,,686,123,20,20,https://tmss-ict.com/education,27077,0,592
+1685851626306,1130,education-1,200,OK,TMSSICT 1-53,text,true,,117134,124,20,20,https://tmss-ict.com/education/,566,0,0
+1685851599920,28014,education,200,OK,TMSSICT 1-60,text,true,,117820,247,19,19,https://tmss-ict.com/education/,26887,0,585
+1685851599920,26887,education-0,301,Moved Permanently,TMSSICT 1-60,text,true,,686,123,19,19,https://tmss-ict.com/education,26887,0,585
+1685851626807,1127,education-1,200,OK,TMSSICT 1-60,text,true,,117134,124,19,19,https://tmss-ict.com/education/,565,0,0
+1685851599823,28126,education,200,OK,TMSSICT 1-59,text,true,,117820,247,18,18,https://tmss-ict.com/education/,26984,0,596
+1685851599823,26984,education-0,301,Moved Permanently,TMSSICT 1-59,text,true,,686,123,18,18,https://tmss-ict.com/education,26984,0,596
+1685851626808,1141,education-1,200,OK,TMSSICT 1-59,text,true,,117134,124,18,18,https://tmss-ict.com/education/,571,0,0
+1685851599722,28512,education,200,OK,TMSSICT 1-58,text,true,,117820,247,17,17,https://tmss-ict.com/education/,27383,0,591
+1685851599722,27383,education-0,301,Moved Permanently,TMSSICT 1-58,text,true,,686,123,17,17,https://tmss-ict.com/education,27383,0,591
+1685851627105,1129,education-1,200,OK,TMSSICT 1-58,text,true,,117134,124,17,17,https://tmss-ict.com/education/,283,0,0
+1685851600021,30910,education,200,OK,TMSSICT 1-61,text,true,,117820,247,16,16,https://tmss-ict.com/education/,29787,0,581
+1685851600021,29787,education-0,301,Moved Permanently,TMSSICT 1-61,text,true,,686,123,16,16,https://tmss-ict.com/education,29787,0,581
+1685851629808,1123,education-1,200,OK,TMSSICT 1-61,text,true,,117134,124,16,16,https://tmss-ict.com/education/,563,0,0
+1685851600417,30824,education,200,OK,TMSSICT 1-65,text,true,,117820,247,15,15,https://tmss-ict.com/education/,29698,0,588
+1685851600417,29698,education-0,301,Moved Permanently,TMSSICT 1-65,text,true,,686,123,15,15,https://tmss-ict.com/education,29698,0,588
+1685851630116,1125,education-1,200,OK,TMSSICT 1-65,text,true,,117134,124,15,15,https://tmss-ict.com/education/,563,0,0
+1685851600224,31897,education,200,OK,TMSSICT 1-63,text,true,,117820,247,14,14,https://tmss-ict.com/education/,30778,0,590
+1685851600224,30778,education-0,301,Moved Permanently,TMSSICT 1-63,text,true,,686,123,14,14,https://tmss-ict.com/education,30778,0,590
+1685851631002,1119,education-1,200,OK,TMSSICT 1-63,text,true,,117134,124,14,14,https://tmss-ict.com/education/,560,0,0
+1685851600322,31900,education,200,OK,TMSSICT 1-64,text,true,,117820,247,13,13,https://tmss-ict.com/education/,30781,0,606
+1685851600322,30781,education-0,301,Moved Permanently,TMSSICT 1-64,text,true,,686,123,13,13,https://tmss-ict.com/education,30781,0,606
+1685851631104,1118,education-1,200,OK,TMSSICT 1-64,text,true,,117134,124,13,13,https://tmss-ict.com/education/,559,0,0
+1685851600119,32420,education,200,OK,TMSSICT 1-62,text,true,,117820,247,12,12,https://tmss-ict.com/education/,31289,0,581
+1685851600119,31289,education-0,301,Moved Permanently,TMSSICT 1-62,text,true,,686,123,12,12,https://tmss-ict.com/education,31289,0,581
+1685851631408,1131,education-1,200,OK,TMSSICT 1-62,text,true,,117134,124,12,12,https://tmss-ict.com/education/,284,0,0
+1685851600518,32508,education,200,OK,TMSSICT 1-66,text,true,,117820,247,11,11,https://tmss-ict.com/education/,31385,0,586
+1685851600518,31385,education-0,301,Moved Permanently,TMSSICT 1-66,text,true,,686,123,11,11,https://tmss-ict.com/education,31385,0,586
+1685851631903,1123,education-1,200,OK,TMSSICT 1-66,text,true,,117134,124,11,11,https://tmss-ict.com/education/,282,0,0
+1685851600915,32533,education,200,OK,TMSSICT 1-70,text,true,,117820,247,10,10,https://tmss-ict.com/education/,31397,0,587
+1685851600915,31397,education-0,301,Moved Permanently,TMSSICT 1-70,text,true,,686,123,10,10,https://tmss-ict.com/education,31397,0,587
+1685851632312,1136,education-1,200,OK,TMSSICT 1-70,text,true,,117134,124,10,10,https://tmss-ict.com/education/,283,0,0
+1685851600617,33234,education,200,OK,TMSSICT 1-67,text,true,,117820,247,9,9,https://tmss-ict.com/education/,32097,0,593
+1685851600617,32097,education-0,301,Moved Permanently,TMSSICT 1-67,text,true,,686,123,9,9,https://tmss-ict.com/education,32097,0,593
+1685851632715,1136,education-1,200,OK,TMSSICT 1-67,text,true,,117134,124,9,9,https://tmss-ict.com/education/,569,0,0
+1685851601223,32703,education,200,OK,TMSSICT 1-73,text,true,,117820,247,8,8,https://tmss-ict.com/education/,31587,0,589
+1685851601223,31587,education-0,301,Moved Permanently,TMSSICT 1-73,text,true,,686,123,8,8,https://tmss-ict.com/education,31587,0,589
+1685851632810,1116,education-1,200,OK,TMSSICT 1-73,text,true,,117134,124,8,8,https://tmss-ict.com/education/,559,0,0
+1685851601308,32623,education,200,OK,TMSSICT 1-74,text,true,,117820,247,7,7,https://tmss-ict.com/education/,31503,0,584
+1685851601308,31503,education-0,301,Moved Permanently,TMSSICT 1-74,text,true,,686,123,7,7,https://tmss-ict.com/education,31503,0,584
+1685851632811,1120,education-1,200,OK,TMSSICT 1-74,text,true,,117134,124,7,7,https://tmss-ict.com/education/,281,0,0
+1685851600819,33217,education,200,OK,TMSSICT 1-69,text,true,,117820,247,6,6,https://tmss-ict.com/education/,32091,0,583
+1685851600819,32091,education-0,301,Moved Permanently,TMSSICT 1-69,text,true,,686,123,6,6,https://tmss-ict.com/education,32091,0,583
+1685851632910,1126,education-1,200,OK,TMSSICT 1-69,text,true,,117134,124,6,6,https://tmss-ict.com/education/,564,0,0
+1685851600717,33509,education,200,OK,TMSSICT 1-68,text,true,,117820,247,5,5,https://tmss-ict.com/education/,32393,0,662
+1685851600717,32393,education-0,301,Moved Permanently,TMSSICT 1-68,text,true,,686,123,5,5,https://tmss-ict.com/education,32393,0,662
+1685851633110,1116,education-1,200,OK,TMSSICT 1-68,text,true,,117134,124,5,5,https://tmss-ict.com/education/,281,0,0
+1685851601118,33241,education,200,OK,TMSSICT 1-72,text,true,,117820,247,4,4,https://tmss-ict.com/education/,32100,0,593
+1685851601118,32100,education-0,301,Moved Permanently,TMSSICT 1-72,text,true,,686,123,4,4,https://tmss-ict.com/education,32100,0,593
+1685851633218,1141,education-1,200,OK,TMSSICT 1-72,text,true,,117134,124,4,4,https://tmss-ict.com/education/,571,0,0
+1685851601407,33183,education,200,OK,TMSSICT 1-75,text,true,,117820,247,3,3,https://tmss-ict.com/education/,32023,0,612
+1685851601407,32023,education-0,301,Moved Permanently,TMSSICT 1-75,text,true,,686,123,3,3,https://tmss-ict.com/education,32023,0,612
+1685851633430,1160,education-1,200,OK,TMSSICT 1-75,text,true,,117134,124,3,3,https://tmss-ict.com/education/,581,0,0
+1685851601013,33721,education,200,OK,TMSSICT 1-71,text,true,,117820,247,2,2,https://tmss-ict.com/education/,32595,0,588
+1685851601013,32595,education-0,301,Moved Permanently,TMSSICT 1-71,text,true,,686,123,2,2,https://tmss-ict.com/education,32595,0,588
+1685851633608,1126,education-1,200,OK,TMSSICT 1-71,text,true,,117134,124,2,2,https://tmss-ict.com/education/,564,0,0
+1685851601507,33364,education,200,OK,TMSSICT 1-76,text,true,,117820,247,1,1,https://tmss-ict.com/education/,32235,0,584
+1685851601507,32235,education-0,301,Moved Permanently,TMSSICT 1-76,text,true,,686,123,1,1,https://tmss-ict.com/education,32235,0,584
+1685851633742,1129,education-1,200,OK,TMSSICT 1-76,text,true,,117134,124,1,1,https://tmss-ict.com/education/,566,0,0

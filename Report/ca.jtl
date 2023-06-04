@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1685851275401,8444,ca,200,OK,TMSSICT 1-6,text,true,,103359,233,90,90,https://tmss-ict.com/ca/,7318,0,898
+1685851275401,7322,ca-0,301,Moved Permanently,TMSSICT 1-6,text,true,,679,116,90,90,https://tmss-ict.com/ca,7318,0,898
+1685851282725,1120,ca-1,200,OK,TMSSICT 1-6,text,true,,102680,117,90,90,https://tmss-ict.com/ca/,561,0,0
+1685851281874,1997,ca,200,OK,TMSSICT 1-71,text,true,,103286,233,89,89,https://tmss-ict.com/ca/,869,0,587
+1685851281874,869,ca-0,301,Moved Permanently,TMSSICT 1-71,text,true,,606,116,89,89,https://tmss-ict.com/ca,869,0,587
+1685851282743,1128,ca-1,200,OK,TMSSICT 1-71,text,true,,102680,117,89,89,https://tmss-ict.com/ca/,566,0,0
+1685851281979,2009,ca,200,OK,TMSSICT 1-72,text,true,,103286,233,90,90,https://tmss-ict.com/ca/,874,0,590
+1685851281979,874,ca-0,301,Moved Permanently,TMSSICT 1-72,text,true,,606,116,90,90,https://tmss-ict.com/ca,874,0,590
+1685851282854,1134,ca-1,200,OK,TMSSICT 1-72,text,true,,102680,117,90,90,https://tmss-ict.com/ca/,568,0,0
+1685851282079,2010,ca,200,OK,TMSSICT 1-73,text,true,,103286,233,90,90,https://tmss-ict.com/ca/,881,0,603
+1685851282079,881,ca-0,301,Moved Permanently,TMSSICT 1-73,text,true,,606,116,90,90,https://tmss-ict.com/ca,881,0,603
+1685851282960,1129,ca-1,200,OK,TMSSICT 1-73,text,true,,102680,117,90,90,https://tmss-ict.com/ca/,557,0,0
+1685851282180,1998,ca,200,OK,TMSSICT 1-74,text,true,,103286,233,89,89,https://tmss-ict.com/ca/,867,0,584
+1685851282180,867,ca-0,301,Moved Permanently,TMSSICT 1-74,text,true,,606,116,89,89,https://tmss-ict.com/ca,867,0,584
+1685851283047,1131,ca-1,200,OK,TMSSICT 1-74,text,true,,102680,117,89,89,https://tmss-ict.com/ca/,567,0,0
+1685851282280,1990,ca,200,OK,TMSSICT 1-75,text,true,,103286,233,89,89,https://tmss-ict.com/ca/,869,0,581
+1685851282280,869,ca-0,301,Moved Permanently,TMSSICT 1-75,text,true,,606,116,89,89,https://tmss-ict.com/ca,869,0,581
+1685851283149,1121,ca-1,200,OK,TMSSICT 1-75,text,true,,102680,117,89,89,https://tmss-ict.com/ca/,562,0,0
+1685851282390,2000,ca,200,OK,TMSSICT 1-76,text,true,,103286,233,90,90,https://tmss-ict.com/ca/,869,0,589
+1685851282390,869,ca-0,301,Moved Permanently,TMSSICT 1-76,text,true,,606,116,90,90,https://tmss-ict.com/ca,869,0,589
+1685851283260,1130,ca-1,200,OK,TMSSICT 1-76,text,true,,102680,117,90,90,https://tmss-ict.com/ca/,560,0,0
+1685851282483,1963,ca,200,OK,TMSSICT 1-77,text,true,,103286,233,89,89,https://tmss-ict.com/ca/,847,0,570
+1685851282483,847,ca-0,301,Moved Permanently,TMSSICT 1-77,text,true,,606,116,89,89,https://tmss-ict.com/ca,847,0,570
+1685851283331,1115,ca-1,200,OK,TMSSICT 1-77,text,true,,102680,117,89,89,https://tmss-ict.com/ca/,555,0,0
+1685851282582,1968,ca,200,OK,TMSSICT 1-78,text,true,,103286,233,89,89,https://tmss-ict.com/ca/,858,0,580
+1685851282582,858,ca-0,301,Moved Permanently,TMSSICT 1-78,text,true,,606,116,89,89,https://tmss-ict.com/ca,858,0,580
+1685851283440,1110,ca-1,200,OK,TMSSICT 1-78,text,true,,102680,117,89,89,https://tmss-ict.com/ca/,556,0,0
+1685851282685,1989,ca,200,OK,TMSSICT 1-79,text,true,,103286,233,89,89,https://tmss-ict.com/ca/,873,0,591
+1685851282685,873,ca-0,301,Moved Permanently,TMSSICT 1-79,text,true,,606,116,89,89,https://tmss-ict.com/ca,873,0,591
+1685851283558,1116,ca-1,200,OK,TMSSICT 1-79,text,true,,102680,117,89,89,https://tmss-ict.com/ca/,558,0,0
+1685851275700,9017,ca,200,OK,TMSSICT 1-9,text,true,,103359,233,89,89,https://tmss-ict.com/ca/,7900,0,624
+1685851275700,7900,ca-0,301,Moved Permanently,TMSSICT 1-9,text,true,,679,116,89,89,https://tmss-ict.com/ca,7900,0,624
+1685851283600,1117,ca-1,200,OK,TMSSICT 1-9,text,true,,102680,117,89,89,https://tmss-ict.com/ca/,561,0,0
+1685851282780,1996,ca,200,OK,TMSSICT 1-80,text,true,,103286,233,88,88,https://tmss-ict.com/ca/,862,0,579
+1685851282780,862,ca-0,301,Moved Permanently,TMSSICT 1-80,text,true,,606,116,88,88,https://tmss-ict.com/ca,862,0,579
+1685851283642,1134,ca-1,200,OK,TMSSICT 1-80,text,true,,102680,117,88,88,https://tmss-ict.com/ca/,567,0,0
+1685851282882,1977,ca,200,OK,TMSSICT 1-81,text,true,,103286,233,88,88,https://tmss-ict.com/ca/,855,0,574
+1685851282882,855,ca-0,301,Moved Permanently,TMSSICT 1-81,text,true,,606,116,88,88,https://tmss-ict.com/ca,855,0,574
+1685851283737,1122,ca-1,200,OK,TMSSICT 1-81,text,true,,102680,117,88,88,https://tmss-ict.com/ca/,563,0,0
+1685851282982,2004,ca,200,OK,TMSSICT 1-82,text,true,,103286,233,87,87,https://tmss-ict.com/ca/,878,0,590
+1685851282982,878,ca-0,301,Moved Permanently,TMSSICT 1-82,text,true,,606,116,87,87,https://tmss-ict.com/ca,878,0,590
+1685851283860,1126,ca-1,200,OK,TMSSICT 1-82,text,true,,102680,117,87,87,https://tmss-ict.com/ca/,558,0,0
+1685851275107,9930,ca,200,OK,TMSSICT 1-3,text,true,,103359,233,86,86,https://tmss-ict.com/ca/,8804,0,1208
+1685851275107,8804,ca-0,301,Moved Permanently,TMSSICT 1-3,text,true,,679,116,86,86,https://tmss-ict.com/ca,8804,0,1208
+1685851283911,1126,ca-1,200,OK,TMSSICT 1-3,text,true,,102680,117,86,86,https://tmss-ict.com/ca/,283,0,0
+1685851283081,1960,ca,200,OK,TMSSICT 1-83,text,true,,103286,233,85,85,https://tmss-ict.com/ca/,846,0,567
+1685851283081,846,ca-0,301,Moved Permanently,TMSSICT 1-83,text,true,,606,116,85,85,https://tmss-ict.com/ca,846,0,567
+1685851283928,1113,ca-1,200,OK,TMSSICT 1-83,text,true,,102680,117,85,85,https://tmss-ict.com/ca/,558,0,0
+1685851275302,9819,ca,200,OK,TMSSICT 1-5,text,true,,103359,233,84,84,https://tmss-ict.com/ca/,8700,0,1010
+1685851275302,8700,ca-0,301,Moved Permanently,TMSSICT 1-5,text,true,,679,116,84,84,https://tmss-ict.com/ca,8700,0,1010
+1685851284002,1119,ca-1,200,OK,TMSSICT 1-5,text,true,,102680,117,84,84,https://tmss-ict.com/ca/,281,0,0
+1685851283181,2014,ca,200,OK,TMSSICT 1-84,text,true,,103286,233,83,83,https://tmss-ict.com/ca/,861,0,578
+1685851283181,861,ca-0,301,Moved Permanently,TMSSICT 1-84,text,true,,606,116,83,83,https://tmss-ict.com/ca,861,0,578
+1685851284042,1153,ca-1,200,OK,TMSSICT 1-84,text,true,,102680,117,83,83,https://tmss-ict.com/ca/,566,0,0
+1685851275203,10024,ca,200,OK,TMSSICT 1-4,text,true,,103359,233,82,82,https://tmss-ict.com/ca/,8897,0,1103
+1685851275203,8897,ca-0,301,Moved Permanently,TMSSICT 1-4,text,true,,679,116,82,82,https://tmss-ict.com/ca,8897,0,1103
+1685851284100,1127,ca-1,200,OK,TMSSICT 1-4,text,true,,102680,117,82,82,https://tmss-ict.com/ca/,286,0,0
+1685851276097,9151,ca,200,OK,TMSSICT 1-13,text,true,,103359,233,81,81,https://tmss-ict.com/ca/,8015,0,603
+1685851276097,8015,ca-0,301,Moved Permanently,TMSSICT 1-13,text,true,,679,116,81,81,https://tmss-ict.com/ca,8015,0,603
+1685851284112,1136,ca-1,200,OK,TMSSICT 1-13,text,true,,102680,117,81,81,https://tmss-ict.com/ca/,570,0,0
+1685851283282,1993,ca,200,OK,TMSSICT 1-85,text,true,,103286,233,80,80,https://tmss-ict.com/ca/,869,0,582
+1685851283282,869,ca-0,301,Moved Permanently,TMSSICT 1-85,text,true,,606,116,80,80,https://tmss-ict.com/ca,869,0,582
+1685851284151,1124,ca-1,200,OK,TMSSICT 1-85,text,true,,102680,117,80,80,https://tmss-ict.com/ca/,565,0,0
+1685851275921,9416,ca,200,OK,TMSSICT 1-11,text,true,,103359,233,79,79,https://tmss-ict.com/ca/,8283,0,603
+1685851275921,8283,ca-0,301,Moved Permanently,TMSSICT 1-11,text,true,,679,116,79,79,https://tmss-ict.com/ca,8283,0,603
+1685851284204,1133,ca-1,200,OK,TMSSICT 1-11,text,true,,102680,117,79,79,https://tmss-ict.com/ca/,284,0,0
+1685851275068,10289,ca,200,OK,TMSSICT 1-2,text,true,,103359,233,78,78,https://tmss-ict.com/ca/,9141,0,1287
+1685851275068,9142,ca-0,301,Moved Permanently,TMSSICT 1-2,text,true,,679,116,78,78,https://tmss-ict.com/ca,9141,0,1287
+1685851284210,1147,ca-1,200,OK,TMSSICT 1-2,text,true,,102680,117,78,78,https://tmss-ict.com/ca/,575,0,0
+1685851283383,2012,ca,200,OK,TMSSICT 1-86,text,true,,103286,233,77,77,https://tmss-ict.com/ca/,874,0,589
+1685851283383,874,ca-0,301,Moved Permanently,TMSSICT 1-86,text,true,,606,116,77,77,https://tmss-ict.com/ca,874,0,589
+1685851284257,1138,ca-1,200,OK,TMSSICT 1-86,text,true,,102680,117,77,77,https://tmss-ict.com/ca/,570,0,0
+1685851275602,9814,ca,200,OK,TMSSICT 1-8,text,true,,103359,233,76,76,https://tmss-ict.com/ca/,8700,0,699
+1685851275602,8700,ca-0,301,Moved Permanently,TMSSICT 1-8,text,true,,679,116,76,76,https://tmss-ict.com/ca,8700,0,699
+1685851284302,1114,ca-1,200,OK,TMSSICT 1-8,text,true,,102680,117,76,76,https://tmss-ict.com/ca/,557,0,0
+1685851275068,10367,ca,200,OK,TMSSICT 1-1,text,true,,103359,233,75,75,https://tmss-ict.com/ca/,9239,0,1296
+1685851275068,9239,ca-0,301,Moved Permanently,TMSSICT 1-1,text,true,,679,116,75,75,https://tmss-ict.com/ca,9239,0,1296
+1685851284307,1128,ca-1,200,OK,TMSSICT 1-1,text,true,,102680,117,75,75,https://tmss-ict.com/ca/,561,0,0
+1685851283482,1975,ca,200,OK,TMSSICT 1-87,text,true,,103286,233,74,74,https://tmss-ict.com/ca/,851,0,571
+1685851283482,851,ca-0,301,Moved Permanently,TMSSICT 1-87,text,true,,606,116,74,74,https://tmss-ict.com/ca,851,0,571
+1685851284334,1123,ca-1,200,OK,TMSSICT 1-87,text,true,,102680,117,74,74,https://tmss-ict.com/ca/,562,0,0
+1685851283582,1965,ca,200,OK,TMSSICT 1-88,text,true,,103286,233,73,73,https://tmss-ict.com/ca/,849,0,572
+1685851283582,849,ca-0,301,Moved Permanently,TMSSICT 1-88,text,true,,606,116,73,73,https://tmss-ict.com/ca,849,0,572
+1685851284431,1116,ca-1,200,OK,TMSSICT 1-88,text,true,,102680,117,73,73,https://tmss-ict.com/ca/,557,0,0
+1685851283685,2007,ca,200,OK,TMSSICT 1-89,text,true,,103286,233,72,72,https://tmss-ict.com/ca/,869,0,584
+1685851283685,869,ca-0,301,Moved Permanently,TMSSICT 1-89,text,true,,606,116,72,72,https://tmss-ict.com/ca,869,0,584
+1685851284554,1138,ca-1,200,OK,TMSSICT 1-89,text,true,,102680,117,72,72,https://tmss-ict.com/ca/,572,0,0
+1685851283782,2032,ca,200,OK,TMSSICT 1-90,text,true,,103286,233,71,71,https://tmss-ict.com/ca/,887,0,603
+1685851283782,887,ca-0,301,Moved Permanently,TMSSICT 1-90,text,true,,606,116,71,71,https://tmss-ict.com/ca,887,0,603
+1685851284669,1145,ca-1,200,OK,TMSSICT 1-90,text,true,,102680,117,71,71,https://tmss-ict.com/ca/,581,0,0
+1685851275502,10323,ca,200,OK,TMSSICT 1-7,text,true,,103359,233,70,70,https://tmss-ict.com/ca/,9195,0,800
+1685851275502,9195,ca-0,301,Moved Permanently,TMSSICT 1-7,text,true,,679,116,70,70,https://tmss-ict.com/ca,9195,0,800
+1685851284697,1128,ca-1,200,OK,TMSSICT 1-7,text,true,,102680,117,70,70,https://tmss-ict.com/ca/,559,0,0
+1685851283883,1975,ca,200,OK,TMSSICT 1-91,text,true,,103286,233,69,69,https://tmss-ict.com/ca/,852,0,572
+1685851283883,852,ca-0,301,Moved Permanently,TMSSICT 1-91,text,true,,606,116,69,69,https://tmss-ict.com/ca,852,0,572
+1685851284735,1123,ca-1,200,OK,TMSSICT 1-91,text,true,,102680,117,69,69,https://tmss-ict.com/ca/,563,0,0
+1685851283981,1976,ca,200,OK,TMSSICT 1-92,text,true,,103286,233,68,68,https://tmss-ict.com/ca/,853,0,573
+1685851283981,853,ca-0,301,Moved Permanently,TMSSICT 1-92,text,true,,606,116,68,68,https://tmss-ict.com/ca,853,0,573
+1685851284834,1123,ca-1,200,OK,TMSSICT 1-92,text,true,,102680,117,68,68,https://tmss-ict.com/ca/,563,0,0
+1685851284091,1977,ca,200,OK,TMSSICT 1-93,text,true,,103286,233,67,67,https://tmss-ict.com/ca/,859,0,577
+1685851284091,859,ca-0,301,Moved Permanently,TMSSICT 1-93,text,true,,606,116,67,67,https://tmss-ict.com/ca,859,0,577
+1685851284950,1118,ca-1,200,OK,TMSSICT 1-93,text,true,,102680,117,67,67,https://tmss-ict.com/ca/,561,0,0
+1685851275848,10265,ca,200,OK,TMSSICT 1-10,text,true,,103359,233,66,66,https://tmss-ict.com/ca/,9153,0,587
+1685851275848,9153,ca-0,301,Moved Permanently,TMSSICT 1-10,text,true,,679,116,66,66,https://tmss-ict.com/ca,9153,0,587
+1685851285001,1112,ca-1,200,OK,TMSSICT 1-10,text,true,,102680,117,66,66,https://tmss-ict.com/ca/,558,0,0
+1685851284182,2039,ca,200,OK,TMSSICT 1-94,text,true,,103286,233,65,65,https://tmss-ict.com/ca/,870,0,584
+1685851284182,870,ca-0,301,Moved Permanently,TMSSICT 1-94,text,true,,606,116,65,65,https://tmss-ict.com/ca,870,0,584
+1685851285053,1168,ca-1,200,OK,TMSSICT 1-94,text,true,,102680,117,65,65,https://tmss-ict.com/ca/,596,0,0
+1685851284280,1984,ca,200,OK,TMSSICT 1-95,text,true,,103286,233,64,64,https://tmss-ict.com/ca/,859,0,575
+1685851284280,859,ca-0,301,Moved Permanently,TMSSICT 1-95,text,true,,606,116,64,64,https://tmss-ict.com/ca,859,0,575
+1685851285140,1124,ca-1,200,OK,TMSSICT 1-95,text,true,,102680,117,64,64,https://tmss-ict.com/ca/,564,0,0
+1685851284380,1975,ca,200,OK,TMSSICT 1-96,text,true,,103286,233,63,63,https://tmss-ict.com/ca/,858,0,575
+1685851284380,858,ca-0,301,Moved Permanently,TMSSICT 1-96,text,true,,606,116,63,63,https://tmss-ict.com/ca,858,0,575
+1685851285238,1117,ca-1,200,OK,TMSSICT 1-96,text,true,,102680,117,63,63,https://tmss-ict.com/ca/,560,0,0
+1685851284481,1986,ca,200,OK,TMSSICT 1-97,text,true,,103286,233,62,62,https://tmss-ict.com/ca/,862,0,580
+1685851284481,862,ca-0,301,Moved Permanently,TMSSICT 1-97,text,true,,606,116,62,62,https://tmss-ict.com/ca,862,0,580
+1685851285343,1124,ca-1,200,OK,TMSSICT 1-97,text,true,,102680,117,62,62,https://tmss-ict.com/ca/,564,0,0
+1685851284585,1995,ca,200,OK,TMSSICT 1-98,text,true,,103286,233,61,61,https://tmss-ict.com/ca/,872,0,591
+1685851284585,872,ca-0,301,Moved Permanently,TMSSICT 1-98,text,true,,606,116,61,61,https://tmss-ict.com/ca,872,0,591
+1685851285457,1123,ca-1,200,OK,TMSSICT 1-98,text,true,,102680,117,61,61,https://tmss-ict.com/ca/,563,0,0
+1685851284679,1983,ca,200,OK,TMSSICT 1-99,text,true,,103286,233,60,60,https://tmss-ict.com/ca/,870,0,592
+1685851284679,870,ca-0,301,Moved Permanently,TMSSICT 1-99,text,true,,606,116,60,60,https://tmss-ict.com/ca,870,0,592
+1685851285550,1112,ca-1,200,OK,TMSSICT 1-99,text,true,,102680,117,60,60,https://tmss-ict.com/ca/,558,0,0
+1685851284782,1979,ca,200,OK,TMSSICT 1-100,text,true,,103286,233,59,59,https://tmss-ict.com/ca/,854,0,572
+1685851284782,854,ca-0,301,Moved Permanently,TMSSICT 1-100,text,true,,606,116,59,59,https://tmss-ict.com/ca,854,0,572
+1685851285636,1125,ca-1,200,OK,TMSSICT 1-100,text,true,,102680,117,59,59,https://tmss-ict.com/ca/,565,0,0
+1685851276002,11809,ca,200,OK,TMSSICT 1-12,text,true,,103359,233,58,58,https://tmss-ict.com/ca/,10699,0,629
+1685851276002,10699,ca-0,301,Moved Permanently,TMSSICT 1-12,text,true,,679,116,58,58,https://tmss-ict.com/ca,10699,0,629
+1685851286701,1110,ca-1,200,OK,TMSSICT 1-12,text,true,,102680,117,58,58,https://tmss-ict.com/ca/,558,0,0
+1685851276594,13960,ca,200,OK,TMSSICT 1-18,text,true,,103359,233,57,57,https://tmss-ict.com/ca/,12820,0,608
+1685851276594,12820,ca-0,301,Moved Permanently,TMSSICT 1-18,text,true,,679,116,57,57,https://tmss-ict.com/ca,12820,0,608
+1685851289414,1140,ca-1,200,OK,TMSSICT 1-18,text,true,,102680,117,57,57,https://tmss-ict.com/ca/,571,0,0
+1685851276494,14148,ca,200,OK,TMSSICT 1-17,text,true,,103359,233,56,56,https://tmss-ict.com/ca/,13017,0,603
+1685851276494,13017,ca-0,301,Moved Permanently,TMSSICT 1-17,text,true,,679,116,56,56,https://tmss-ict.com/ca,13017,0,603
+1685851289511,1131,ca-1,200,OK,TMSSICT 1-17,text,true,,102680,117,56,56,https://tmss-ict.com/ca/,567,0,0
+1685851276404,14643,ca,200,OK,TMSSICT 1-16,text,true,,103359,233,55,55,https://tmss-ict.com/ca/,13514,0,597
+1685851276404,13514,ca-0,301,Moved Permanently,TMSSICT 1-16,text,true,,679,116,55,55,https://tmss-ict.com/ca,13514,0,597
+1685851289919,1128,ca-1,200,OK,TMSSICT 1-16,text,true,,102680,117,55,55,https://tmss-ict.com/ca/,285,0,0
+1685851276885,14265,ca,200,OK,TMSSICT 1-21,text,true,,103359,233,54,54,https://tmss-ict.com/ca/,13133,0,589
+1685851276885,13133,ca-0,301,Moved Permanently,TMSSICT 1-21,text,true,,679,116,54,54,https://tmss-ict.com/ca,13133,0,589
+1685851290018,1132,ca-1,200,OK,TMSSICT 1-21,text,true,,102680,117,54,54,https://tmss-ict.com/ca/,568,0,0
+1685851276704,14631,ca,200,OK,TMSSICT 1-19,text,true,,103359,233,53,53,https://tmss-ict.com/ca/,13506,0,596
+1685851276704,13506,ca-0,301,Moved Permanently,TMSSICT 1-19,text,true,,679,116,53,53,https://tmss-ict.com/ca,13506,0,596
+1685851290210,1125,ca-1,200,OK,TMSSICT 1-19,text,true,,102680,117,53,53,https://tmss-ict.com/ca/,281,0,0
+1685851276786,14562,ca,200,OK,TMSSICT 1-20,text,true,,103359,233,52,52,https://tmss-ict.com/ca/,13429,0,594
+1685851276786,13429,ca-0,301,Moved Permanently,TMSSICT 1-20,text,true,,679,116,52,52,https://tmss-ict.com/ca,13429,0,594
+1685851290215,1133,ca-1,200,OK,TMSSICT 1-20,text,true,,102680,117,52,52,https://tmss-ict.com/ca/,294,0,0
+1685851276196,15347,ca,200,OK,TMSSICT 1-14,text,true,,103359,233,51,51,https://tmss-ict.com/ca/,14209,0,615
+1685851276196,14209,ca-0,301,Moved Permanently,TMSSICT 1-14,text,true,,679,116,51,51,https://tmss-ict.com/ca,14209,0,615
+1685851290405,1138,ca-1,200,OK,TMSSICT 1-14,text,true,,102680,117,51,51,https://tmss-ict.com/ca/,571,0,0
+1685851276371,15475,ca,200,OK,TMSSICT 1-15,text,true,,103359,233,50,50,https://tmss-ict.com/ca/,14345,0,586
+1685851276371,14345,ca-0,301,Moved Permanently,TMSSICT 1-15,text,true,,679,116,50,50,https://tmss-ict.com/ca,14345,0,586
+1685851290716,1130,ca-1,200,OK,TMSSICT 1-15,text,true,,102680,117,50,50,https://tmss-ict.com/ca/,284,0,0
+1685851276984,14952,ca,200,OK,TMSSICT 1-22,text,true,,103359,233,49,49,https://tmss-ict.com/ca/,13817,0,596
+1685851276984,13817,ca-0,301,Moved Permanently,TMSSICT 1-22,text,true,,679,116,49,49,https://tmss-ict.com/ca,13817,0,596
+1685851290802,1134,ca-1,200,OK,TMSSICT 1-22,text,true,,102680,117,49,49,https://tmss-ict.com/ca/,569,0,0
+1685851277091,16425,ca,200,OK,TMSSICT 1-23,text,true,,103359,233,48,48,https://tmss-ict.com/ca/,15312,0,596
+1685851277091,15312,ca-0,301,Moved Permanently,TMSSICT 1-23,text,true,,679,116,48,48,https://tmss-ict.com/ca,15312,0,596
+1685851292404,1112,ca-1,200,OK,TMSSICT 1-23,text,true,,102680,117,48,48,https://tmss-ict.com/ca/,279,0,0
+1685851277298,18518,ca,200,OK,TMSSICT 1-25,text,true,,103359,233,47,47,https://tmss-ict.com/ca/,17407,0,590
+1685851277298,17407,ca-0,301,Moved Permanently,TMSSICT 1-25,text,true,,679,116,47,47,https://tmss-ict.com/ca,17407,0,590
+1685851294705,1111,ca-1,200,OK,TMSSICT 1-25,text,true,,102680,117,47,47,https://tmss-ict.com/ca/,279,0,0
+1685851277386,18746,ca,200,OK,TMSSICT 1-26,text,true,,103359,233,46,46,https://tmss-ict.com/ca/,17618,0,596
+1685851277386,17618,ca-0,301,Moved Permanently,TMSSICT 1-26,text,true,,679,116,46,46,https://tmss-ict.com/ca,17618,0,596
+1685851295005,1127,ca-1,200,OK,TMSSICT 1-26,text,true,,102680,117,46,46,https://tmss-ict.com/ca/,566,0,0
+1685851277183,19057,ca,200,OK,TMSSICT 1-24,text,true,,103359,233,45,45,https://tmss-ict.com/ca/,17925,0,599
+1685851277183,17925,ca-0,301,Moved Permanently,TMSSICT 1-24,text,true,,679,116,45,45,https://tmss-ict.com/ca,17925,0,599
+1685851295108,1132,ca-1,200,OK,TMSSICT 1-24,text,true,,102680,117,45,45,https://tmss-ict.com/ca/,568,0,0
+1685851277484,19039,ca,200,OK,TMSSICT 1-27,text,true,,103359,233,44,44,https://tmss-ict.com/ca/,17915,0,581
+1685851277484,17915,ca-0,301,Moved Permanently,TMSSICT 1-27,text,true,,679,116,44,44,https://tmss-ict.com/ca,17915,0,581
+1685851295400,1123,ca-1,200,OK,TMSSICT 1-27,text,true,,102680,117,44,44,https://tmss-ict.com/ca/,564,0,0
+1685851277584,18962,ca,200,OK,TMSSICT 1-28,text,true,,103359,233,43,43,https://tmss-ict.com/ca/,17821,0,600
+1685851277584,17821,ca-0,301,Moved Permanently,TMSSICT 1-28,text,true,,679,116,43,43,https://tmss-ict.com/ca,17821,0,600
+1685851295406,1140,ca-1,200,OK,TMSSICT 1-28,text,true,,102680,117,43,43,https://tmss-ict.com/ca/,572,0,0
+1685851277690,19744,ca,200,OK,TMSSICT 1-29,text,true,,103359,233,42,42,https://tmss-ict.com/ca/,18616,0,600
+1685851277690,18616,ca-0,301,Moved Permanently,TMSSICT 1-29,text,true,,679,116,42,42,https://tmss-ict.com/ca,18616,0,600
+1685851296307,1127,ca-1,200,OK,TMSSICT 1-29,text,true,,102680,117,42,42,https://tmss-ict.com/ca/,565,0,0
+1685851277780,19746,ca,200,OK,TMSSICT 1-30,text,true,,103359,233,41,41,https://tmss-ict.com/ca/,18623,0,609
+1685851277780,18623,ca-0,301,Moved Permanently,TMSSICT 1-30,text,true,,679,116,41,41,https://tmss-ict.com/ca,18623,0,609
+1685851296403,1123,ca-1,200,OK,TMSSICT 1-30,text,true,,102680,117,41,41,https://tmss-ict.com/ca/,563,0,0
+1685851277882,19949,ca,200,OK,TMSSICT 1-31,text,true,,103359,233,40,40,https://tmss-ict.com/ca/,18822,0,597
+1685851277882,18822,ca-0,301,Moved Permanently,TMSSICT 1-31,text,true,,679,116,40,40,https://tmss-ict.com/ca,18822,0,597
+1685851296704,1127,ca-1,200,OK,TMSSICT 1-31,text,true,,102680,117,40,40,https://tmss-ict.com/ca/,565,0,0
+1685851278080,19858,ca,200,OK,TMSSICT 1-33,text,true,,103359,233,39,39,https://tmss-ict.com/ca/,18726,0,602
+1685851278080,18726,ca-0,301,Moved Permanently,TMSSICT 1-33,text,true,,679,116,39,39,https://tmss-ict.com/ca,18726,0,602
+1685851296807,1131,ca-1,200,OK,TMSSICT 1-33,text,true,,102680,117,39,39,https://tmss-ict.com/ca/,567,0,0
+1685851277982,20261,ca,200,OK,TMSSICT 1-32,text,true,,103359,233,38,38,https://tmss-ict.com/ca/,19123,0,603
+1685851277982,19123,ca-0,301,Moved Permanently,TMSSICT 1-32,text,true,,679,116,38,38,https://tmss-ict.com/ca,19123,0,603
+1685851297105,1138,ca-1,200,OK,TMSSICT 1-32,text,true,,102680,117,38,38,https://tmss-ict.com/ca/,570,0,0
+1685851278182,21546,ca,200,OK,TMSSICT 1-34,text,true,,103359,233,37,37,https://tmss-ict.com/ca/,20417,0,607
+1685851278182,20417,ca-0,301,Moved Permanently,TMSSICT 1-34,text,true,,679,116,37,37,https://tmss-ict.com/ca,20417,0,607
+1685851298599,1129,ca-1,200,OK,TMSSICT 1-34,text,true,,102680,117,37,37,https://tmss-ict.com/ca/,284,0,0
+1685851278280,22038,ca,200,OK,TMSSICT 1-35,text,true,,103359,233,36,36,https://tmss-ict.com/ca/,20926,0,580
+1685851278280,20926,ca-0,301,Moved Permanently,TMSSICT 1-35,text,true,,679,116,36,36,https://tmss-ict.com/ca,20926,0,580
+1685851299206,1112,ca-1,200,OK,TMSSICT 1-35,text,true,,102680,117,36,36,https://tmss-ict.com/ca/,558,0,0
+1685851278492,23337,ca,200,OK,TMSSICT 1-37,text,true,,103359,233,35,35,https://tmss-ict.com/ca/,22209,0,599
+1685851278492,22209,ca-0,301,Moved Permanently,TMSSICT 1-37,text,true,,679,116,35,35,https://tmss-ict.com/ca,22209,0,599
+1685851300701,1128,ca-1,200,OK,TMSSICT 1-37,text,true,,102680,117,35,35,https://tmss-ict.com/ca/,283,0,0
+1685851278580,23662,ca,200,OK,TMSSICT 1-38,text,true,,103359,233,34,34,https://tmss-ict.com/ca/,22533,0,590
+1685851278580,22533,ca-0,301,Moved Permanently,TMSSICT 1-38,text,true,,679,116,34,34,https://tmss-ict.com/ca,22533,0,590
+1685851301113,1129,ca-1,200,OK,TMSSICT 1-38,text,true,,102680,117,34,34,https://tmss-ict.com/ca/,566,0,0
+1685851278381,24432,ca,200,OK,TMSSICT 1-36,text,true,,103359,233,33,33,https://tmss-ict.com/ca/,23315,0,579
+1685851278381,23315,ca-0,301,Moved Permanently,TMSSICT 1-36,text,true,,679,116,33,33,https://tmss-ict.com/ca,23315,0,579
+1685851301696,1117,ca-1,200,OK,TMSSICT 1-36,text,true,,102680,117,33,33,https://tmss-ict.com/ca/,281,0,0
+1685851278679,24388,ca,200,OK,TMSSICT 1-39,text,true,,103359,233,32,32,https://tmss-ict.com/ca/,23233,0,612
+1685851278679,23233,ca-0,301,Moved Permanently,TMSSICT 1-39,text,true,,679,116,32,32,https://tmss-ict.com/ca,23233,0,612
+1685851301912,1155,ca-1,200,OK,TMSSICT 1-39,text,true,,102680,117,32,32,https://tmss-ict.com/ca/,290,0,0
+1685851278876,24873,ca,200,OK,TMSSICT 1-41,text,true,,103359,233,31,31,https://tmss-ict.com/ca/,23730,0,606
+1685851278876,23730,ca-0,301,Moved Permanently,TMSSICT 1-41,text,true,,679,116,31,31,https://tmss-ict.com/ca,23730,0,606
+1685851302607,1142,ca-1,200,OK,TMSSICT 1-41,text,true,,102680,117,31,31,https://tmss-ict.com/ca/,572,0,0
+1685851278782,25148,ca,200,OK,TMSSICT 1-40,text,true,,103359,233,30,30,https://tmss-ict.com/ca/,24017,0,594
+1685851278782,24017,ca-0,301,Moved Permanently,TMSSICT 1-40,text,true,,679,116,30,30,https://tmss-ict.com/ca,24017,0,594
+1685851302799,1131,ca-1,200,OK,TMSSICT 1-40,text,true,,102680,117,30,30,https://tmss-ict.com/ca/,567,0,0
+1685851278980,25363,ca,200,OK,TMSSICT 1-42,text,true,,103359,233,29,29,https://tmss-ict.com/ca/,24225,0,594
+1685851278980,24225,ca-0,301,Moved Permanently,TMSSICT 1-42,text,true,,679,116,29,29,https://tmss-ict.com/ca,24225,0,594
+1685851303205,1138,ca-1,200,OK,TMSSICT 1-42,text,true,,102680,117,29,29,https://tmss-ict.com/ca/,285,0,0
+1685851279272,25151,ca,200,OK,TMSSICT 1-45,text,true,,103359,233,28,28,https://tmss-ict.com/ca/,24029,0,582
+1685851279272,24029,ca-0,301,Moved Permanently,TMSSICT 1-45,text,true,,679,116,28,28,https://tmss-ict.com/ca,24029,0,582
+1685851303301,1122,ca-1,200,OK,TMSSICT 1-45,text,true,,102680,117,28,28,https://tmss-ict.com/ca/,563,0,0
+1685851279374,25247,ca,200,OK,TMSSICT 1-46,text,true,,103359,233,27,27,https://tmss-ict.com/ca/,24125,0,589
+1685851279374,24125,ca-0,301,Moved Permanently,TMSSICT 1-46,text,true,,679,116,27,27,https://tmss-ict.com/ca,24125,0,589
+1685851303499,1122,ca-1,200,OK,TMSSICT 1-46,text,true,,102680,117,27,27,https://tmss-ict.com/ca/,563,0,0
+1685851279175,26263,ca,200,OK,TMSSICT 1-44,text,true,,103359,233,26,26,https://tmss-ict.com/ca/,25136,0,593
+1685851279175,25136,ca-0,301,Moved Permanently,TMSSICT 1-44,text,true,,679,116,26,26,https://tmss-ict.com/ca,25136,0,593
+1685851304312,1126,ca-1,200,OK,TMSSICT 1-44,text,true,,102680,117,26,26,https://tmss-ict.com/ca/,566,0,0
+1685851279078,26361,ca,200,OK,TMSSICT 1-43,text,true,,103359,233,26,26,https://tmss-ict.com/ca/,25229,0,598
+1685851279078,25229,ca-0,301,Moved Permanently,TMSSICT 1-43,text,true,,679,116,26,26,https://tmss-ict.com/ca,25229,0,598
+1685851304308,1131,ca-1,200,OK,TMSSICT 1-43,text,true,,102680,117,26,26,https://tmss-ict.com/ca/,284,0,0
+1685851279474,26374,ca,200,OK,TMSSICT 1-47,text,true,,103359,233,24,24,https://tmss-ict.com/ca/,25238,0,608
+1685851279474,25238,ca-0,301,Moved Permanently,TMSSICT 1-47,text,true,,679,116,24,24,https://tmss-ict.com/ca,25238,0,608
+1685851304712,1136,ca-1,200,OK,TMSSICT 1-47,text,true,,102680,117,24,24,https://tmss-ict.com/ca/,287,0,0
+1685851279572,26854,ca,200,OK,TMSSICT 1-48,text,true,,103359,233,23,23,https://tmss-ict.com/ca/,25733,0,588
+1685851279572,25733,ca-0,301,Moved Permanently,TMSSICT 1-48,text,true,,679,116,23,23,https://tmss-ict.com/ca,25733,0,588
+1685851305306,1120,ca-1,200,OK,TMSSICT 1-48,text,true,,102680,117,23,23,https://tmss-ict.com/ca/,561,0,0
+1685851279673,28775,ca,200,OK,TMSSICT 1-49,text,true,,103359,233,22,22,https://tmss-ict.com/ca/,27633,0,598
+1685851279673,27633,ca-0,301,Moved Permanently,TMSSICT 1-49,text,true,,679,116,22,22,https://tmss-ict.com/ca,27633,0,598
+1685851307306,1142,ca-1,200,OK,TMSSICT 1-49,text,true,,102680,117,22,22,https://tmss-ict.com/ca/,573,0,0
+1685851279871,29069,ca,200,OK,TMSSICT 1-51,text,true,,103359,233,21,21,https://tmss-ict.com/ca/,27930,0,599
+1685851279871,27930,ca-0,301,Moved Permanently,TMSSICT 1-51,text,true,,679,116,21,21,https://tmss-ict.com/ca,27930,0,599
+1685851307801,1139,ca-1,200,OK,TMSSICT 1-51,text,true,,102680,117,21,21,https://tmss-ict.com/ca/,571,0,0
+1685851279973,29067,ca,200,OK,TMSSICT 1-52,text,true,,103359,233,20,20,https://tmss-ict.com/ca/,27932,0,598
+1685851279973,27932,ca-0,301,Moved Permanently,TMSSICT 1-52,text,true,,679,116,20,20,https://tmss-ict.com/ca,27932,0,598
+1685851307906,1134,ca-1,200,OK,TMSSICT 1-52,text,true,,102680,117,20,20,https://tmss-ict.com/ca/,571,0,0
+1685851279772,29661,ca,200,OK,TMSSICT 1-50,text,true,,103359,233,19,19,https://tmss-ict.com/ca/,28536,0,597
+1685851279772,28536,ca-0,301,Moved Permanently,TMSSICT 1-50,text,true,,679,116,19,19,https://tmss-ict.com/ca,28536,0,597
+1685851308308,1125,ca-1,200,OK,TMSSICT 1-50,text,true,,102680,117,19,19,https://tmss-ict.com/ca/,564,0,0
+1685851280172,30147,ca,200,OK,TMSSICT 1-54,text,true,,103359,233,18,18,https://tmss-ict.com/ca/,29031,0,579
+1685851280172,29031,ca-0,301,Moved Permanently,TMSSICT 1-54,text,true,,679,116,18,18,https://tmss-ict.com/ca,29031,0,579
+1685851309203,1116,ca-1,200,OK,TMSSICT 1-54,text,true,,102680,117,18,18,https://tmss-ict.com/ca/,561,0,0
+1685851280072,30350,ca,200,OK,TMSSICT 1-53,text,true,,103359,233,17,17,https://tmss-ict.com/ca/,29231,0,584
+1685851280072,29231,ca-0,301,Moved Permanently,TMSSICT 1-53,text,true,,679,116,17,17,https://tmss-ict.com/ca,29231,0,584
+1685851309304,1118,ca-1,200,OK,TMSSICT 1-53,text,true,,102680,117,17,17,https://tmss-ict.com/ca/,282,0,0
+1685851280372,30685,ca,200,OK,TMSSICT 1-56,text,true,,103359,233,16,16,https://tmss-ict.com/ca/,29550,0,598
+1685851280372,29550,ca-0,301,Moved Permanently,TMSSICT 1-56,text,true,,679,116,16,16,https://tmss-ict.com/ca,29550,0,598
+1685851309922,1135,ca-1,200,OK,TMSSICT 1-56,text,true,,102680,117,16,16,https://tmss-ict.com/ca/,567,0,0
+1685851280472,30878,ca,200,OK,TMSSICT 1-57,text,true,,103359,233,15,15,https://tmss-ict.com/ca/,29738,0,586
+1685851280472,29738,ca-0,301,Moved Permanently,TMSSICT 1-57,text,true,,679,116,15,15,https://tmss-ict.com/ca,29738,0,586
+1685851310211,1139,ca-1,200,OK,TMSSICT 1-57,text,true,,102680,117,15,15,https://tmss-ict.com/ca/,573,0,0
+1685851280673,31168,ca,200,OK,TMSSICT 1-59,text,true,,103359,233,14,14,https://tmss-ict.com/ca/,30029,0,600
+1685851280673,30029,ca-0,301,Moved Permanently,TMSSICT 1-59,text,true,,679,116,14,14,https://tmss-ict.com/ca,30029,0,600
+1685851310702,1139,ca-1,200,OK,TMSSICT 1-59,text,true,,102680,117,14,14,https://tmss-ict.com/ca/,571,0,0
+1685851280273,32454,ca,200,OK,TMSSICT 1-55,text,true,,103359,233,13,13,https://tmss-ict.com/ca/,31336,0,592
+1685851280273,31336,ca-0,301,Moved Permanently,TMSSICT 1-55,text,true,,679,116,13,13,https://tmss-ict.com/ca,31336,0,592
+1685851311609,1118,ca-1,200,OK,TMSSICT 1-55,text,true,,102680,117,13,13,https://tmss-ict.com/ca/,281,0,0
+1685851280572,32455,ca,200,OK,TMSSICT 1-58,text,true,,103359,233,12,12,https://tmss-ict.com/ca/,31335,0,586
+1685851280572,31335,ca-0,301,Moved Permanently,TMSSICT 1-58,text,true,,679,116,12,12,https://tmss-ict.com/ca,31335,0,586
+1685851311907,1120,ca-1,200,OK,TMSSICT 1-58,text,true,,102680,117,12,12,https://tmss-ict.com/ca/,281,0,0
+1685851280874,32172,ca,200,OK,TMSSICT 1-61,text,true,,103359,233,11,11,https://tmss-ict.com/ca/,31032,0,591
+1685851280874,31032,ca-0,301,Moved Permanently,TMSSICT 1-61,text,true,,679,116,11,11,https://tmss-ict.com/ca,31032,0,591
+1685851311907,1139,ca-1,200,OK,TMSSICT 1-61,text,true,,102680,117,11,11,https://tmss-ict.com/ca/,568,0,0
+1685851280773,32467,ca,200,OK,TMSSICT 1-60,text,true,,103359,233,10,10,https://tmss-ict.com/ca/,31329,0,591
+1685851280773,31329,ca-0,301,Moved Permanently,TMSSICT 1-60,text,true,,679,116,10,10,https://tmss-ict.com/ca,31329,0,591
+1685851312102,1138,ca-1,200,OK,TMSSICT 1-60,text,true,,102680,117,10,10,https://tmss-ict.com/ca/,286,0,0
+1685851280973,34063,ca,200,OK,TMSSICT 1-62,text,true,,103359,233,9,9,https://tmss-ict.com/ca/,32936,0,590
+1685851280973,32936,ca-0,301,Moved Permanently,TMSSICT 1-62,text,true,,679,116,9,9,https://tmss-ict.com/ca,32936,0,590
+1685851313909,1127,ca-1,200,OK,TMSSICT 1-62,text,true,,102680,117,9,9,https://tmss-ict.com/ca/,565,0,0
+1685851281174,34868,ca,200,OK,TMSSICT 1-64,text,true,,103359,233,8,8,https://tmss-ict.com/ca/,33732,0,602
+1685851281174,33732,ca-0,301,Moved Permanently,TMSSICT 1-64,text,true,,679,116,8,8,https://tmss-ict.com/ca,33732,0,602
+1685851314907,1135,ca-1,200,OK,TMSSICT 1-64,text,true,,102680,117,8,8,https://tmss-ict.com/ca/,570,0,0
+1685851281275,34855,ca,200,OK,TMSSICT 1-65,text,true,,103359,233,7,7,https://tmss-ict.com/ca/,33732,0,588
+1685851281275,33732,ca-0,301,Moved Permanently,TMSSICT 1-65,text,true,,679,116,7,7,https://tmss-ict.com/ca,33732,0,588
+1685851315007,1123,ca-1,200,OK,TMSSICT 1-65,text,true,,102680,117,7,7,https://tmss-ict.com/ca/,563,0,0
+1685851281074,35063,ca,200,OK,TMSSICT 1-63,text,true,,103359,233,6,6,https://tmss-ict.com/ca/,33931,0,596
+1685851281074,33931,ca-0,301,Moved Permanently,TMSSICT 1-63,text,true,,679,116,6,6,https://tmss-ict.com/ca,33931,0,596
+1685851315006,1131,ca-1,200,OK,TMSSICT 1-63,text,true,,102680,117,6,6,https://tmss-ict.com/ca/,567,0,0
+1685851281574,35462,ca,200,OK,TMSSICT 1-68,text,true,,103359,233,5,5,https://tmss-ict.com/ca/,34335,0,591
+1685851281574,34335,ca-0,301,Moved Permanently,TMSSICT 1-68,text,true,,679,116,5,5,https://tmss-ict.com/ca,34335,0,591
+1685851315908,1128,ca-1,200,OK,TMSSICT 1-68,text,true,,102680,117,5,5,https://tmss-ict.com/ca/,283,0,0
+1685851281477,35768,ca,200,OK,TMSSICT 1-67,text,true,,103359,233,4,4,https://tmss-ict.com/ca/,34639,0,596
+1685851281477,34639,ca-0,301,Moved Permanently,TMSSICT 1-67,text,true,,679,116,4,4,https://tmss-ict.com/ca,34639,0,596
+1685851316115,1130,ca-1,200,OK,TMSSICT 1-67,text,true,,102680,117,4,4,https://tmss-ict.com/ca/,567,0,0
+1685851281375,35981,ca,200,OK,TMSSICT 1-66,text,true,,103359,233,3,3,https://tmss-ict.com/ca/,34840,0,603
+1685851281375,34840,ca-0,301,Moved Permanently,TMSSICT 1-66,text,true,,679,116,3,3,https://tmss-ict.com/ca,34840,0,603
+1685851316214,1142,ca-1,200,OK,TMSSICT 1-66,text,true,,102680,117,3,3,https://tmss-ict.com/ca/,572,0,0
+1685851281673,35766,ca,200,OK,TMSSICT 1-69,text,true,,103359,233,2,2,https://tmss-ict.com/ca/,34651,0,571
+1685851281673,34651,ca-0,301,Moved Permanently,TMSSICT 1-69,text,true,,679,116,2,2,https://tmss-ict.com/ca,34651,0,571
+1685851316323,1116,ca-1,200,OK,TMSSICT 1-69,text,true,,102680,117,2,2,https://tmss-ict.com/ca/,560,0,0
+1685851281779,35786,ca,200,OK,TMSSICT 1-70,text,true,,103359,233,1,1,https://tmss-ict.com/ca/,34651,0,613
+1685851281779,34651,ca-0,301,Moved Permanently,TMSSICT 1-70,text,true,,679,116,1,1,https://tmss-ict.com/ca,34651,0,613
+1685851316429,1136,ca-1,200,OK,TMSSICT 1-70,text,true,,102680,117,1,1,https://tmss-ict.com/ca/,569,0,0

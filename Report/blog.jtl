@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1685852163110,8461,blog,200,OK,TMSSICT 1-1,text,true,,81906,237,87,87,https://tmss-ict.com/blog/,7619,0,1257
+1685852163110,7627,blog-0,301,Moved Permanently,TMSSICT 1-1,text,true,,681,118,87,87,https://tmss-ict.com/blog,7619,0,1257
+1685852170740,831,blog-1,200,OK,TMSSICT 1-1,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,556,0,0
+1685852169939,1710,blog,200,OK,TMSSICT 1-71,text,true,,81833,237,87,87,https://tmss-ict.com/blog/,867,0,578
+1685852169939,867,blog-0,301,Moved Permanently,TMSSICT 1-71,text,true,,608,118,87,87,https://tmss-ict.com/blog,867,0,578
+1685852170807,842,blog-1,200,OK,TMSSICT 1-71,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,558,0,0
+1685852170036,1736,blog,200,OK,TMSSICT 1-72,text,true,,81833,237,87,87,https://tmss-ict.com/blog/,875,0,589
+1685852170036,875,blog-0,301,Moved Permanently,TMSSICT 1-72,text,true,,608,118,87,87,https://tmss-ict.com/blog,875,0,589
+1685852170911,861,blog-1,200,OK,TMSSICT 1-72,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,569,0,0
+1685852170137,1721,blog,200,OK,TMSSICT 1-73,text,true,,81833,237,87,87,https://tmss-ict.com/blog/,870,0,585
+1685852170137,870,blog-0,301,Moved Permanently,TMSSICT 1-73,text,true,,608,118,87,87,https://tmss-ict.com/blog,870,0,585
+1685852171007,851,blog-1,200,OK,TMSSICT 1-73,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,564,0,0
+1685852170236,1714,blog,200,OK,TMSSICT 1-74,text,true,,81833,237,87,87,https://tmss-ict.com/blog/,873,0,589
+1685852170236,873,blog-0,301,Moved Permanently,TMSSICT 1-74,text,true,,608,118,87,87,https://tmss-ict.com/blog,873,0,589
+1685852171109,841,blog-1,200,OK,TMSSICT 1-74,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,560,0,0
+1685852170336,1735,blog,200,OK,TMSSICT 1-75,text,true,,81833,237,87,87,https://tmss-ict.com/blog/,885,0,587
+1685852170336,885,blog-0,301,Moved Permanently,TMSSICT 1-75,text,true,,608,118,87,87,https://tmss-ict.com/blog,885,0,587
+1685852171221,850,blog-1,200,OK,TMSSICT 1-75,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,566,0,0
+1685852170435,1787,blog,200,OK,TMSSICT 1-76,text,true,,81833,237,87,87,https://tmss-ict.com/blog/,900,0,604
+1685852170435,900,blog-0,301,Moved Permanently,TMSSICT 1-76,text,true,,608,118,87,87,https://tmss-ict.com/blog,900,0,604
+1685852171335,887,blog-1,200,OK,TMSSICT 1-76,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,599,0,0
+1685852170535,1730,blog,200,OK,TMSSICT 1-77,text,true,,81833,237,87,87,https://tmss-ict.com/blog/,874,0,590
+1685852170535,874,blog-0,301,Moved Permanently,TMSSICT 1-77,text,true,,608,118,87,87,https://tmss-ict.com/blog,874,0,590
+1685852171410,855,blog-1,200,OK,TMSSICT 1-77,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,569,0,0
+1685852170637,1730,blog,200,OK,TMSSICT 1-78,text,true,,81833,237,87,87,https://tmss-ict.com/blog/,879,0,596
+1685852170637,879,blog-0,301,Moved Permanently,TMSSICT 1-78,text,true,,608,118,87,87,https://tmss-ict.com/blog,879,0,596
+1685852171516,851,blog-1,200,OK,TMSSICT 1-78,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,567,0,0
+1685852170740,1754,blog,200,OK,TMSSICT 1-79,text,true,,81833,237,87,87,https://tmss-ict.com/blog/,887,0,599
+1685852170740,887,blog-0,301,Moved Permanently,TMSSICT 1-79,text,true,,608,118,87,87,https://tmss-ict.com/blog,887,0,599
+1685852171628,866,blog-1,200,OK,TMSSICT 1-79,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,574,0,0
+1685852170837,1696,blog,200,OK,TMSSICT 1-80,text,true,,81833,237,86,86,https://tmss-ict.com/blog/,857,0,578
+1685852170837,857,blog-0,301,Moved Permanently,TMSSICT 1-80,text,true,,608,118,86,86,https://tmss-ict.com/blog,857,0,578
+1685852171694,839,blog-1,200,OK,TMSSICT 1-80,text,true,,81225,119,86,86,https://tmss-ict.com/blog/,559,0,0
+1685852170936,1720,blog,200,OK,TMSSICT 1-81,text,true,,81833,237,87,87,https://tmss-ict.com/blog/,869,0,586
+1685852170936,869,blog-0,301,Moved Permanently,TMSSICT 1-81,text,true,,608,118,87,87,https://tmss-ict.com/blog,869,0,586
+1685852171805,851,blog-1,200,OK,TMSSICT 1-81,text,true,,81225,119,87,87,https://tmss-ict.com/blog/,567,0,0
+1685852163137,9523,blog,200,OK,TMSSICT 1-3,text,true,,81906,237,86,86,https://tmss-ict.com/blog/,8670,0,1242
+1685852163137,8670,blog-0,301,Moved Permanently,TMSSICT 1-3,text,true,,681,118,86,86,https://tmss-ict.com/blog,8670,0,1242
+1685852171808,852,blog-1,200,OK,TMSSICT 1-3,text,true,,81225,119,86,86,https://tmss-ict.com/blog/,569,0,0
+1685852171040,1704,blog,200,OK,TMSSICT 1-82,text,true,,81833,237,86,86,https://tmss-ict.com/blog/,861,0,582
+1685852171040,861,blog-0,301,Moved Permanently,TMSSICT 1-82,text,true,,608,118,86,86,https://tmss-ict.com/blog,861,0,582
+1685852171901,843,blog-1,200,OK,TMSSICT 1-82,text,true,,81225,119,86,86,https://tmss-ict.com/blog/,562,0,0
+1685852171135,1710,blog,200,OK,TMSSICT 1-83,text,true,,81833,237,86,86,https://tmss-ict.com/blog/,866,0,587
+1685852171135,866,blog-0,301,Moved Permanently,TMSSICT 1-83,text,true,,608,118,86,86,https://tmss-ict.com/blog,866,0,587
+1685852172001,844,blog-1,200,OK,TMSSICT 1-83,text,true,,81225,119,86,86,https://tmss-ict.com/blog/,563,0,0
+1685852171235,1711,blog,200,OK,TMSSICT 1-84,text,true,,81833,237,85,85,https://tmss-ict.com/blog/,863,0,582
+1685852171235,863,blog-0,301,Moved Permanently,TMSSICT 1-84,text,true,,608,118,85,85,https://tmss-ict.com/blog,863,0,582
+1685852172099,847,blog-1,200,OK,TMSSICT 1-84,text,true,,81225,119,85,85,https://tmss-ict.com/blog/,564,0,0
+1685852163529,9432,blog,200,OK,TMSSICT 1-7,text,true,,81906,237,84,84,https://tmss-ict.com/blog/,8584,0,899
+1685852163529,8584,blog-0,301,Moved Permanently,TMSSICT 1-7,text,true,,681,118,84,84,https://tmss-ict.com/blog,8584,0,899
+1685852172113,848,blog-1,200,OK,TMSSICT 1-7,text,true,,81225,119,84,84,https://tmss-ict.com/blog/,283,0,0
+1685852171339,1705,blog,200,OK,TMSSICT 1-85,text,true,,81833,237,83,83,https://tmss-ict.com/blog/,857,0,576
+1685852171339,857,blog-0,301,Moved Permanently,TMSSICT 1-85,text,true,,608,118,83,83,https://tmss-ict.com/blog,857,0,576
+1685852172197,847,blog-1,200,OK,TMSSICT 1-85,text,true,,81225,119,83,83,https://tmss-ict.com/blog/,565,0,0
+1685852171437,1689,blog,200,OK,TMSSICT 1-86,text,true,,81833,237,82,82,https://tmss-ict.com/blog/,842,0,565
+1685852171437,842,blog-0,301,Moved Permanently,TMSSICT 1-86,text,true,,608,118,82,82,https://tmss-ict.com/blog,842,0,565
+1685852172279,847,blog-1,200,OK,TMSSICT 1-86,text,true,,81225,119,82,82,https://tmss-ict.com/blog/,569,0,0
+1685852163631,9523,blog,200,OK,TMSSICT 1-8,text,true,,81906,237,81,81,https://tmss-ict.com/blog/,8674,0,738
+1685852163631,8674,blog-0,301,Moved Permanently,TMSSICT 1-8,text,true,,681,118,81,81,https://tmss-ict.com/blog,8674,0,738
+1685852172306,848,blog-1,200,OK,TMSSICT 1-8,text,true,,81225,119,81,81,https://tmss-ict.com/blog/,557,0,0
+1685852171538,1734,blog,200,OK,TMSSICT 1-87,text,true,,81833,237,80,80,https://tmss-ict.com/blog/,862,0,580
+1685852171538,862,blog-0,301,Moved Permanently,TMSSICT 1-87,text,true,,608,118,80,80,https://tmss-ict.com/blog,862,0,580
+1685852172400,872,blog-1,200,OK,TMSSICT 1-87,text,true,,81225,119,80,80,https://tmss-ict.com/blog/,563,0,0
+1685852171635,1740,blog,200,OK,TMSSICT 1-88,text,true,,81833,237,79,79,https://tmss-ict.com/blog/,880,0,594
+1685852171635,880,blog-0,301,Moved Permanently,TMSSICT 1-88,text,true,,608,118,79,79,https://tmss-ict.com/blog,880,0,594
+1685852172515,860,blog-1,200,OK,TMSSICT 1-88,text,true,,81225,119,79,79,https://tmss-ict.com/blog/,572,0,0
+1685852171735,1701,blog,200,OK,TMSSICT 1-89,text,true,,81833,237,78,78,https://tmss-ict.com/blog/,854,0,575
+1685852171735,854,blog-0,301,Moved Permanently,TMSSICT 1-89,text,true,,608,118,78,78,https://tmss-ict.com/blog,854,0,575
+1685852172589,847,blog-1,200,OK,TMSSICT 1-89,text,true,,81225,119,78,78,https://tmss-ict.com/blog/,566,0,0
+1685852163237,10217,blog,200,OK,TMSSICT 1-4,text,true,,81906,237,77,77,https://tmss-ict.com/blog/,9365,0,1214
+1685852163237,9365,blog-0,301,Moved Permanently,TMSSICT 1-4,text,true,,681,118,77,77,https://tmss-ict.com/blog,9365,0,1214
+1685852172602,852,blog-1,200,OK,TMSSICT 1-4,text,true,,81225,119,77,77,https://tmss-ict.com/blog/,573,0,0
+1685852163730,9730,blog,200,OK,TMSSICT 1-9,text,true,,81906,237,76,76,https://tmss-ict.com/blog/,8879,0,654
+1685852163730,8879,blog-0,301,Moved Permanently,TMSSICT 1-9,text,true,,681,118,76,76,https://tmss-ict.com/blog,8879,0,654
+1685852172609,851,blog-1,200,OK,TMSSICT 1-9,text,true,,81225,119,76,76,https://tmss-ict.com/blog/,568,0,0
+1685852171834,1722,blog,200,OK,TMSSICT 1-90,text,true,,81833,237,75,75,https://tmss-ict.com/blog/,866,0,581
+1685852171834,866,blog-0,301,Moved Permanently,TMSSICT 1-90,text,true,,608,118,75,75,https://tmss-ict.com/blog,866,0,581
+1685852172700,856,blog-1,200,OK,TMSSICT 1-90,text,true,,81225,119,75,75,https://tmss-ict.com/blog/,575,0,0
+1685852171940,1744,blog,200,OK,TMSSICT 1-91,text,true,,81833,237,74,74,https://tmss-ict.com/blog/,876,0,588
+1685852171940,876,blog-0,301,Moved Permanently,TMSSICT 1-91,text,true,,608,118,74,74,https://tmss-ict.com/blog,876,0,588
+1685852172817,867,blog-1,200,OK,TMSSICT 1-91,text,true,,81225,119,74,74,https://tmss-ict.com/blog/,577,0,0
+1685852172036,1744,blog,200,OK,TMSSICT 1-92,text,true,,81833,237,73,73,https://tmss-ict.com/blog/,871,0,581
+1685852172036,871,blog-0,301,Moved Permanently,TMSSICT 1-92,text,true,,608,118,73,73,https://tmss-ict.com/blog,871,0,581
+1685852172908,872,blog-1,200,OK,TMSSICT 1-92,text,true,,81225,119,73,73,https://tmss-ict.com/blog/,567,0,0
+1685852172136,1710,blog,200,OK,TMSSICT 1-93,text,true,,81833,237,72,72,https://tmss-ict.com/blog/,862,0,578
+1685852172136,862,blog-0,301,Moved Permanently,TMSSICT 1-93,text,true,,608,118,72,72,https://tmss-ict.com/blog,862,0,578
+1685852172998,848,blog-1,200,OK,TMSSICT 1-93,text,true,,81225,119,72,72,https://tmss-ict.com/blog/,564,0,0
+1685852163998,9852,blog,200,OK,TMSSICT 1-11,text,true,,81906,237,71,71,https://tmss-ict.com/blog/,9005,0,694
+1685852163998,9005,blog-0,301,Moved Permanently,TMSSICT 1-11,text,true,,681,118,71,71,https://tmss-ict.com/blog,9005,0,694
+1685852173003,847,blog-1,200,OK,TMSSICT 1-11,text,true,,81225,119,71,71,https://tmss-ict.com/blog/,564,0,0
+1685852163332,10531,blog,200,OK,TMSSICT 1-5,text,true,,81906,237,70,70,https://tmss-ict.com/blog/,9676,0,1113
+1685852163332,9676,blog-0,301,Moved Permanently,TMSSICT 1-5,text,true,,681,118,70,70,https://tmss-ict.com/blog,9676,0,1113
+1685852173009,854,blog-1,200,OK,TMSSICT 1-5,text,true,,81225,119,70,70,https://tmss-ict.com/blog/,289,0,0
+1685852163911,10036,blog,200,OK,TMSSICT 1-10,text,true,,81906,237,69,69,https://tmss-ict.com/blog/,9197,0,700
+1685852163911,9197,blog-0,301,Moved Permanently,TMSSICT 1-10,text,true,,681,118,69,69,https://tmss-ict.com/blog,9197,0,700
+1685852173107,840,blog-1,200,OK,TMSSICT 1-10,text,true,,81225,119,69,69,https://tmss-ict.com/blog/,558,0,0
+1685852172235,1716,blog,200,OK,TMSSICT 1-94,text,true,,81833,237,68,68,https://tmss-ict.com/blog/,866,0,585
+1685852172235,866,blog-0,301,Moved Permanently,TMSSICT 1-94,text,true,,608,118,68,68,https://tmss-ict.com/blog,866,0,585
+1685852173100,851,blog-1,200,OK,TMSSICT 1-94,text,true,,81225,119,68,68,https://tmss-ict.com/blog/,562,0,0
+1685852172336,1713,blog,200,OK,TMSSICT 1-95,text,true,,81833,237,67,67,https://tmss-ict.com/blog/,860,0,578
+1685852172336,860,blog-0,301,Moved Permanently,TMSSICT 1-95,text,true,,608,118,67,67,https://tmss-ict.com/blog,860,0,578
+1685852173195,854,blog-1,200,OK,TMSSICT 1-95,text,true,,81225,119,67,67,https://tmss-ict.com/blog/,567,0,0
+1685852163430,10637,blog,200,OK,TMSSICT 1-6,text,true,,81906,237,66,66,https://tmss-ict.com/blog/,9778,0,1038
+1685852163430,9778,blog-0,301,Moved Permanently,TMSSICT 1-6,text,true,,681,118,66,66,https://tmss-ict.com/blog,9778,0,1038
+1685852173208,859,blog-1,200,OK,TMSSICT 1-6,text,true,,81225,119,66,66,https://tmss-ict.com/blog/,572,0,0
+1685852172435,1702,blog,200,OK,TMSSICT 1-96,text,true,,81833,237,65,65,https://tmss-ict.com/blog/,853,0,571
+1685852172435,853,blog-0,301,Moved Permanently,TMSSICT 1-96,text,true,,608,118,65,65,https://tmss-ict.com/blog,853,0,571
+1685852173287,850,blog-1,200,OK,TMSSICT 1-96,text,true,,81225,119,65,65,https://tmss-ict.com/blog/,562,0,0
+1685852164229,9944,blog,200,OK,TMSSICT 1-14,text,true,,81906,237,64,64,https://tmss-ict.com/blog/,9085,0,604
+1685852164229,9085,blog-0,301,Moved Permanently,TMSSICT 1-14,text,true,,681,118,64,64,https://tmss-ict.com/blog,9085,0,604
+1685852173314,859,blog-1,200,OK,TMSSICT 1-14,text,true,,81225,119,64,64,https://tmss-ict.com/blog/,572,0,0
+1685852164127,10145,blog,200,OK,TMSSICT 1-13,text,true,,81906,237,63,63,https://tmss-ict.com/blog/,9283,0,627
+1685852164127,9283,blog-0,301,Moved Permanently,TMSSICT 1-13,text,true,,681,118,63,63,https://tmss-ict.com/blog,9283,0,627
+1685852173410,862,blog-1,200,OK,TMSSICT 1-13,text,true,,81225,119,63,63,https://tmss-ict.com/blog/,571,0,0
+1685852172538,1738,blog,200,OK,TMSSICT 1-97,text,true,,81833,237,62,62,https://tmss-ict.com/blog/,877,0,594
+1685852172538,877,blog-0,301,Moved Permanently,TMSSICT 1-97,text,true,,608,118,62,62,https://tmss-ict.com/blog,877,0,594
+1685852173415,861,blog-1,200,OK,TMSSICT 1-97,text,true,,81225,119,62,62,https://tmss-ict.com/blog/,569,0,0
+1685852164476,9804,blog,200,OK,TMSSICT 1-15,text,true,,81906,237,61,61,https://tmss-ict.com/blog/,8938,0,606
+1685852164476,8938,blog-0,301,Moved Permanently,TMSSICT 1-15,text,true,,681,118,61,61,https://tmss-ict.com/blog,8938,0,606
+1685852173413,867,blog-1,200,OK,TMSSICT 1-15,text,true,,81225,119,61,61,https://tmss-ict.com/blog/,576,0,0
+1685852172638,1706,blog,200,OK,TMSSICT 1-98,text,true,,81833,237,60,60,https://tmss-ict.com/blog/,866,0,587
+1685852172638,866,blog-0,301,Moved Permanently,TMSSICT 1-98,text,true,,608,118,60,60,https://tmss-ict.com/blog,866,0,587
+1685852173503,841,blog-1,200,OK,TMSSICT 1-98,text,true,,81225,119,60,60,https://tmss-ict.com/blog/,554,0,0
+1685852163110,11333,blog,200,OK,TMSSICT 1-2,text,true,,81906,237,59,59,https://tmss-ict.com/blog/,10494,0,1360
+1685852163110,10494,blog-0,301,Moved Permanently,TMSSICT 1-2,text,true,,681,118,59,59,https://tmss-ict.com/blog,10494,0,1360
+1685852173605,838,blog-1,200,OK,TMSSICT 1-2,text,true,,81225,119,59,59,https://tmss-ict.com/blog/,558,0,0
+1685852172737,1709,blog,200,OK,TMSSICT 1-99,text,true,,81833,237,58,58,https://tmss-ict.com/blog/,861,0,580
+1685852172737,861,blog-0,301,Moved Permanently,TMSSICT 1-99,text,true,,608,118,58,58,https://tmss-ict.com/blog,861,0,580
+1685852173597,849,blog-1,200,OK,TMSSICT 1-99,text,true,,81225,119,58,58,https://tmss-ict.com/blog/,565,0,0
+1685852172837,1757,blog,200,OK,TMSSICT 1-100,text,true,,81833,237,57,57,https://tmss-ict.com/blog/,878,0,588
+1685852172837,878,blog-0,301,Moved Permanently,TMSSICT 1-100,text,true,,608,118,57,57,https://tmss-ict.com/blog,878,0,588
+1685852173715,879,blog-1,200,OK,TMSSICT 1-100,text,true,,81225,119,57,57,https://tmss-ict.com/blog/,584,0,0
+1685852164029,11143,blog,200,OK,TMSSICT 1-12,text,true,,81906,237,56,56,https://tmss-ict.com/blog/,10296,0,610
+1685852164029,10296,blog-0,301,Moved Permanently,TMSSICT 1-12,text,true,,681,118,56,56,https://tmss-ict.com/blog,10296,0,610
+1685852174325,847,blog-1,200,OK,TMSSICT 1-12,text,true,,81225,119,56,56,https://tmss-ict.com/blog/,284,0,0
+1685852164483,14389,blog,200,OK,TMSSICT 1-16,text,true,,81906,237,55,55,https://tmss-ict.com/blog/,13532,0,619
+1685852164483,13532,blog-0,301,Moved Permanently,TMSSICT 1-16,text,true,,681,118,55,55,https://tmss-ict.com/blog,13532,0,619
+1685852178014,858,blog-1,200,OK,TMSSICT 1-16,text,true,,81225,119,55,55,https://tmss-ict.com/blog/,571,0,0
+1685852164528,14931,blog,200,OK,TMSSICT 1-17,text,true,,81906,237,54,54,https://tmss-ict.com/blog/,14084,0,596
+1685852164528,14084,blog-0,301,Moved Permanently,TMSSICT 1-17,text,true,,681,118,54,54,https://tmss-ict.com/blog,14084,0,596
+1685852178612,847,blog-1,200,OK,TMSSICT 1-17,text,true,,81225,119,54,54,https://tmss-ict.com/blog/,564,0,0
+1685852164626,14942,blog,200,OK,TMSSICT 1-18,text,true,,81906,237,53,53,https://tmss-ict.com/blog/,14087,0,592
+1685852164626,14087,blog-0,301,Moved Permanently,TMSSICT 1-18,text,true,,681,118,53,53,https://tmss-ict.com/blog,14087,0,592
+1685852178712,856,blog-1,200,OK,TMSSICT 1-18,text,true,,81225,119,53,53,https://tmss-ict.com/blog/,568,0,0
+1685852165128,15332,blog,200,OK,TMSSICT 1-23,text,true,,81906,237,52,52,https://tmss-ict.com/blog/,14484,0,593
+1685852165128,14484,blog-0,301,Moved Permanently,TMSSICT 1-23,text,true,,681,118,52,52,https://tmss-ict.com/blog,14484,0,593
+1685852179612,848,blog-1,200,OK,TMSSICT 1-23,text,true,,81225,119,52,52,https://tmss-ict.com/blog/,283,0,0
+1685852164729,16142,blog,200,OK,TMSSICT 1-19,text,true,,81906,237,51,51,https://tmss-ict.com/blog/,15282,0,591
+1685852164729,15282,blog-0,301,Moved Permanently,TMSSICT 1-19,text,true,,681,118,51,51,https://tmss-ict.com/blog,15282,0,591
+1685852180010,861,blog-1,200,OK,TMSSICT 1-19,text,true,,81225,119,51,51,https://tmss-ict.com/blog/,286,0,0
+1685852165530,15354,blog,200,OK,TMSSICT 1-27,text,true,,81906,237,50,50,https://tmss-ict.com/blog/,14487,0,614
+1685852165530,14487,blog-0,301,Moved Permanently,TMSSICT 1-27,text,true,,681,118,50,50,https://tmss-ict.com/blog,14487,0,614
+1685852180017,867,blog-1,200,OK,TMSSICT 1-27,text,true,,81225,119,50,50,https://tmss-ict.com/blog/,289,0,0
+1685852164838,16129,blog,200,OK,TMSSICT 1-20,text,true,,81906,237,49,49,https://tmss-ict.com/blog/,15277,0,590
+1685852164838,15277,blog-0,301,Moved Permanently,TMSSICT 1-20,text,true,,681,118,49,49,https://tmss-ict.com/blog,15277,0,590
+1685852180115,852,blog-1,200,OK,TMSSICT 1-20,text,true,,81225,119,49,49,https://tmss-ict.com/blog/,285,0,0
+1685852165030,16146,blog,200,OK,TMSSICT 1-22,text,true,,81906,237,48,48,https://tmss-ict.com/blog/,15284,0,596
+1685852165030,15284,blog-0,301,Moved Permanently,TMSSICT 1-22,text,true,,681,118,48,48,https://tmss-ict.com/blog,15284,0,596
+1685852180313,863,blog-1,200,OK,TMSSICT 1-22,text,true,,81225,119,48,48,https://tmss-ict.com/blog/,289,0,0
+1685852165327,16064,blog,200,OK,TMSSICT 1-25,text,true,,81906,237,47,47,https://tmss-ict.com/blog/,15191,0,610
+1685852165327,15191,blog-0,301,Moved Permanently,TMSSICT 1-25,text,true,,681,118,47,47,https://tmss-ict.com/blog,15191,0,610
+1685852180518,873,blog-1,200,OK,TMSSICT 1-25,text,true,,81225,119,47,47,https://tmss-ict.com/blog/,581,0,0
+1685852164927,16651,blog,200,OK,TMSSICT 1-21,text,true,,81906,237,46,46,https://tmss-ict.com/blog/,15787,0,617
+1685852164927,15787,blog-0,301,Moved Permanently,TMSSICT 1-21,text,true,,681,118,46,46,https://tmss-ict.com/blog,15787,0,617
+1685852180713,865,blog-1,200,OK,TMSSICT 1-21,text,true,,81225,119,46,46,https://tmss-ict.com/blog/,574,0,0
+1685852165430,16268,blog,200,OK,TMSSICT 1-26,text,true,,81906,237,45,45,https://tmss-ict.com/blog/,15388,0,612
+1685852165430,15388,blog-0,301,Moved Permanently,TMSSICT 1-26,text,true,,681,118,45,45,https://tmss-ict.com/blog,15388,0,612
+1685852180818,880,blog-1,200,OK,TMSSICT 1-26,text,true,,81225,119,45,45,https://tmss-ict.com/blog/,289,0,0
+1685852165229,16545,blog,200,OK,TMSSICT 1-24,text,true,,81906,237,44,44,https://tmss-ict.com/blog/,15685,0,614
+1685852165229,15685,blog-0,301,Moved Permanently,TMSSICT 1-24,text,true,,681,118,44,44,https://tmss-ict.com/blog,15685,0,614
+1685852180913,861,blog-1,200,OK,TMSSICT 1-24,text,true,,81225,119,44,44,https://tmss-ict.com/blog/,571,0,0
+1685852165628,16914,blog,200,OK,TMSSICT 1-28,text,true,,81906,237,43,43,https://tmss-ict.com/blog/,16074,0,575
+1685852165628,16074,blog-0,301,Moved Permanently,TMSSICT 1-28,text,true,,681,118,43,43,https://tmss-ict.com/blog,16074,0,575
+1685852181702,840,blog-1,200,OK,TMSSICT 1-28,text,true,,81225,119,43,43,https://tmss-ict.com/blog/,559,0,0
+1685852165729,17533,blog,200,OK,TMSSICT 1-29,text,true,,81906,237,42,42,https://tmss-ict.com/blog/,16678,0,593
+1685852165729,16678,blog-0,301,Moved Permanently,TMSSICT 1-29,text,true,,681,118,42,42,https://tmss-ict.com/blog,16678,0,593
+1685852182406,856,blog-1,200,OK,TMSSICT 1-29,text,true,,81225,119,42,42,https://tmss-ict.com/blog/,571,0,0
+1685852165829,20348,blog,200,OK,TMSSICT 1-30,text,true,,81906,237,41,41,https://tmss-ict.com/blog/,19483,0,600
+1685852165829,19483,blog-0,301,Moved Permanently,TMSSICT 1-30,text,true,,681,118,41,41,https://tmss-ict.com/blog,19483,0,600
+1685852185311,866,blog-1,200,OK,TMSSICT 1-30,text,true,,81225,119,41,41,https://tmss-ict.com/blog/,304,0,0
+1685852165928,21427,blog,200,OK,TMSSICT 1-31,text,true,,81906,237,40,40,https://tmss-ict.com/blog/,20582,0,589
+1685852165928,20582,blog-0,301,Moved Permanently,TMSSICT 1-31,text,true,,681,118,40,40,https://tmss-ict.com/blog,20582,0,589
+1685852186509,846,blog-1,200,OK,TMSSICT 1-31,text,true,,81225,119,40,40,https://tmss-ict.com/blog/,563,0,0
+1685852166128,21781,blog,200,OK,TMSSICT 1-33,text,true,,81906,237,39,39,https://tmss-ict.com/blog/,20933,0,580
+1685852166128,20933,blog-0,301,Moved Permanently,TMSSICT 1-33,text,true,,681,118,39,39,https://tmss-ict.com/blog,20933,0,580
+1685852187060,849,blog-1,200,OK,TMSSICT 1-33,text,true,,81225,119,39,39,https://tmss-ict.com/blog/,565,0,0
+1685852166028,21889,blog,200,OK,TMSSICT 1-32,text,true,,81906,237,38,38,https://tmss-ict.com/blog/,21038,0,587
+1685852166028,21038,blog-0,301,Moved Permanently,TMSSICT 1-32,text,true,,681,118,38,38,https://tmss-ict.com/blog,21038,0,587
+1685852187066,851,blog-1,200,OK,TMSSICT 1-32,text,true,,81225,119,38,38,https://tmss-ict.com/blog/,565,0,0
+1685852166230,22128,blog,200,OK,TMSSICT 1-34,text,true,,81906,237,37,37,https://tmss-ict.com/blog/,21278,0,592
+1685852166230,21278,blog-0,301,Moved Permanently,TMSSICT 1-34,text,true,,681,118,37,37,https://tmss-ict.com/blog,21278,0,592
+1685852187507,851,blog-1,200,OK,TMSSICT 1-34,text,true,,81225,119,37,37,https://tmss-ict.com/blog/,285,0,0
+1685852166531,22126,blog,200,OK,TMSSICT 1-37,text,true,,81906,237,36,36,https://tmss-ict.com/blog/,21281,0,593
+1685852166531,21281,blog-0,301,Moved Permanently,TMSSICT 1-37,text,true,,681,118,36,36,https://tmss-ict.com/blog,21281,0,593
+1685852187812,845,blog-1,200,OK,TMSSICT 1-37,text,true,,81225,119,36,36,https://tmss-ict.com/blog/,282,0,0
+1685852166628,22043,blog,200,OK,TMSSICT 1-38,text,true,,81906,237,35,35,https://tmss-ict.com/blog/,21190,0,606
+1685852166628,21190,blog-0,301,Moved Permanently,TMSSICT 1-38,text,true,,681,118,35,35,https://tmss-ict.com/blog,21190,0,606
+1685852187817,854,blog-1,200,OK,TMSSICT 1-38,text,true,,81225,119,35,35,https://tmss-ict.com/blog/,568,0,0
+1685852166428,22246,blog,200,OK,TMSSICT 1-36,text,true,,81906,237,34,34,https://tmss-ict.com/blog/,21390,0,594
+1685852166428,21390,blog-0,301,Moved Permanently,TMSSICT 1-36,text,true,,681,118,34,34,https://tmss-ict.com/blog,21390,0,594
+1685852187818,856,blog-1,200,OK,TMSSICT 1-36,text,true,,81225,119,34,34,https://tmss-ict.com/blog/,286,0,0
+1685852166732,21945,blog,200,OK,TMSSICT 1-39,text,true,,81906,237,33,33,https://tmss-ict.com/blog/,21086,0,598
+1685852166732,21086,blog-0,301,Moved Permanently,TMSSICT 1-39,text,true,,681,118,33,33,https://tmss-ict.com/blog,21086,0,598
+1685852187817,860,blog-1,200,OK,TMSSICT 1-39,text,true,,81225,119,33,33,https://tmss-ict.com/blog/,573,0,0
+1685852167032,21834,blog,200,OK,TMSSICT 1-42,text,true,,81906,237,32,32,https://tmss-ict.com/blog/,20982,0,600
+1685852167032,20982,blog-0,301,Moved Permanently,TMSSICT 1-42,text,true,,681,118,32,32,https://tmss-ict.com/blog,20982,0,600
+1685852188014,852,blog-1,200,OK,TMSSICT 1-42,text,true,,81225,119,32,32,https://tmss-ict.com/blog/,567,0,0
+1685852166931,22253,blog,200,OK,TMSSICT 1-41,text,true,,81906,237,31,31,https://tmss-ict.com/blog/,21381,0,612
+1685852166931,21381,blog-0,301,Moved Permanently,TMSSICT 1-41,text,true,,681,118,31,31,https://tmss-ict.com/blog,21381,0,612
+1685852188312,872,blog-1,200,OK,TMSSICT 1-41,text,true,,81225,119,31,31,https://tmss-ict.com/blog/,290,0,0
+1685852166327,23142,blog,200,OK,TMSSICT 1-35,text,true,,81906,237,30,30,https://tmss-ict.com/blog/,22285,0,586
+1685852166327,22285,blog-0,301,Moved Permanently,TMSSICT 1-35,text,true,,681,118,30,30,https://tmss-ict.com/blog,22285,0,586
+1685852188612,857,blog-1,200,OK,TMSSICT 1-35,text,true,,81225,119,30,30,https://tmss-ict.com/blog/,287,0,0
+1685852166833,23156,blog,200,OK,TMSSICT 1-40,text,true,,81906,237,29,29,https://tmss-ict.com/blog/,22288,0,603
+1685852166833,22288,blog-0,301,Moved Permanently,TMSSICT 1-40,text,true,,681,118,29,29,https://tmss-ict.com/blog,22288,0,603
+1685852189121,868,blog-1,200,OK,TMSSICT 1-40,text,true,,81225,119,29,29,https://tmss-ict.com/blog/,289,0,0
+1685852167232,23557,blog,200,OK,TMSSICT 1-44,text,true,,81906,237,28,28,https://tmss-ict.com/blog/,22682,0,613
+1685852167232,22682,blog-0,301,Moved Permanently,TMSSICT 1-44,text,true,,681,118,28,28,https://tmss-ict.com/blog,22682,0,613
+1685852189914,875,blog-1,200,OK,TMSSICT 1-44,text,true,,81225,119,28,28,https://tmss-ict.com/blog/,582,0,0
+1685852167133,24934,blog,200,OK,TMSSICT 1-43,text,true,,81906,237,27,27,https://tmss-ict.com/blog/,24082,0,595
+1685852167133,24082,blog-0,301,Moved Permanently,TMSSICT 1-43,text,true,,681,118,27,27,https://tmss-ict.com/blog,24082,0,595
+1685852191216,851,blog-1,200,OK,TMSSICT 1-43,text,true,,81225,119,27,27,https://tmss-ict.com/blog/,565,0,0
+1685852167332,26717,blog,200,OK,TMSSICT 1-45,text,true,,81906,237,26,26,https://tmss-ict.com/blog/,25875,0,586
+1685852167332,25875,blog-0,301,Moved Permanently,TMSSICT 1-45,text,true,,681,118,26,26,https://tmss-ict.com/blog,25875,0,586
+1685852193206,843,blog-1,200,OK,TMSSICT 1-45,text,true,,81225,119,26,26,https://tmss-ict.com/blog/,561,0,0
+1685852167431,26841,blog,200,OK,TMSSICT 1-46,text,true,,81906,237,25,25,https://tmss-ict.com/blog/,25979,0,595
+1685852167431,25979,blog-0,301,Moved Permanently,TMSSICT 1-46,text,true,,681,118,25,25,https://tmss-ict.com/blog,25979,0,595
+1685852193409,863,blog-1,200,OK,TMSSICT 1-46,text,true,,81225,119,25,25,https://tmss-ict.com/blog/,573,0,0
+1685852167631,27144,blog,200,OK,TMSSICT 1-48,text,true,,81906,237,24,24,https://tmss-ict.com/blog/,26284,0,597
+1685852167631,26284,blog-0,301,Moved Permanently,TMSSICT 1-48,text,true,,681,118,24,24,https://tmss-ict.com/blog,26284,0,597
+1685852193914,861,blog-1,200,OK,TMSSICT 1-48,text,true,,81225,119,24,24,https://tmss-ict.com/blog/,286,0,0
+1685852168028,27128,blog,200,OK,TMSSICT 1-52,text,true,,81906,237,23,23,https://tmss-ict.com/blog/,26282,0,589
+1685852168028,26282,blog-0,301,Moved Permanently,TMSSICT 1-52,text,true,,681,118,23,23,https://tmss-ict.com/blog,26282,0,589
+1685852194309,847,blog-1,200,OK,TMSSICT 1-52,text,true,,81225,119,23,23,https://tmss-ict.com/blog/,282,0,0
+1685852167530,27717,blog,200,OK,TMSSICT 1-47,text,true,,81906,237,22,22,https://tmss-ict.com/blog/,26878,0,572
+1685852167530,26878,blog-0,301,Moved Permanently,TMSSICT 1-47,text,true,,681,118,22,22,https://tmss-ict.com/blog,26878,0,572
+1685852194408,839,blog-1,200,OK,TMSSICT 1-47,text,true,,81225,119,22,22,https://tmss-ict.com/blog/,558,0,0
+1685852168127,27322,blog,200,OK,TMSSICT 1-53,text,true,,81906,237,21,21,https://tmss-ict.com/blog/,26484,0,584
+1685852168127,26484,blog-0,301,Moved Permanently,TMSSICT 1-53,text,true,,681,118,21,21,https://tmss-ict.com/blog,26484,0,584
+1685852194610,839,blog-1,200,OK,TMSSICT 1-53,text,true,,81225,119,21,21,https://tmss-ict.com/blog/,280,0,0
+1685852167732,27726,blog,200,OK,TMSSICT 1-49,text,true,,81906,237,20,20,https://tmss-ict.com/blog/,26877,0,590
+1685852167732,26877,blog-0,301,Moved Permanently,TMSSICT 1-49,text,true,,681,118,20,20,https://tmss-ict.com/blog,26877,0,590
+1685852194609,849,blog-1,200,OK,TMSSICT 1-49,text,true,,81225,119,20,20,https://tmss-ict.com/blog/,565,0,0
+1685852167828,27638,blog,200,OK,TMSSICT 1-50,text,true,,81906,237,19,19,https://tmss-ict.com/blog/,26785,0,594
+1685852167828,26785,blog-0,301,Moved Permanently,TMSSICT 1-50,text,true,,681,118,19,19,https://tmss-ict.com/blog,26785,0,594
+1685852194612,854,blog-1,200,OK,TMSSICT 1-50,text,true,,81225,119,19,19,https://tmss-ict.com/blog/,569,0,0
+1685852168227,27822,blog,200,OK,TMSSICT 1-54,text,true,,81906,237,18,18,https://tmss-ict.com/blog/,26979,0,578
+1685852168227,26979,blog-0,301,Moved Permanently,TMSSICT 1-54,text,true,,681,118,18,18,https://tmss-ict.com/blog,26979,0,578
+1685852195205,844,blog-1,200,OK,TMSSICT 1-54,text,true,,81225,119,18,18,https://tmss-ict.com/blog/,562,0,0
+1685852167930,28139,blog,200,OK,TMSSICT 1-51,text,true,,81906,237,17,17,https://tmss-ict.com/blog/,27283,0,576
+1685852167930,27283,blog-0,301,Moved Permanently,TMSSICT 1-51,text,true,,681,118,17,17,https://tmss-ict.com/blog,27283,0,576
+1685852195213,856,blog-1,200,OK,TMSSICT 1-51,text,true,,81225,119,17,17,https://tmss-ict.com/blog/,282,0,0
+1685852168327,28345,blog,200,OK,TMSSICT 1-55,text,true,,81906,237,16,16,https://tmss-ict.com/blog/,27488,0,592
+1685852168327,27488,blog-0,301,Moved Permanently,TMSSICT 1-55,text,true,,681,118,16,16,https://tmss-ict.com/blog,27488,0,592
+1685852195814,858,blog-1,200,OK,TMSSICT 1-55,text,true,,81225,119,16,16,https://tmss-ict.com/blog/,285,0,0
+1685852168625,28233,blog,200,OK,TMSSICT 1-58,text,true,,81906,237,15,15,https://tmss-ict.com/blog/,27388,0,575
+1685852168625,27388,blog-0,301,Moved Permanently,TMSSICT 1-58,text,true,,681,118,15,15,https://tmss-ict.com/blog,27388,0,575
+1685852196012,846,blog-1,200,OK,TMSSICT 1-58,text,true,,81225,119,15,15,https://tmss-ict.com/blog/,282,0,0
+1685852168426,28463,blog,200,OK,TMSSICT 1-56,text,true,,81906,237,14,14,https://tmss-ict.com/blog/,27589,0,612
+1685852168426,27589,blog-0,301,Moved Permanently,TMSSICT 1-56,text,true,,681,118,14,14,https://tmss-ict.com/blog,27589,0,612
+1685852196015,874,blog-1,200,OK,TMSSICT 1-56,text,true,,81225,119,14,14,https://tmss-ict.com/blog/,581,0,0
+1685852168524,29232,blog,200,OK,TMSSICT 1-57,text,true,,81906,237,13,13,https://tmss-ict.com/blog/,28385,0,583
+1685852168524,28385,blog-0,301,Moved Permanently,TMSSICT 1-57,text,true,,681,118,13,13,https://tmss-ict.com/blog,28385,0,583
+1685852196908,848,blog-1,200,OK,TMSSICT 1-57,text,true,,81225,119,13,13,https://tmss-ict.com/blog/,283,0,0
+1685852168726,31044,blog,200,OK,TMSSICT 1-59,text,true,,81906,237,12,12,https://tmss-ict.com/blog/,30190,0,601
+1685852168726,30190,blog-0,301,Moved Permanently,TMSSICT 1-59,text,true,,681,118,12,12,https://tmss-ict.com/blog,30190,0,601
+1685852198916,854,blog-1,200,OK,TMSSICT 1-59,text,true,,81225,119,12,12,https://tmss-ict.com/blog/,569,0,0
+1685852168828,32730,blog,200,OK,TMSSICT 1-60,text,true,,81906,237,11,11,https://tmss-ict.com/blog/,31879,0,591
+1685852168828,31879,blog-0,301,Moved Permanently,TMSSICT 1-60,text,true,,681,118,11,11,https://tmss-ict.com/blog,31879,0,591
+1685852200707,851,blog-1,200,OK,TMSSICT 1-60,text,true,,81225,119,11,11,https://tmss-ict.com/blog/,566,0,0
+1685852169226,32413,blog,200,OK,TMSSICT 1-64,text,true,,81906,237,10,10,https://tmss-ict.com/blog/,31579,0,578
+1685852169226,31579,blog-0,301,Moved Permanently,TMSSICT 1-64,text,true,,681,118,10,10,https://tmss-ict.com/blog,31579,0,578
+1685852200805,834,blog-1,200,OK,TMSSICT 1-64,text,true,,81225,119,10,10,https://tmss-ict.com/blog/,555,0,0
+1685852169526,32350,blog,200,OK,TMSSICT 1-67,text,true,,81906,237,9,9,https://tmss-ict.com/blog/,31489,0,595
+1685852169526,31489,blog-0,301,Moved Permanently,TMSSICT 1-67,text,true,,681,118,9,9,https://tmss-ict.com/blog,31489,0,595
+1685852201015,861,blog-1,200,OK,TMSSICT 1-67,text,true,,81225,119,9,9,https://tmss-ict.com/blog/,287,0,0
+1685852168925,33040,blog,200,OK,TMSSICT 1-61,text,true,,81906,237,8,8,https://tmss-ict.com/blog/,32182,0,598
+1685852168925,32182,blog-0,301,Moved Permanently,TMSSICT 1-61,text,true,,681,118,8,8,https://tmss-ict.com/blog,32182,0,598
+1685852201107,858,blog-1,200,OK,TMSSICT 1-61,text,true,,81225,119,8,8,https://tmss-ict.com/blog/,571,0,0
+1685852169028,33041,blog,200,OK,TMSSICT 1-62,text,true,,81906,237,7,7,https://tmss-ict.com/blog/,32187,0,630
+1685852169028,32187,blog-0,301,Moved Permanently,TMSSICT 1-62,text,true,,681,118,7,7,https://tmss-ict.com/blog,32187,0,630
+1685852201215,854,blog-1,200,OK,TMSSICT 1-62,text,true,,81225,119,7,7,https://tmss-ict.com/blog/,567,0,0
+1685852169426,32739,blog,200,OK,TMSSICT 1-66,text,true,,81906,237,6,6,https://tmss-ict.com/blog/,31893,0,573
+1685852169426,31893,blog-0,301,Moved Permanently,TMSSICT 1-66,text,true,,681,118,6,6,https://tmss-ict.com/blog,31893,0,573
+1685852201319,846,blog-1,200,OK,TMSSICT 1-66,text,true,,81225,119,6,6,https://tmss-ict.com/blog/,563,0,0
+1685852169654,32601,blog,200,OK,TMSSICT 1-68,text,true,,81906,237,5,5,https://tmss-ict.com/blog/,31755,0,581
+1685852169654,31755,blog-0,301,Moved Permanently,TMSSICT 1-68,text,true,,681,118,5,5,https://tmss-ict.com/blog,31755,0,581
+1685852201409,846,blog-1,200,OK,TMSSICT 1-68,text,true,,81225,119,5,5,https://tmss-ict.com/blog/,562,0,0
+1685852169724,32548,blog,200,OK,TMSSICT 1-69,text,true,,81906,237,4,4,https://tmss-ict.com/blog/,31693,0,583
+1685852169724,31693,blog-0,301,Moved Permanently,TMSSICT 1-69,text,true,,681,118,4,4,https://tmss-ict.com/blog,31693,0,583
+1685852201417,855,blog-1,200,OK,TMSSICT 1-69,text,true,,81225,119,4,4,https://tmss-ict.com/blog/,569,0,0
+1685852169127,33219,blog,200,OK,TMSSICT 1-63,text,true,,81906,237,3,3,https://tmss-ict.com/blog/,32378,0,576
+1685852169127,32378,blog-0,301,Moved Permanently,TMSSICT 1-63,text,true,,681,118,3,3,https://tmss-ict.com/blog,32378,0,576
+1685852201505,841,blog-1,200,OK,TMSSICT 1-63,text,true,,81225,119,3,3,https://tmss-ict.com/blog/,279,0,0
+1685852169332,33234,blog,200,OK,TMSSICT 1-65,text,true,,81906,237,2,2,https://tmss-ict.com/blog/,32381,0,621
+1685852169332,32381,blog-0,301,Moved Permanently,TMSSICT 1-65,text,true,,681,118,2,2,https://tmss-ict.com/blog,32381,0,621
+1685852201714,852,blog-1,200,OK,TMSSICT 1-65,text,true,,81225,119,2,2,https://tmss-ict.com/blog/,283,0,0
+1685852169825,32850,blog,200,OK,TMSSICT 1-70,text,true,,81906,237,1,1,https://tmss-ict.com/blog/,31993,0,584
+1685852169825,31993,blog-0,301,Moved Permanently,TMSSICT 1-70,text,true,,681,118,1,1,https://tmss-ict.com/blog,31993,0,584
+1685852201819,856,blog-1,200,OK,TMSSICT 1-70,text,true,,81225,119,1,1,https://tmss-ict.com/blog/,570,0,0
